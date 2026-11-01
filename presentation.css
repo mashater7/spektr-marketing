@@ -119,3 +119,23 @@ html{scroll-padding-block-start:100px}
 }
 
 .page-intro>.decision-card{margin-block:18px 14px}
+
+/* Research decisions: visible evidence and a numbered, finite shortlist. */
+.research-date{font-size:13px!important;line-height:1.6;margin-top:14px!important}
+.hypothesis-index{list-style:none;padding:0;margin:22px 0;border-top:1px solid var(--line)}
+.hypothesis-index li{display:grid;grid-template-columns:155px minmax(0,1fr);gap:22px;padding:19px 0;border-bottom:1px solid var(--line)}
+.hypothesis-index a{text-decoration-thickness:1px;text-underline-offset:4px}
+.hypothesis-index p{margin:6px 0 0;font-size:14px;color:#4c5962;max-width:76ch}
+.hypothesis-state{font-size:11px;letter-spacing:.06em;font-weight:800;padding-top:4px;color:#58636c}
+.hypothesis-state.priority{color:#335235}
+.research-explanation{font-size:15px;line-height:1.65;max-width:88ch;color:#3d4b54}
+.hypothesis-evidence{padding:4px 21px 16px}
+.hypothesis-evidence p{font-size:14px;line-height:1.65;margin:13px 0}
+.page-content .yh-test header p{font-size:15px}
+.research-decision{background:var(--white);border:1px solid var(--line);border-radius:12px;padding:20px 24px;margin:22px 0}
+.research-decision h3{font:600 25px Georgia,serif;margin:0 0 16px}
+.research-decision li{padding:5px 0;line-height:1.65}
+.research-decision p{font-size:14px;line-height:1.65}
+.method-takeaways{margin:18px 0 24px;border-left:3px solid #879b72;padding:0 0 0 18px;max-width:90ch;font-size:15px;line-height:1.65}
+#h1,#h2,#h3,#h4,#h5,#h6{scroll-margin-top:150px}
+@media(max-width:650px){.hypothesis-index li{grid-template-columns:minmax(0,1fr);gap:7px}.hypothesis-evidence{padding:0 16px 12px}.research-decision{padding:18px 16px}.research-decision ol{padding-left:20px}.method-takeaways{font-size:14px}}
