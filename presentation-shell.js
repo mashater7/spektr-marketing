@@ -5,7 +5,7 @@
   const localMenu = document.querySelector('.deck-local-menu');
   const expand = document.querySelector('.deck-expand');
   const progress = document.querySelector('.deck-progress > span');
-  const disclosure = [...document.querySelectorAll('.page-content details, .page-intro .deck-context')];
+  const disclosure = [...document.querySelectorAll('.research-archive, .page-content details, .page-intro .deck-context')];
   document.querySelectorAll('table.deck-responsive-table').forEach(table => {
     const labels = [...table.querySelectorAll('thead th')].map(cell => cell.textContent.trim());
     table.querySelectorAll('tbody tr').forEach(row => {
@@ -23,22 +23,22 @@
     const open = toggle.getAttribute('aria-expanded') !== 'true';
     menu.classList.toggle('is-open', open);
     toggle.setAttribute('aria-expanded', String(open));
-    if (open) localMenu.open = false;
+    if (open && localMenu) localMenu.open = false;
   });
   menu.addEventListener('click', event => { if (event.target.closest('a')) closeMenu(); });
   document.addEventListener('keydown', event => {
     if (event.key !== 'Escape') return;
     if (menu.classList.contains('is-open')) { closeMenu(); toggle.focus(); }
-    if (localMenu.open) { localMenu.open = false; localMenu.querySelector('summary').focus(); }
+    if (localMenu?.open) { localMenu.open = false; localMenu.querySelector('summary').focus(); }
   });
   document.addEventListener('click', event => {
-    if (!localMenu.contains(event.target)) localMenu.open = false;
+    if (localMenu && !localMenu.contains(event.target)) localMenu.open = false;
     if (!menu.contains(event.target) && !toggle.contains(event.target)) closeMenu();
   });
-  localMenu.addEventListener('click', event => {
+  localMenu?.addEventListener('click', event => {
     if (event.target.closest('a')) localMenu.open = false;
   });
-  expand.addEventListener('click', () => {
+  expand?.addEventListener('click', () => {
     const open = expand.getAttribute('aria-expanded') !== 'true';
     disclosure.forEach(detail => { detail.open = open; });
     expand.setAttribute('aria-expanded', String(open));
@@ -67,8 +67,8 @@
   });
 
   let scheduled = false;
-  const sections = [...document.querySelectorAll('.page-content>.deck-section')];
-  const localLinks = [...localMenu.querySelectorAll('a')];
+  const sections = [...document.querySelectorAll('.plain-showcase>section, .page-content>.deck-section')];
+  const localLinks = [...(localMenu?.querySelectorAll('a') || [])];
   function updateProgress() {
     scheduled = false;
     const range = document.documentElement.scrollHeight - innerHeight;
