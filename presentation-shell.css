@@ -286,3 +286,16 @@ html { scroll-padding-top: 0; }
   .deck-summary { break-inside: avoid; }
   .presentation .page-content>.deck-section { break-before: auto; }
 }
+.owned-example-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 24px; margin: 28px 0; }
+.owned-example-grid figure { margin: 0; padding: 20px; background: var(--white); border: 1px solid var(--line); border-radius: 12px; }
+.owned-example-grid img { display: block; width: 100%; height: 280px; object-fit: contain; background: #f2f1eb; }
+.owned-example-grid figcaption { padding-top: 16px; }
+.owned-example-grid figcaption a { font-weight: 650; }
+@media(min-width:851px) {
+  .deck-explainer-table { table-layout: fixed; width: 100%; }
+  .deck-explainer-table th:first-child { width: 22%; }
+  .deck-explainer-table th:not(:first-child) { width: 39%; }
+  #community-audit .deck-explainer-table th:nth-child(2) { width: 24%; }
+  #community-audit .deck-explainer-table th:nth-child(3) { width: 54%; }
+}
+@media(max-width:850px) { .owned-example-grid { grid-template-columns: 1fr; } .owned-example-grid img { height: 240px; } }
