@@ -7,3 +7,16 @@ html{scroll-padding-top:74px}body{background:var(--bg);color:var(--ink);font:14p
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
 .channel-grid,.creative-five{grid-template-columns:repeat(2,minmax(0,1fr))}.channel-grid>*{min-width:0}.channel-card{min-width:0}.compact{max-width:100%;min-width:0}
 @media(max-width:620px){.channel-grid,.creative-five{grid-template-columns:minmax(0,1fr)}}
+
+/* Clear, labeled navigation across the research site */
+.topin{height:auto;min-height:62px;flex-wrap:wrap;padding-top:9px;padding-bottom:9px;gap:8px 18px}
+.nav{display:flex;flex:1 1 100%;order:3;justify-content:center;flex-wrap:wrap;gap:6px;overflow:visible;white-space:normal}
+.nav a{display:inline-flex;align-items:center;justify-content:center;padding:7px 10px;background:#fff;border:1px solid #dbdbdb;border-radius:9px;color:#404040;font-size:11px;font-weight:650;line-height:1.2;text-decoration:none}
+.nav a:hover,.nav a:focus-visible{border-color:#c13584;color:#833ab4;outline:none}
+.story-nav{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;padding:12px;margin-bottom:14px;overflow:visible}
+.story-nav::before{content:'БЫСТРЫЙ ПЕРЕХОД';grid-column:1/-1;color:#737373;font-size:10px;font-weight:800;letter-spacing:.09em}
+.story{display:grid;grid-template-columns:34px minmax(0,1fr);grid-template-rows:auto auto;column-gap:9px;align-items:center;min-width:0;padding:9px;border:1px solid #e6e6e6;border-radius:9px;text-align:left;font-size:11px;line-height:1.25}
+.story-ring{grid-row:1/3;width:30px;height:30px;margin:0;padding:0;border-radius:50%;display:grid;place-items:center;background:linear-gradient(135deg,#833ab4,#c13584 55%,#f77737);color:white;font-weight:800;font-size:10px}
+.story b{display:block;color:#262626;font-size:11px}.story small{display:block;color:#737373;font-size:10px;line-height:1.25}
+@media(max-width:900px){.nav{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));justify-content:stretch;gap:6px}.nav a{min-height:34px;padding:6px 5px;text-align:center}.topin{gap:7px}.story-nav{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:580px){.topin{padding-top:8px;padding-bottom:8px}.nav{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));}.nav a{font-size:10px}.story-nav{grid-template-columns:repeat(2,minmax(0,1fr));padding:10px}.story{padding:8px}.story b{font-size:10px}}
