@@ -1,0 +1,63 @@
+{
+  "review_date": "2026-11-02",
+  "status": "PASS",
+  "scope": "Static HTML/links/evidence checks; no browser rendering or external URL availability claim",
+  "local_html_links_checked": 62,
+  "ad_rows": 15,
+  "external_posts": 12,
+  "barkov_posts": 3,
+  "visible_offer_groups": 11,
+  "duplicate_ids": [],
+  "images_have_alt": true,
+  "source_copy_hashes": [
+    {
+      "id": "vk-01",
+      "archive_matches_site": true
+    },
+    {
+      "id": "vk-02",
+      "archive_matches_site": true
+    },
+    {
+      "id": "vk-03",
+      "archive_matches_site": true
+    },
+    {
+      "id": "vk-04",
+      "archive_matches_site": true
+    },
+    {
+      "id": "vk-05",
+      "archive_matches_site": true
+    },
+    {
+      "id": "vk-06",
+      "archive_matches_site": true
+    },
+    {
+      "id": "vk-07",
+      "archive_matches_site": true
+    },
+    {
+      "id": "vk-08",
+      "archive_matches_site": true
+    },
+    {
+      "id": "vk-09",
+      "archive_matches_site": true
+    },
+    {
+      "id": "vk-10",
+      "archive_matches_site": true
+    },
+    {
+      "id": "vk-11",
+      "archive_matches_site": true
+    },
+    {
+      "id": "vk-13",
+      "archive_matches_site": true
+    }
+  ],
+  "problems": []
+}

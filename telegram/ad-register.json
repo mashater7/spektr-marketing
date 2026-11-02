@@ -1,0 +1,1699 @@
+{
+  "asof": "2026-11-02",
+  "scope": "competitor_public_ad_research; not own-account performance audit",
+  "score_state": "NOT_SCORED",
+  "counts": {
+    "unique_post_urls": 23,
+    "publisher_channels": 13,
+    "publication_years": {
+      "2026": 20,
+      "2025": 3
+    },
+    "over_365_days": 2
+  },
+  "deduplication": "case-insensitive Telegram post URL; repetition groups are editorial groupings, not identical creative claims",
+  "ads": [
+    {
+      "id": "smartmice-newyear",
+      "new_in_this_audit": false,
+      "advertiser": "SMARTMICE: пять идей для корпоратива",
+      "publisher": "Event ru – все про ивенты и эвенты",
+      "url": "https://t.me/TheBestOfEventRu/10183",
+      "date": "2026-09-21T09:32:52+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "Кто сказал, что подготовка новогоднего корпоратива должна идти в режиме постоянного аврала?\nКогда концепция определена заранее, проще согласовывать площадку, программу, подрядчиков и бюджет. В помощь event-менеджерам команда SMARTMICE собрала\n5 готовых идей для празднования Нового года\nв бесплатном гайде\n.\nВнутри — только полезный контент:\n— полностью готовые концепции вместо недель поиска референсов;\n— продуманные сценарии с оформлением, музыкой, дресс-кодом и активностями;\n— рекомендации SMARTMICE, как адаптировать идею под бюджет и масштаб мероприятия.\n5 разных идей помогут организовать праздник под разные интересы, возраст и ожидания сотрудников — от зрелищного шоу до командного приключения.\nСкачивайте гайд\nпо ссылке\nи делитесь им с командой.",
+      "full_text_source": "public_embed",
+      "marking": [
+        "tm_campaign=thebestofeventru&amp;utm_content=5_koncepciy_novogodnego_korporativa_2027&amp;erid=2VtzquxHHdE",
+        "tm_campaign=thebestofeventru&amp;utm_content=5_koncepciy_novogodnego_korporativa_2027&amp;erid=2VtzquxHHdE"
+      ],
+      "erid": [
+        "2VtzquxHHdE"
+      ],
+      "views_display": "1.11K",
+      "reactions": [
+        "❤ 4",
+        "🔥 4",
+        "⚡ 3",
+        "👍 2",
+        "👏 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "links": [
+        {
+          "text": "в бесплатном гайде",
+          "href": "https://smartmice.tech/5-koncepciy-novogodnego-korporativa-2027?utm_source=tg&amp;utm_medium=content&amp;utm_campaign=thebestofeventru&amp;utm_content=5_koncepciy_novogodnego_korporativa_2027&amp;erid=2VtzquxHHdE"
+        },
+        {
+          "text": "по ссылке",
+          "href": "https://smartmice.tech/5-koncepciy-novogodnego-korporativa-2027?utm_source=tg&amp;utm_medium=content&amp;utm_campaign=thebestofeventru&amp;utm_content=5_koncepciy_novogodnego_korporativa_2027&amp;erid=2VtzquxHHdE"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "в бесплатном гайде",
+          "original_url": "https://smartmice.tech/5-koncepciy-novogodnego-korporativa-2027?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=5_koncepciy_novogodnego_korporativa_2027&erid=2VtzquxHHdE",
+          "status": 403,
+          "final_url": "https://smartmice.tech/5-koncepciy-novogodnego-korporativa-2027?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=5_koncepciy_novogodnego_korporativa_2027&erid=2VtzquxHHdE",
+          "title": "403",
+          "error": null,
+          "access": "blocked"
+        },
+        {
+          "label": "по ссылке",
+          "original_url": "https://smartmice.tech/5-koncepciy-novogodnego-korporativa-2027?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=5_koncepciy_novogodnego_korporativa_2027&erid=2VtzquxHHdE",
+          "status": 403,
+          "final_url": "https://smartmice.tech/5-koncepciy-novogodnego-korporativa-2027?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=5_koncepciy_novogodnego_korporativa_2027&erid=2VtzquxHHdE",
+          "title": "403",
+          "error": null,
+          "access": "blocked"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-smartmice-newyear-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/smartmice-newyear-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Event-менеджер, которому нужно подготовить корпоратив. Эта аудитория названа на макете.",
+      "repetition_group": "smartmice-newyear-guide",
+      "publication_identity": "https://t.me/thebestofeventru/10183",
+      "text_sha256": "5753b8db7f7d6175c2236a17fe62530fa4200ea3078a8f08685c3c6b61e4377d",
+      "age_days_asof": 42,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/smartmice-newyear.png"
+    },
+    {
+      "id": "smartmice-season",
+      "new_in_this_audit": false,
+      "advertiser": "SMARTMICE: сезонность и срочность",
+      "publisher": "Event ru – все про ивенты и эвенты",
+      "url": "https://t.me/TheBestOfEventRu/10219",
+      "date": "2026-09-23T09:30:49+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "А вы знали, что наценка за срочность при подготовке события доходит до 50%?\nГлавная ошибка при планировании корпоративных событий, которая сливает бюджет — недооценка сроков подготовки.\n❗️\nВ высокий сезон это особенно критично: площадки и подрядчики быстрее становятся недоступны, бюджет растет, а решения приходится пересматривать на ходу.\nПроверить план команды поможет\nбесплатный гайд\nот онлайн-сервиса SMARTMICE. Внутри — реальные кейсы, таблицы, а также ответы на вопросы:\n—\nСколько времени\nнужно на подготовку событий разного масштаба.\n—\nЧто учитывать при организации мероприятий в России и за границей\n: визы, перелеты, погодные и сезонные ограничения.\n—\nКак городские события могут помешать вам\nи что с этим делать.\nСверьтесь с гайдом, чтобы мероприятия проходили\nв срок и в рамках бюджета\n.\nСкачайте файл бесплатно\nи поделитесь им с командой.",
+      "full_text_source": "public_embed",
+      "marking": [
+        ";utm_medium=content&amp;utm_campaign=thebestofeventru&amp;utm_content=guide_sezonnost&amp;erid=2VtzquyTA7v",
+        ";utm_medium=content&amp;utm_campaign=thebestofeventru&amp;utm_content=guide_sezonnost&amp;erid=2VtzquyTA7v"
+      ],
+      "erid": [
+        "2VtzquyTA7v"
+      ],
+      "views_display": "1.21K",
+      "reactions": [
+        "❤ 4",
+        "🔥 4",
+        "⚡ 3",
+        "👍 2",
+        "🎉 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "links": [
+        {
+          "text": "бесплатный гайд",
+          "href": "https://smartmice.tech/guide-sezonnost?utm_source=tg&amp;utm_medium=content&amp;utm_campaign=thebestofeventru&amp;utm_content=guide_sezonnost&amp;erid=2VtzquyTA7v"
+        },
+        {
+          "text": "Скачайте файл бесплатно",
+          "href": "https://smartmice.tech/guide-sezonnost?utm_source=tg&amp;utm_medium=content&amp;utm_campaign=thebestofeventru&amp;utm_content=guide_sezonnost&amp;erid=2VtzquyTA7v"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "бесплатный гайд",
+          "original_url": "https://smartmice.tech/guide-sezonnost?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=guide_sezonnost&erid=2VtzquyTA7v",
+          "status": 200,
+          "final_url": "https://smartmice.tech/guide-sezonnost?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=guide_sezonnost&erid=2VtzquyTA7v",
+          "title": "Как подготовить событие без наценки за срочность",
+          "error": null,
+          "access": "read"
+        },
+        {
+          "label": "Скачайте файл бесплатно",
+          "original_url": "https://smartmice.tech/guide-sezonnost?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=guide_sezonnost&erid=2VtzquyTA7v",
+          "status": 200,
+          "final_url": "https://smartmice.tech/guide-sezonnost?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=guide_sezonnost&erid=2VtzquyTA7v",
+          "title": "Как подготовить событие без наценки за срочность",
+          "error": null,
+          "access": "read"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-smartmice-season-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/smartmice-season-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Организатор, который планирует сроки и бюджет события.",
+      "repetition_group": "smartmice-season-guide",
+      "publication_identity": "https://t.me/thebestofeventru/10219",
+      "text_sha256": "26e324cc5f626638e56c45a3dc1227bfaa872f09f9a56f40d99ca7cd43934c53",
+      "age_days_asof": 40,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/smartmice-season.png"
+    },
+    {
+      "id": "smartmice-catalog1",
+      "new_in_this_audit": false,
+      "advertiser": "SMARTMICE: каталог из 20 концепций",
+      "publisher": "Event ru – все про ивенты и эвенты",
+      "url": "https://t.me/TheBestOfEventRu/10275",
+      "date": "2026-10-01T09:34:17+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "Решите вопрос с идеями для мероприятий на год вперед\nВ помощь event-менеджерам команда SMARTMICE выпустила\nбольшой бесплатный каталог\nс 20 готовыми концепциями деловых событий\n.\nВнутри — 118 страниц полезного контента:\n—\nидеи для главных событий года\n— от новогоднего корпоратива до поощрительной поездки на Камчатку;\n—\nдетально проработанные концепции\nсо списком активностей, идеями дресс-кода и шоу-программой;\n—\nрекомендации SMARTMICE, а не ИИ\n— по экономии бюджета, вовлечению участников и оценке результата.\nКонцепции можно адаптировать под масштаб и бюджет, а отдельные механики — комбинировать между собой. Получится\nзапас решений не на один сезон, а на 5 лет вперед.\nСкачивайте каталог\nпо ссылке\nи делитесь им с командой.",
+      "full_text_source": "public_embed",
+      "marking": [
+        "content&amp;utm_campaign=thebestofeventru&amp;utm_content=catalog_koncepciy_september&amp;erid=2VtzqxQiS68",
+        "content&amp;utm_campaign=thebestofeventru&amp;utm_content=catalog_koncepciy_september&amp;erid=2VtzqxQiS68"
+      ],
+      "erid": [
+        "2VtzqxQiS68"
+      ],
+      "views_display": "1.14K",
+      "reactions": [
+        "❤ 5",
+        "👍 4",
+        "⚡ 3",
+        "🔥 1",
+        "🎉 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "links": [
+        {
+          "text": "большой бесплатный каталог",
+          "href": "https://smartmice.tech/catalog-koncepciy?utm_source=tg&amp;utm_medium=content&amp;utm_campaign=thebestofeventru&amp;utm_content=catalog_koncepciy_september&amp;erid=2VtzqxQiS68"
+        },
+        {
+          "text": "по ссылке",
+          "href": "https://smartmice.tech/catalog-koncepciy?utm_source=tg&amp;utm_medium=content&amp;utm_campaign=thebestofeventru&amp;utm_content=catalog_koncepciy_september&amp;erid=2VtzqxQiS68"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "большой бесплатный каталог",
+          "original_url": "https://smartmice.tech/catalog-koncepciy?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=catalog_koncepciy_september&erid=2VtzqxQiS68",
+          "status": 200,
+          "final_url": "https://smartmice.tech/catalog-koncepciy?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=catalog_koncepciy_september&erid=2VtzqxQiS68",
+          "title": "Найдите идею для любого мероприятия компании",
+          "error": null,
+          "access": "read"
+        },
+        {
+          "label": "по ссылке",
+          "original_url": "https://smartmice.tech/catalog-koncepciy?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=catalog_koncepciy_september&erid=2VtzqxQiS68",
+          "status": 200,
+          "final_url": "https://smartmice.tech/catalog-koncepciy?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=catalog_koncepciy_september&erid=2VtzqxQiS68",
+          "title": "Найдите идею для любого мероприятия компании",
+          "error": null,
+          "access": "read"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-smartmice-catalog1-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/smartmice-catalog1-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Ивент-менеджер, собирающий идеи на будущие мероприятия.",
+      "repetition_group": "smartmice-catalog",
+      "publication_identity": "https://t.me/thebestofeventru/10275",
+      "text_sha256": "b9e378c8e2ab480769cdfd10fe6a12310a88d463f38a0d42589ff88c82b4c896",
+      "age_days_asof": 32,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/smartmice-catalog1.png"
+    },
+    {
+      "id": "smartmice-catalog2",
+      "new_in_this_audit": false,
+      "advertiser": "SMARTMICE: тот же каталог с другим заходом",
+      "publisher": "Event ru – все про ивенты и эвенты",
+      "url": "https://t.me/TheBestOfEventRu/10334",
+      "date": "2026-10-09T09:33:33+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "Нужно срочно придумать концепцию мероприятия, а идей пока нет?\nКоманда SMARTMICE собрала в\nбесплатном каталоге\n20 готовых идей, чтобы вы быстрее находили решения под новые запросы и сразу переходили к подготовке.\nВнутри —\n118 страниц полезного контента\n:\n-\nидеи для значимых событий года\n— от новогоднего корпоратива до поощрительной поездки на Камчатку;\n-\nдетально проработанные концепции\nсо списком активностей, идеями дресс-кода и шоу-программой;\n-\nрекомендации экспертов, а не ИИ\nпо экономии бюджета, вовлечению участников и оценке результата.\nБесплатный каталог сэкономит время на поиске референсов, чтобы вы сконцентрировались на организации мероприятия.\nСкачивайте файл по ссылке\nи делитесь им с командой.",
+      "full_text_source": "public_embed",
+      "marking": [
+        "m=content&amp;utm_campaign=thebestofeventru&amp;utm_content=catalog_koncepciy_october&amp;erid=2VtzqvvaCpU",
+        "m=content&amp;utm_campaign=thebestofeventru&amp;utm_content=catalog_koncepciy_october&amp;erid=2VtzqvvaCpU"
+      ],
+      "erid": [
+        "2VtzqvvaCpU"
+      ],
+      "views_display": "1.17K",
+      "reactions": [
+        "⚡ 5",
+        "👍 4",
+        "🔥 3",
+        "🤪 3",
+        "👏 2",
+        "🤣 2",
+        "❤ 1",
+        "🎉 1",
+        "👀 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "links": [
+        {
+          "text": "бесплатном каталоге",
+          "href": "https://smartmice.tech/catalog-koncepciy?utm_source=tg&amp;utm_medium=content&amp;utm_campaign=thebestofeventru&amp;utm_content=catalog_koncepciy_october&amp;erid=2VtzqvvaCpU"
+        },
+        {
+          "text": "Скачивайте файл по ссылке",
+          "href": "https://smartmice.tech/catalog-koncepciy?utm_source=tg&amp;utm_medium=content&amp;utm_campaign=thebestofeventru&amp;utm_content=catalog_koncepciy_october&amp;erid=2VtzqvvaCpU"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "бесплатном каталоге",
+          "original_url": "https://smartmice.tech/catalog-koncepciy?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=catalog_koncepciy_october&erid=2VtzqvvaCpU",
+          "status": 200,
+          "final_url": "https://smartmice.tech/catalog-koncepciy?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=catalog_koncepciy_october&erid=2VtzqvvaCpU",
+          "title": "Найдите идею для любого мероприятия компании",
+          "error": null,
+          "access": "read"
+        },
+        {
+          "label": "Скачивайте файл по ссылке",
+          "original_url": "https://smartmice.tech/catalog-koncepciy?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=catalog_koncepciy_october&erid=2VtzqvvaCpU",
+          "status": 200,
+          "final_url": "https://smartmice.tech/catalog-koncepciy?utm_source=tg&utm_medium=content&utm_campaign=thebestofeventru&utm_content=catalog_koncepciy_october&erid=2VtzqvvaCpU",
+          "title": "Найдите идею для любого мероприятия компании",
+          "error": null,
+          "access": "read"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-smartmice-catalog2-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/smartmice-catalog2-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Тот же тип организатора; новая формулировка обращается к срочной нехватке идей.",
+      "repetition_group": "smartmice-catalog",
+      "publication_identity": "https://t.me/thebestofeventru/10334",
+      "text_sha256": "228c7c29ba7b64fc4f58f7a8d29b28bbfa31758c823e9d063a654d80f3b26aa8",
+      "age_days_asof": 24,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/smartmice-catalog2.png"
+    },
+    {
+      "id": "wize",
+      "new_in_this_audit": false,
+      "advertiser": "Wize: один договор и документы",
+      "publisher": "Ивент идеи",
+      "url": "https://t.me/eventideasaroundtheworld/3377",
+      "date": "2026-10-27",
+      "verification": "confirmed_archival_marked",
+      "full_text": "«Отправить сотрудников на конференцию» — звучит как простая задача.\n\nПока не начинаются отдельные договоры, счета и поиски закрывающих документов. Хорошо бы, чтобы организационные вопросы решались так же легко, как выбор мероприятия.\n\nНа Wize — конференции, форумы, выставки и другие деловые события. В кабинете компании можно покупать билеты для сотрудников по счёту, работать со всеми организаторами по одному договору и получать закрывающие документы.\n\nСоздайте кабинет компании до15 ноября и получите скидку до10000₽ на первую покупку.\n\nКоманде — новые впечатления и полезные знакомства. Бухгалтерии — документы в одном сервисе. Вам — чуть больше спокойствия 🧡\n\n👉 Найдите мероприятие для сотрудников на Wize\n\nРеклама. ООО \"СМАРТМАЙС\". ИНН9714078224.",
+      "full_text_source": "manual_transcription_of_saved_full_screenshot",
+      "marking": [
+        "Реклама. ООО СМАРТМАЙС. ИНН9714078224 (низ сохранённого снимка)"
+      ],
+      "erid": [],
+      "views_display": "596",
+      "reactions": [
+        "❤3",
+        "👍3",
+        "🔥2",
+        "🥰1"
+      ],
+      "metrics_asof": "archival_screenshot; capture_date_not_established",
+      "category": "event_adjacent",
+      "relevance_note": "Историческое внешнее рекламное объявление; текущие просмотры неизвестны. Причина недоступности не установлена. Рекламодатель совпадает с SMARTMICE по названию ООО/ИНН, но это отдельный продукт Wize.",
+      "links": [],
+      "cta_review": [
+        {
+          "label": "Найдите мероприятие для сотрудников на Wize",
+          "access": "historical_image_only",
+          "note": "Точный href по удалённому оригиналу не восстановлен; не выдуман."
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-wize-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/wize-original.html",
+      "live_access": "Post not found02.11.2026",
+      "screenshot_exists": true,
+      "audience_interpretation": "Сотрудник компании, оформляющий участие коллег в конференциях.",
+      "repetition_group": "wize",
+      "publication_identity": "https://t.me/eventideasaroundtheworld/3377",
+      "text_sha256": "5c2f3b42bcc7d2a040150e6786749de78bae16d0541827726a106bc11ee863ff",
+      "age_days_asof": 6,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/wize.png"
+    },
+    {
+      "id": "silavetra",
+      "new_in_this_audit": false,
+      "advertiser": "Сила ветра: корпоративная регата",
+      "publisher": "ИВЕНТ ИДЕИ",
+      "url": "https://t.me/eventideasaroundtheworld/3294",
+      "date": "2026-04-23T07:22:51+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "Ищите необычный формат летнего мероприятия, который точно удивит клиентов?\nУ нас есть идея!\nКорпоративная регата с Силой ветра\n- идеальный сценарий для события любого масштаба: корпоратива большой команды или камерного ивента.\nФормат, который точно выделит ваше событие и оставит сильное впечатление у участников.\nВ дополнение к регате - удобные площадки, лекции и мастер-классы, возможности брендирования.\nГотовое решение для мероприятия любого формата и разных задач:\n- тимбилдинги и корпоративы\n- деловые мероприятия и имиджевые события\n- камерные праздники\nСезон летних мероприятий уже скоро, подарите вашим клиентам новый опыт!\nCпланируйте мероприятие под парусом с Cилой ветра\n📍\nЛокации: Москва, Санкт-Петербург, Нижний Новгород, Ярославль, Казань, Сочи, Владивосток, Дубай",
+      "full_text_source": "public_embed",
+      "marking": [
+        "m=bloggers&amp;utm_campaign=b2b__world&amp;utm_term=23.04.2016&amp;utm_content=paid_post_?erid=2W5zFH1zWJm"
+      ],
+      "erid": [
+        "2W5zFH1zWJm"
+      ],
+      "views_display": "2.01K",
+      "reactions": [
+        "🔥 7",
+        "❤ 4",
+        "👍 4",
+        "🤮 1",
+        "💩 1",
+        "🤡 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "links": [
+        {
+          "text": "Корпоративная регата с Силой ветра",
+          "href": "https://silavetra.com/corporate?utm_source=telegram.org&amp;utm_medium=bloggers&amp;utm_campaign=b2b__world&amp;utm_term=23.04.2016&amp;utm_content=paid_post_?erid=2W5zFH1zWJm"
+        },
+        {
+          "text": "Cпланируйте мероприятие под парусом с Cилой ветра",
+          "href": "https://silavetra.com/corporate?utm_source=telegram.org&amp;utm_medium=bloggers&amp;utm_campaign=b2b__world&amp;utm_term=23.04.2016&amp;utm_content=paid_post_"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "Корпоративная регата с Силой ветра",
+          "original_url": "https://silavetra.com/corporate?utm_source=telegram.org&utm_medium=bloggers&utm_campaign=b2b__world&utm_term=23.04.2016&utm_content=paid_post_?erid=2W5zFH1zWJm",
+          "status": 200,
+          "final_url": "https://silavetra.com/corporate?utm_source=telegram.org&utm_medium=bloggers&utm_campaign=b2b__world&utm_term=23.04.2016&utm_content=paid_post_?erid=2W5zFH1zWJm",
+          "title": "Корпоратив под парусом | Бизнес-регаты с яхт-клубом Сила ветра",
+          "error": null,
+          "access": "read"
+        },
+        {
+          "label": "Cпланируйте мероприятие под парусом с Cилой ветра",
+          "original_url": "https://silavetra.com/corporate?utm_source=telegram.org&utm_medium=bloggers&utm_campaign=b2b__world&utm_term=23.04.2016&utm_content=paid_post_",
+          "status": 200,
+          "final_url": "https://silavetra.com/corporate?utm_source=telegram.org&utm_medium=bloggers&utm_campaign=b2b__world&utm_term=23.04.2016&utm_content=paid_post_",
+          "title": "Корпоратив под парусом | Бизнес-регаты с яхт-клубом Сила ветра",
+          "error": null,
+          "access": "read"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-silavetra-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/silavetra-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Организатор корпоративного мероприятия; в тексте названы команды и клиенты.",
+      "repetition_group": "silavetra",
+      "publication_identity": "https://t.me/eventideasaroundtheworld/3294",
+      "text_sha256": "9d7e2b6d913d7ccddd98286aec1da995c0bc07b050444d875ba214a58e1ba4ed",
+      "age_days_asof": 193,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/silavetra.png"
+    },
+    {
+      "id": "volodin",
+      "new_in_this_audit": false,
+      "advertiser": "Продакшн Валерия Володина: рекламный кейс",
+      "publisher": "Event ru – все про ивенты и эвенты",
+      "url": "https://t.me/TheBestOfEventRu/10019",
+      "date": "2026-08-27T09:31:40+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "Недавно увидели кейс церемонии награждения конкурса управленцев «Лидеры России. Команда».\nПроект большого масштаба: площадка — Национальный центр «Россия», среди гостей — первые лица страны, сложная многослойная постановка.\nВнимание тут привлекает не только статус события, но и цельность режиссёрского решения:\nв основе церемонии — концепция «Путь высоты», которая раскрывается через образ восхождения лидера и его пути.\nСимфонический оркестр, хор, балет и российские артисты как часть единого действия в четырех эпизодах — о единстве, идее, ценностях и искусстве, которые последовательно складывались в общую драматургию церемонии.\nРежиссёрский продакшн проекта —\nкоманда Валерия Володина\n.\nДля тех, кто работает с церемониями и масштабными событиями — это интересный кейс о том, как соединить протокол, творческие решения и техническую реализацию\n👌🏼",
+      "full_text_source": "public_embed",
+      "marking": [
+        "https://valeryvolodin.ru/?erid=2VtzqxcEvps"
+      ],
+      "erid": [
+        "2VtzqxcEvps"
+      ],
+      "views_display": "1.63K",
+      "reactions": [
+        "⚡ 8",
+        "🔥 7",
+        "❤ 6",
+        "👍 1",
+        "👏 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "links": [
+        {
+          "text": "команда Валерия Володина",
+          "href": "https://valeryvolodin.ru/?erid=2VtzqxcEvps"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "команда Валерия Володина",
+          "original_url": "https://valeryvolodin.ru/?erid=2VtzqxcEvps",
+          "status": 403,
+          "final_url": "https://valeryvolodin.ru/?erid=2VtzqxcEvps",
+          "title": "403",
+          "error": null,
+          "access": "blocked"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-volodin-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/volodin-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Организатор церемонии или масштабного события; обращение к нему есть в конце текста.",
+      "repetition_group": "volodin",
+      "publication_identity": "https://t.me/thebestofeventru/10019",
+      "text_sha256": "55e9395510b73cb72f1ba1506713cdaeffcc5b64617626502c7fa0130f7483a7",
+      "age_days_asof": 67,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/volodin.png"
+    },
+    {
+      "id": "party",
+      "new_in_this_audit": false,
+      "advertiser": "ПатиРакеты и Neo Names: показ для ивентщиков",
+      "publisher": "ВМЕСТЕ",
+      "url": "https://t.me/eventvmeste/1796",
+      "date": "2026-09-29T07:36:01+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "Большой сольный концерт «ПатиРакеты и Симфо-шоу Neo Names»\nДва ярких музыкальных коллектива — один большой концерт, который превратится в настоящее шоу!\nВсей Ивент-Семье вход свободный, просто\nзаполните заявку\n❤️\n1 октября, 19:00, Концертный зал \"Свобода\"\nМосква, Ленинградский пр-т д.47 стр.19\nРеклама ИП Мыслицкий А.М. ИНН 540548449627 erid 2VfnxwDMtXn",
+      "full_text_source": "public_embed",
+      "marking": [
+        "Реклама ИП Мыслицкий А.М. ИНН 540548449627 erid 2VfnxwDMtXn"
+      ],
+      "erid": [],
+      "views_display": "1.12K",
+      "reactions": [
+        "1",
+        "💔 2",
+        "👍 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "links": [
+        {
+          "text": "заполните заявку",
+          "href": "https://t.me/partyrocketbot"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "заполните заявку",
+          "original_url": "https://t.me/partyrocketbot",
+          "access": "not_followed",
+          "note": "Telegram/контакт/приглашение из оригинала; сообщения и вступления не выполнялись."
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-party-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/party-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Профессионалы ивент-индустрии: приглашение прямо адресовано «Ивент-Семье».",
+      "repetition_group": "party",
+      "publication_identity": "https://t.me/eventvmeste/1796",
+      "text_sha256": "08336c8271f4a73244941c70a96b9be43506be49f2b205b1a43ed3ca4f3795b9",
+      "age_days_asof": 34,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/party.png"
+    },
+    {
+      "id": "avrora",
+      "new_in_this_audit": false,
+      "advertiser": "Аврора: фестиваль как доказательство масштаба",
+      "publisher": "Событийная индустрия",
+      "url": "https://t.me/worldofevent/1267",
+      "date": "2026-07-10T07:01:58+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "Лучшее событие в области гастрономического туризма по версии Russian Event Awards снова прошло в Иркутске!\nНАОМ поддерживает развитие событийного туризма и отмечает, что такие проекты показывают, как гастрономия, локальная идентичность и городская среда формируют интерес к региону.\n27–28 июня в городе состоялись два крупных события, которые показали, как гастрономия, локальная история и событийный формат могут работать на продвижение региона.\n🔥\nФестиваль «Сытый Бабр»\nсобрал более 60 тысяч жителей и туристов и вновь подтвердил статус одного из крупнейших гастрономических событий Сибири.\nЗа два дня исторический центр Иркутска превратился в большую открытую гастрономическую площадку: более 150 ресторанов, производителей, фермеров, локальных брендов, ремесленников и гастропроектов представили вкус Прибайкалья через современные форматы.\nВ этом году фестиваль усилили две новые площадки.\n🥩\n«Байкальский гриль»\nстал фестивалем внутри фестиваля: здесь локальные продукты Прибайкалья показали через культуру гриля.\n🌿\n«ДНК локальной кухни»\nобъединила шеф-поваров, рестораторов и производителей вокруг важной для индустрии темы: как локальная кухня становится частью туристического бренда территории.\nОдним из самых заметных событий стала массовая готовка «Мама бууза»: повара одновременно приготовили 500 бууз, превратив гастрономическое шоу в символ гостеприимства Прибайкалья.\n🍵\nПараллельно на острове Юность прошел первый уличный фестиваль «Великий Чайный путь».\nЕго посетили более 3 тысяч гостей, а благодаря трансляции с программой познакомились еще более 10 тысяч участников «Сытого Бабра».\nФестиваль напомнил о роли Иркутска в истории Великого Чайного пути: именно здесь несколько веков назад формировался один из важных центров торговли, переработки и распространения чая в Восточной Сибири.\nГости участвовали в чайных церемониях, дегустациях, мастер-классах, посещали чайную лабораторию, книжную ярмарку, интерактивную историческую карту и реконструкцию сибирского купеческого чаепития. Исторический квиз объединил 25 команд и более 200 участников.\nВ рамках фестивального уикенда также состоялся финал II Областного чемпионата кондитеров Иркутской области. За звание лучших боролись 10 финалистов из предприятий общественного питания региона. Через авторские десерты участники раскрывали природу, историю и локальные продукты Приангарья.\nФестиваль реализован командой ивент-агентства «Аврора»\nв рамках национального проекта «Туризм и гостеприимство» и Большого гастрономического форума «Вкус путешествия!».\nДля региона такие события — не только яркая городская программа, но и инструмент развития внутреннего туризма, поддержки локальных производителей и продвижения Иркутской области как сильного гастрономического направления.\n🔗\nФестиваль «Сытый Бабр»\nedafest.ru\n🔗\nСообщество фестиваля во ВКонтакте\nvk.ru/sytyi_babr\n🔗\nБольшой гастрономический форум «Вкус путешествия!»\nproject14361586.tilda.ws\n🔗\nИвент-агентство «Аврора»\navrorairkutsk.ru\n📞\nКонтакты организаторов: +7 902 513-63-13\nРеклама. ИП Иванова Елена Владимировна. ИНН 381606647333. erid: 2W5zFKA3How",
+      "full_text_source": "public_embed",
+      "marking": [
+        "Реклама. ИП Иванова Елена Владимировна. ИНН 381606647333. erid: 2W5zFKA3How"
+      ],
+      "erid": [],
+      "views_display": "480",
+      "reactions": [
+        "👍 3",
+        "🔥 2",
+        "❤ 1",
+        "👏 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "links": [
+        {
+          "text": "edafest.ru",
+          "href": "http://edafest.ru/"
+        },
+        {
+          "text": "vk.ru/sytyi_babr",
+          "href": "http://vk.ru/sytyi_babr"
+        },
+        {
+          "text": "project14361586.tilda.ws",
+          "href": "http://project14361586.tilda.ws/"
+        },
+        {
+          "text": "avrorairkutsk.ru",
+          "href": "http://avrorairkutsk.ru/"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "edafest.ru",
+          "original_url": "http://edafest.ru/",
+          "status": 403,
+          "final_url": "http://edafest.ru/",
+          "title": "403",
+          "error": null,
+          "access": "blocked"
+        },
+        {
+          "label": "vk.ru/sytyi_babr",
+          "original_url": "http://vk.ru/sytyi_babr",
+          "status": 200,
+          "final_url": "https://vk.ru/sytyi_babr",
+          "title": "VK",
+          "error": null,
+          "access": "read"
+        },
+        {
+          "label": "project14361586.tilda.ws",
+          "original_url": "http://project14361586.tilda.ws/",
+          "status": 403,
+          "final_url": "http://project14361586.tilda.ws/",
+          "title": "403",
+          "error": null,
+          "access": "blocked"
+        },
+        {
+          "label": "avrorairkutsk.ru",
+          "original_url": "http://avrorairkutsk.ru/",
+          "status": 403,
+          "final_url": "http://avrorairkutsk.ru/",
+          "title": "403",
+          "error": null,
+          "access": "blocked"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-avrora-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/avrora-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Заказчик фестиваля или городского события. География кейса — Иркутск.",
+      "repetition_group": "avrora",
+      "publication_identity": "https://t.me/worldofevent/1267",
+      "text_sha256": "6d0a7c66e075c32e9a1954071df4d1f041a5b2ff9fa5a454e6ab5a36857c4469",
+      "age_days_asof": 115,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/avrora.png"
+    },
+    {
+      "id": "am",
+      "new_in_this_audit": false,
+      "advertiser": "АМ Праздники: сезонный повод",
+      "publisher": "Красногорск Live",
+      "url": "https://t.me/krasnogorsk_live/52495",
+      "date": "2026-02-26T07:01:48+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "Организация праздника\n— это всегда чуть больше, чем кажется\n🎉\nНужно придумать идею, собрать формат, учесть возраст гостей, площадку, настроение… и при этом остаться в ресурсе.\nВ АМ Праздники\nберут это на себя:\nсценарий, герои, шоу, оформление, детали — всё собирается в одну цельную картинку без хаоса.\nПраздники для детей, семей, классов и компаний проходят спокойно, чётко\n✨\nВпереди 8 Марта!\n🌸\nЕсли хочется не просто подарить букет, а устроить живое поздравление — с\nАМ праздники можно\nпригласить\nростового героя\nи добавить праздничное\nоформление шарами.\nПодходит для дома, офиса и школы.\nЧтобы удивить в этом году, достаточно\nнаписать менеджеру в чат —\nкоманда предложит формат под любую задачу\n🦄\nРеклама",
+      "full_text_source": "public_embed",
+      "marking": [
+        "Реклама",
+        "https://api.admarkbot.ru/v1/marker/vk/?erid=2Vtzqua7rip"
+      ],
+      "erid": [
+        "2Vtzqua7rip"
+      ],
+      "views_display": "2.32K",
+      "reactions": [
+        "❤ 1",
+        "👍 1",
+        "👌 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "links": [
+        {
+          "text": "В АМ Праздники",
+          "href": "https://t.me/amprazdnikimsk"
+        },
+        {
+          "text": "АМ праздники можно",
+          "href": "https://t.me/amprazdnikimsk"
+        },
+        {
+          "text": "написать менеджеру в чат —",
+          "href": "https://t.me/amprazdniki"
+        },
+        {
+          "text": "Реклама",
+          "href": "https://api.admarkbot.ru/v1/marker/vk/?erid=2Vtzqua7rip"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "В АМ Праздники",
+          "original_url": "https://t.me/amprazdnikimsk",
+          "access": "not_followed",
+          "note": "Telegram/контакт/приглашение из оригинала; сообщения и вступления не выполнялись."
+        },
+        {
+          "label": "АМ праздники можно",
+          "original_url": "https://t.me/amprazdnikimsk",
+          "access": "not_followed",
+          "note": "Telegram/контакт/приглашение из оригинала; сообщения и вступления не выполнялись."
+        },
+        {
+          "label": "написать менеджеру в чат —",
+          "original_url": "https://t.me/amprazdniki",
+          "access": "not_followed",
+          "note": "Telegram/контакт/приглашение из оригинала; сообщения и вступления не выполнялись."
+        },
+        {
+          "label": "Реклама",
+          "original_url": "https://api.admarkbot.ru/v1/marker/vk/?erid=2Vtzqua7rip",
+          "status": 200,
+          "final_url": "https://api.admarkbot.ru/v1/marker/vk?erid=2Vtzqua7rip",
+          "title": "Информация о рекламе · ERID 2Vtzqua7rip",
+          "error": null,
+          "access": "read"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-am-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/am-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Заказчик детского или семейного праздника, поздравления в офисе или школе.",
+      "repetition_group": "am",
+      "publication_identity": "https://t.me/krasnogorsk_live/52495",
+      "text_sha256": "1affa684777e1b261a98fa68b97e729657c89bc5d1631481d5930fbb2997965c",
+      "age_days_asof": 249,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/am.png"
+    },
+    {
+      "id": "catering",
+      "new_in_this_audit": false,
+      "advertiser": "M.V. Catering: показать готовый продукт",
+      "publisher": "Одинцово LIVE",
+      "url": "https://t.me/Odintsovo_LIVE/22868",
+      "date": "2026-10-08T07:05:11+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "Хотите, чтобы гости сказали: «Это было невероятно!»?\n🎉\nМы в M.V. Catering знаем, как этого добиться — и берём все хлопоты на себя. Никаких компромиссов: только вкус, стиль и сервис, который приятно удивляет.\n🍽\nСоздаём:\n• стильные фуршеты;\n• гастрономические ужины;\n• корпоративные события;\n• свадебные банкеты;\n• дни рождения;\n• доставку гастробоксов;\n• кофе‑брейки и всё, что связано с едой.\n❤️\nС любовью к деталям. И с бонусами и подарками к каждому заказу — потому что ценим ваше доверие.\n👉\nКак всё просто:\nВыбираете меню на сайте.\nhttp://mvcatering.ru/\nУказываете дату.\nНаслаждаетесь событием — мы обо всём позаботимся.\n📲\nХотите узнать подробнее? Пишите или звоните!\n🌐\nСайт:\nhttp://mvcatering.ru/\n📞\nТелефон: 8 (901) 740‑99‑53\n✍️\nМы в VK\nhttps://vk.ru/m.v_catering\n📨\nTelegram:\nhttps://t.me/m_v_catering\nРеклама: ИП Васильковская Мария Дмитриевна , ИНН: 503216294419, Erid: 2VtzqusMPgy",
+      "full_text_source": "public_embed",
+      "marking": [
+        "Реклама: ИП Васильковская Мария Дмитриевна , ИНН: 503216294419, Erid: 2VtzqusMPgy"
+      ],
+      "erid": [],
+      "views_display": "154",
+      "reactions": [],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "links": [
+        {
+          "text": "http://mvcatering.ru/",
+          "href": "http://mvcatering.ru/"
+        },
+        {
+          "text": "http://mvcatering.ru/",
+          "href": "http://mvcatering.ru/"
+        },
+        {
+          "text": "https://vk.ru/m.v_catering",
+          "href": "https://vk.ru/m.v_catering"
+        },
+        {
+          "text": "https://t.me/m_v_catering",
+          "href": "https://t.me/m_v_catering"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "http://mvcatering.ru/",
+          "original_url": "http://mvcatering.ru/",
+          "status": 403,
+          "final_url": "http://mvcatering.ru/",
+          "title": "403 Forbidden",
+          "error": null,
+          "access": "blocked"
+        },
+        {
+          "label": "http://mvcatering.ru/",
+          "original_url": "http://mvcatering.ru/",
+          "status": 403,
+          "final_url": "http://mvcatering.ru/",
+          "title": "403 Forbidden",
+          "error": null,
+          "access": "blocked"
+        },
+        {
+          "label": "https://vk.ru/m.v_catering",
+          "original_url": "https://vk.ru/m.v_catering",
+          "status": 200,
+          "final_url": "https://vk.ru/m.v_catering",
+          "title": "VK",
+          "error": null,
+          "access": "read"
+        },
+        {
+          "label": "https://t.me/m_v_catering",
+          "original_url": "https://t.me/m_v_catering",
+          "access": "not_followed",
+          "note": "Telegram/контакт/приглашение из оригинала; сообщения и вступления не выполнялись."
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-catering-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/catering-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Заказчик банкета, корпоратива, фуршета или частного события.",
+      "repetition_group": "catering",
+      "publication_identity": "https://t.me/odintsovo_live/22868",
+      "text_sha256": "47d7d09be7c9f6291b039c1c5073d491de601e526c1fc85676052a83b13e1645",
+      "age_days_asof": 25,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/catering.png"
+    },
+    {
+      "id": "moreshow",
+      "new_in_this_audit": false,
+      "advertiser": "МОРЕШОУ: три пакета с ценами",
+      "publisher": "Дети in Moscow | Москва",
+      "url": "https://t.me/detiinmoscow/8510",
+      "date": "2026-10-14T06:04:36+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "🍁\nОсенний праздник в саду без долгой подготовки\nПриезжаем со своими костюмами, реквизитом и музыкой. От вас нужны только дата и зал\n🎈\nНа празднике:\n🧸\nростовой персонаж или артисты в ярких образах\n🫧\nзавораживающее мыльное шоу\n🎩\nфокусы «Воображариум»\n🎯\nинтерактивные игры, викторина и дискотека\nПрограмма идёт 1 или 2 часа. Подойдёт и маленькой группе, и целому классу.\n⭐\nКоманда\n«Море Шоу»\nс 2010 года делает праздники для детей и взрослых в Москве.\nКостюмы и ростовых персонажей мы шьём в собственном цеху, поэтому образы у нас яркие и узнаваемые.\n✍️\nПодберём программу,\nнапишите нам в чат\n🔔\nФото с наших праздников\n#реклама\nО рекламодателе",
+      "full_text_source": "public_embed",
+      "marking": [
+        "#реклама",
+        "https://tglink.io/761d57c80de637?erid=2W5zFGotxEV",
+        "https://t.me/moreshowpro?erid=2W5zFGotxEV",
+        "https://t.me/moreshowcom_telegram?erid=2W5zFGotxEV"
+      ],
+      "erid": [
+        "2W5zFGotxEV"
+      ],
+      "views_display": "451",
+      "reactions": [
+        "❤ 7",
+        "👏 1",
+        "🎉 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "children_family",
+      "relevance_note": "Детский/семейный праздник. Подтверждённая реклама, но не референс взрослого корпоративного театра.",
+      "links": [
+        {
+          "text": "«Море Шоу»",
+          "href": "https://tglink.io/761d57c80de637?erid=2W5zFGotxEV"
+        },
+        {
+          "text": "напишите нам в чат",
+          "href": "https://t.me/moreshowpro?erid=2W5zFGotxEV"
+        },
+        {
+          "text": "Фото с наших праздников",
+          "href": "https://t.me/moreshowcom_telegram?erid=2W5zFGotxEV"
+        },
+        {
+          "text": "О рекламодателе",
+          "href": "https://telega.in/organizations/dffbf08c03a575e58db765c66b5376"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "«Море Шоу»",
+          "original_url": "https://tglink.io/761d57c80de637?erid=2W5zFGotxEV",
+          "status": null,
+          "final_url": "",
+          "title": null,
+          "error": "HTTPSConnectionPool(host='more-show.ru', port=443): Max retries exceeded with url: /?utm_source=tg&utm_medium=cpc&utm_campaign=promo_autumn&erid=2W5zFGotxEV (Caused by NameResolutionError(\"HTTPSConnection(host='more-show.ru', port=443): Failed to resolve 'more-show.ru' ([Errno 11002] getaddrinfo failed)\"))",
+          "access": "blocked"
+        },
+        {
+          "label": "напишите нам в чат",
+          "original_url": "https://t.me/moreshowpro?erid=2W5zFGotxEV",
+          "access": "not_followed",
+          "note": "Telegram/контакт/приглашение из оригинала; сообщения и вступления не выполнялись."
+        },
+        {
+          "label": "Фото с наших праздников",
+          "original_url": "https://t.me/moreshowcom_telegram?erid=2W5zFGotxEV",
+          "access": "not_followed",
+          "note": "Telegram/контакт/приглашение из оригинала; сообщения и вступления не выполнялись."
+        },
+        {
+          "label": "О рекламодателе",
+          "original_url": "https://telega.in/organizations/dffbf08c03a575e58db765c66b5376",
+          "status": 200,
+          "final_url": "https://telega.in/tmgrdfrend/showcaptcha",
+          "title": "Are you not a robot?",
+          "error": null,
+          "access": "captcha"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-moreshow-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/moreshow-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Заказчик праздника в детском саду или школе. Не аудитория взрослого спектакля.",
+      "repetition_group": "moreshow",
+      "publication_identity": "https://t.me/detiinmoscow/8510",
+      "text_sha256": "aaae9a8054052aa50d7b022dc582427950b8edef6756a28e4189cc749c8df0e9",
+      "age_days_asof": 19,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/moreshow.png"
+    },
+    {
+      "id": "global-besy",
+      "new_in_this_audit": false,
+      "advertiser": "GLOBAL EFFECTS",
+      "publisher": "Журнал \"Шоу-Мастер\" о технологиях и людях",
+      "url": "https://t.me/showmaster_magazine/1475",
+      "date": "2026-02-20T09:19:43+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "GLOBAL EFFECTS на спектакле «Бесы» в «Красном Факеле»\nПремьера «Бесов» театра «Красный факел» стала примером того, как сценические спецэффекты могут работать не ради зрелищности, а как часть нервной ткани драматургии. В постановке Андрея Прикотенко пространство живет собственным беспокойным дыханием – от первого появления героев до финального хлопка дверей.\nЦентральный визуальный образ спектакля – пепел, постоянно присутствующий на сцене. Для постановки использован искусственный пепел, изготовленный компанией GLOBAL EFFECTS специально для спектакля из черной негорючей бумаги. Это обеспечивает высокую безопасность и при этом создает визуально правдоподобный эффект – настолько близкий к настоящему, что зритель считывает его интуитивно.\nЕго непрерывное движение создают шесть подвесных конфетти-машин EASY Swirl, двадцать конфетти-машин барабанного типа Snow Drop и восемь выдувных конфетти-машин Power-550, работающих в разное время.\nПодвесные машины формируют плотный вертикальный поток падающего материала, будто пространство разрывается и заполняется пепельной пылью. А Power-550 создают горизонтальные и восходящие вихри, которые проходят через всю сцену – взлетают, оседают и снова поднимаются, словно беспокойные мысли, от которых героям невозможно укрыться.\nСпектакль «Бесы» стал одним из наиболее комплексных проектов в сотрудничестве театра «Красный факел» и компании GLOBAL EFFECTS – здесь спецэффекты не обслуживают действие, а создают его атмосферу, превращая сцену в живую материю психологической драмы.\nhttps://globaleffects.ru/?erid=2SDnjcmhM6y",
+      "full_text_source": "public_embed",
+      "marking": [
+        "https://globaleffects.ru/?erid=2SDnjcmhM6y",
+        "https://globaleffects.ru/?erid=2SDnjcmhM6y"
+      ],
+      "erid": [
+        "2SDnjcmhM6y"
+      ],
+      "views_display": "81",
+      "reactions": [
+        "❤ 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "seller_manufacturer",
+      "relevance_note": "Производитель/поставщик сценических эффектов. Театральный кейс объясняет функцию техники, но не продаёт комплексный event-прокат.",
+      "links": [
+        {
+          "text": "https://globaleffects.ru/?erid=2SDnjcmhM6y",
+          "href": "https://globaleffects.ru/?erid=2SDnjcmhM6y"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "https://globaleffects.ru/?erid=2SDnjcmhM6y",
+          "original_url": "https://globaleffects.ru/?erid=2SDnjcmhM6y",
+          "status": 200,
+          "final_url": "https://globaleffects.ru/?erid=2SDnjcmhM6y",
+          "title": "GLOBAL EFFECTS",
+          "error": null,
+          "access": "read"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-global-besy-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/global-besy-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Сценическому специалисту или театру, выбирающему оборудование спецэффектов; это вывод по содержанию, не измерение читателей.",
+      "repetition_group": "globaleffects-case-series",
+      "publication_identity": "https://t.me/showmaster_magazine/1475",
+      "text_sha256": "de1b9ef85a76a903fec5196b53031f95e07e4af5f47b3fb31e0b0d366bdb1ad9",
+      "age_days_asof": 255,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/global-besy.png"
+    },
+    {
+      "id": "global-sirano",
+      "new_in_this_audit": false,
+      "advertiser": "GLOBAL EFFECTS",
+      "publisher": "Журнал \"Шоу-Мастер\" о технологиях и людях",
+      "url": "https://t.me/showmaster_magazine/1477",
+      "date": "2026-02-20T09:23:06+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "GLOBAL EFFECTS на спектакле «Сирано де Бержерак»\nНа премьере спектакля «Сирано де Бержерак» в театре «Сатирикон» используется расширенный комплект оборудования для спецэффектов компании GLOBAL EFFECTS. Бумага здесь – не просто реквизит, а самостоятельный персонаж: подвижный, живой и подчиненный ритму поэтической драмы.\nЭффект «бумажного шторма» создают пять выдувных конфетти-машин GLOBAL EFFECTS Power-550, работающих в режиме сильного направленного потока. В спектакле они поднимают не конфетти, а вихрь исписанных и смятых листов бумаги – материальное воплощение творческого и эмоционального напряжения героя. Потоки воздуха из Power-550 позволяют повторять этот вихрь из спектакля в спектакль – полностью контролируемый эффект живой стихии.\nПролог решен не менее эффектно: 21 элемент системы Kabuki Drop задействован для моментального сброса двадцати длинных бумажных полотен. Это обеспечивает чистое и резкое раскрытие пространства без видимого механического вмешательства – именно такой прием требовался сценографии.\nДополнительный художественный акцент – четыре устройства Kabuki Drop, удерживающие декоративные объекты «луна» и «солнце». В ключевые моменты они «падают» с небес, создавая выразительный переход между сценами.\nGLOBAL EFFECTS сотрудничает с театром «Сатирикон» уже много лет, и «Сирано де Бержерак» – очередная премьера, где оборудование компании стало неотъемлемой частью художественного языка спектакля.\nhttps://globaleffects.ru/?erid=2SDnjde7beZ",
+      "full_text_source": "public_embed",
+      "marking": [
+        "https://globaleffects.ru/?erid=2SDnjde7beZ",
+        "https://globaleffects.ru/?erid=2SDnjde7beZ"
+      ],
+      "erid": [
+        "2SDnjde7beZ"
+      ],
+      "views_display": "88",
+      "reactions": [
+        "👍 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "seller_manufacturer",
+      "relevance_note": "Производитель/поставщик эффектов; театральный кейс, не рекламное предложение взрослого выездного театра.",
+      "links": [
+        {
+          "text": "https://globaleffects.ru/?erid=2SDnjde7beZ",
+          "href": "https://globaleffects.ru/?erid=2SDnjde7beZ"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "https://globaleffects.ru/?erid=2SDnjde7beZ",
+          "original_url": "https://globaleffects.ru/?erid=2SDnjde7beZ",
+          "status": 200,
+          "final_url": "https://globaleffects.ru/?erid=2SDnjde7beZ",
+          "title": "GLOBAL EFFECTS",
+          "error": null,
+          "access": "read"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-global-sirano-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/global-sirano-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Сценическому специалисту или театру, выбирающему оборудование спецэффектов; это вывод по содержанию, не измерение читателей.",
+      "repetition_group": "globaleffects-case-series",
+      "publication_identity": "https://t.me/showmaster_magazine/1477",
+      "text_sha256": "8b7403b14140a640466ab52a5fc64749b5f0329adc78186dbecd130c6ababd81",
+      "age_days_asof": 255,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/global-sirano.png"
+    },
+    {
+      "id": "scenapro",
+      "new_in_this_audit": false,
+      "advertiser": "SCENA.PRO",
+      "publisher": "Журнал \"Шоу-Мастер\" о технологиях и людях",
+      "url": "https://t.me/showmaster_magazine/1486",
+      "date": "2026-02-24T17:59:09+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "Выбираем подвес для светодиодного экрана\nНадежный и точно рассчитанный подвес для светодиодного (LED) экрана – это не просто фермовая конструкция, а основа безопасной и профессиональной эксплуатации дорогостоящего оборудования.\nОшибки в выборе системы подвеса могут привести к катастрофическим последствиям: обрушению конструкции, повреждению оборудования, угрозе жизни людей.\nСегодня такие конструкции подвесов являются стандартом для стационарного и мобильного монтажа LED-экранов.\nГлава 1: Параметры для выбора подвеса для LED -экрана\n1.1. В первую очередь нужно определиться с параметрами светодиодного экрана:\n● Габаритные размеры: Точная ширина, высота и, что критично, толщина (глубина) экрана. От толщины экрана зависит вылет кронштейнов и расстояние от несущей фермы до плоскости экрана.\n● Вес: Общий вес экрана в сборе (кг) и распределенная нагрузка (кг/м²). Эти данные должны быть получены от производителя экрана. Важно учесть вес всех коммутаций, кабелей и корзин для их размещения, а не только самих модулей.\n● Тип конструкции: Экран заднего доступа (обслуживается с тыльной стороны) или фронтального обслуживания. Это определяет необходимый зазор для сервиса и конструкцию тыловой рамы.\n1.2. Условия эксплуатации:\n● Режим работы: Стационарный монтаж в концертном зале или частые сборки/разборки. Для гастрольного использования критична скорость монтажа и применение коннекторного соединения ферм. Но если скорость сборки не критична, то фланцевое тоже вполне подойдет.\n● Несущая конструкция: Тип и расположение точек подвеса. Будет ли экран крепиться к стационарным фермам квадратным (например, сечением 300×300 мм), установленным в колосниковом устройстве сцены, к потолочным перекрытиям здания или к самостоятельной граунд-опоре? Необходимо знать грузоподъемность и шаг этих точек.\n● Требования к расстоянию: При размещении подвеса в помещении необходимо предусмотреть отступ экрана от стены, потолка и декораций.\nГлава 2: Основные компоненты системы подвеса\nПолную статью вы найдете по ссылке:\nhttps://vk.com/public51378020?w=wall-51378020_9181\nhttps://scenapro.ru/fermovye-konstruktsii/?erid=2SDnjdeTmXo",
+      "full_text_source": "public_embed",
+      "marking": [
+        "https://scenapro.ru/fermovye-konstruktsii/?erid=2SDnjdeTmXo",
+        "https://scenapro.ru/fermovye-konstruktsii/?erid=2SDnjdeTmXo"
+      ],
+      "erid": [
+        "2SDnjdeTmXo"
+      ],
+      "views_display": "117",
+      "reactions": [
+        "❤ 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "seller_manufacturer",
+      "relevance_note": "Производство/продажа сценических ферм и конструкций. Прямая ссылка на инженерную статью/категорию; аренда в объявлении не подтверждена.",
+      "links": [
+        {
+          "text": "https://vk.com/public51378020?w=wall-51378020_9181",
+          "href": "https://vk.com/public51378020?w=wall-51378020_9181"
+        },
+        {
+          "text": "https://scenapro.ru/fermovye-konstruktsii/?erid=2SDnjdeTmXo",
+          "href": "https://scenapro.ru/fermovye-konstruktsii/?erid=2SDnjdeTmXo"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "https://vk.com/public51378020?w=wall-51378020_9181",
+          "original_url": "https://vk.com/public51378020?w=wall-51378020_9181",
+          "status": 200,
+          "final_url": "https://m.vk.com/wall-51378020_9181",
+          "title": "ВКонтакте | ВКонтакте",
+          "error": null,
+          "access": "read"
+        },
+        {
+          "label": "https://scenapro.ru/fermovye-konstruktsii/?erid=2SDnjdeTmXo",
+          "original_url": "https://scenapro.ru/fermovye-konstruktsii/?erid=2SDnjdeTmXo",
+          "status": 200,
+          "final_url": "https://scenapro.ru/fermovye-konstruktsii/?erid=2SDnjdeTmXo",
+          "title": "Фермовые конструкции для сцены от производителя | ПРО-СЦЕНА",
+          "error": null,
+          "access": "read"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-scenapro-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/scenapro-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Специалисту, выбирающему конструкцию подвеса экрана; это вывод по технической задаче текста.",
+      "repetition_group": "scenapro",
+      "publication_identity": "https://t.me/showmaster_magazine/1486",
+      "text_sha256": "42812cd09c997391ac7f1a7dd3d21f70b708a4d0d9aac39e70d6051a0bd03e01",
+      "age_days_asof": 251,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/scenapro.png"
+    },
+    {
+      "id": "energy-1809",
+      "new_in_this_audit": false,
+      "advertiser": "Энергоконтинент",
+      "publisher": "Деньги в радость 😁",
+      "url": "https://t.me/money_But/1809",
+      "date": "2026-10-07T16:34:04+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "💰\nБизнес‑идея: работа с «Энергоконтинент»\nХочешь разобраться с энергоснабжением без головной боли? «Энергоконтинент» — твой надёжный партнёр!\n📌\nЧто предлагают:\n- продают генераторы (газовые, бензиновые и другие);\n- сдают генераторы в аренду — с полным сервисом;\n- оказывают услуги «под ключ»: от проекта до обслуживания;\n- поставляют запчасти и расходники.\nЗагляни — не пожалеешь!\n👉\nhttps://ya.cc/BFf2wQ\nРеклама. Информация о рекламодателе по ссылке",
+      "full_text_source": "public_embed",
+      "marking": [
+        "Реклама. Информация о рекламодателе по ссылке"
+      ],
+      "erid": [
+        "j1SUnBZfpMiAYGMcu"
+      ],
+      "views_display": "561",
+      "reactions": [
+        "👍 3",
+        "🔥 3",
+        "👏 3",
+        "👎 1",
+        "👀 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "generators_partial_overlap",
+      "relevance_note": "Генераторы и аренда в тексте; исходный shortlink02.11 ведёт на продажу компрессора Dali DLCY-18/17B-Y. Несоответствие объявления и посадочной. Не пример готовой воронки event-аренды.",
+      "links": [
+        {
+          "text": "https://ya.cc/BFf2wQ",
+          "href": "https://ya.cc/BFf2wQ"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "https://ya.cc/BFf2wQ",
+          "original_url": "https://ya.cc/BFf2wQ",
+          "status": 200,
+          "final_url": "https://www.energocontinent.ru/catalog/vozdushnye-kompressory/dali-dlcy-18-17b-y?yclid=12393973652210581503&ybaip=1&erid=j1SUnBZfpMiAYGMcu",
+          "title": "Компрессор Dali DLCY-18/17B-Y – купить Dali DLCY-18/17B-Y в Москве ООО «ЭНЕРГОКОНТИНЕНТ»",
+          "error": null,
+          "access": "read"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-energy-1809-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/energy-1809-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Читателю с задачей энергоснабжения; event-агентства и география читателей не подтверждены.",
+      "repetition_group": "energocontinent-service-list",
+      "publication_identity": "https://t.me/money_but/1809",
+      "text_sha256": "d92bc3cb3baab07a1578e551ee2101aa104008ed74f4bdfcb7510badfb905876",
+      "age_days_asof": 26,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/energy-1809.png"
+    },
+    {
+      "id": "energy-1823",
+      "new_in_this_audit": false,
+      "advertiser": "Энергоконтинент",
+      "publisher": "Деньги в радость 😁",
+      "url": "https://t.me/money_But/1823",
+      "date": "2026-10-09T15:08:59+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "💰\nХочешь решить вопросы с энергоснабжением?\nЗагляни в «Энергоконтинент»! Тут есть всё, что нужно:\n📌\nпродают генераторы (газовые, бензиновые, гибридные и другие);\n📌\nсдают генераторы в аренду — с полным сервисом;\n📌\nоказывают услуги «под ключ» — от проекта до обслуживания;\n📌\nпоставляют запчасти и расходники.\nПереходи по ссылке — подберёшь решение под свои задачи!\nhttps://ya.cc/BGaDgV\nРеклама. Информация о рекламодателе по ссылке",
+      "full_text_source": "public_embed",
+      "marking": [
+        "Реклама. Информация о рекламодателе по ссылке"
+      ],
+      "erid": [
+        "j1SUmXzQqi6xBPvsb"
+      ],
+      "views_display": "519",
+      "reactions": [
+        "👍 3",
+        "🔥 3",
+        "👏 3",
+        "👎 1",
+        "👀 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "generators_partial_overlap",
+      "relevance_note": "Текст предлагает продажу/аренду; ссылка 02.11 ведёт на продажу ДГУ 600 кВт. Промышленный спрос, не доказанный спрос организаторов мероприятий.",
+      "links": [
+        {
+          "text": "https://ya.cc/BGaDgV",
+          "href": "https://ya.cc/BGaDgV"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "https://ya.cc/BGaDgV",
+          "original_url": "https://ya.cc/BGaDgV",
+          "status": 200,
+          "final_url": "https://www.energocontinent.ru/catalog/dizelnye-generatory/600-kvt?utm_source=yandex-direct&utm_medium=context&utm_campaign=714070892&utm_content=ad-id_1920230703891538609&utm_term=&roistat=direct6_context_1920230703891538609_&roistat_referrer=t.me/money_but&roistat_pos=none_0&yclid=16132001690941128703&ybaip=1&erid=j1SUmXzQqi6xBPvsb#search-numdoc=1?sort[price_rub]=asc",
+          "title": "Купить дизельный генератор 600 кВт дешево: генераторы дизель (ДГУ) 600 кВт по цене от 3 680 736 руб | ЭНЕРГОКОНТИНЕНТ",
+          "error": null,
+          "access": "read"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-energy-1823-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/energy-1823-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Читателю с задачей энергоснабжения; event-агентства и география читателей не подтверждены.",
+      "repetition_group": "energocontinent-service-list",
+      "publication_identity": "https://t.me/money_but/1823",
+      "text_sha256": "636cefc156a0a6352c973cacb55c480074b97539e4afa476514a96277ba29c73",
+      "age_days_asof": 24,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/energy-1823.png"
+    },
+    {
+      "id": "energy-1135",
+      "new_in_this_audit": false,
+      "advertiser": "Энергоконтинент",
+      "publisher": "Министерство смеха",
+      "url": "https://t.me/smehmini/1135",
+      "date": "2026-10-10T15:09:04+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "Ну надо же, нашёл крутой магазин!\n😂\nЗагляни в «Энергоконтинент» — там вообще огонь!\n🔥\nМожно:\n- купить генератор (газовый, бензиновый — какой душе угодно);\n- взять генератор в аренду с кучей плюшек;\n- заказать услуги по созданию энергосистемы «под ключ»;\n- прикупить запчасти для генераторов и не только.\nКороче, всё, что связано с энергоснабжением, — тут!\n👍\nЗаходи:\nhttps://ya.cc/BH4Mz2\nРеклама. Информация о рекламодателе по ссылке",
+      "full_text_source": "public_embed",
+      "marking": [
+        "Реклама. Информация о рекламодателе по ссылке"
+      ],
+      "erid": [
+        "j1SUmDRuPY9PduAn5"
+      ],
+      "views_display": "516",
+      "reactions": [
+        "👍 3",
+        "🔥 3",
+        "👏 3",
+        "👎 1",
+        "👀 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "generators_partial_overlap",
+      "relevance_note": "Текст и ссылка совпали с арендой генераторов. Развлекательная площадка не доказывает наличие целевых агентств/HR.",
+      "links": [
+        {
+          "text": "https://ya.cc/BH4Mz2",
+          "href": "https://ya.cc/BH4Mz2"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "https://ya.cc/BH4Mz2",
+          "original_url": "https://ya.cc/BH4Mz2",
+          "status": 200,
+          "final_url": "https://arenda-generatora.energocontinent.ru/?utm_source=yandex-direct&utm_medium=context&utm_campaign=714559633&utm_content=ad-id_1921699380842841098&utm_term=&roistat=direct7_context_1921699380842841098_&roistat_referrer=t.me/ministcmex&roistat_pos=none_0&yclid=5191524528802234367&erid=j1SUmDRuPY9PduAn5",
+          "title": "Аренда дизельного генератора ДГУ: цены аренды электростанции ДЭС с НДС | ООО ЭНЕРГОКОНТИНЕНТ",
+          "error": null,
+          "access": "read"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-energy-1135-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/energy-1135-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Читателю с задачей энергоснабжения; развлекательная тематика канала не подтверждает состав покупателей.",
+      "repetition_group": "energocontinent-service-list",
+      "publication_identity": "https://t.me/smehmini/1135",
+      "text_sha256": "971fb41186fb7cbec6e09d555d8db26c8d669fdabb4917470037fb2b04584b25",
+      "age_days_asof": 23,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/energy-1135.png"
+    },
+    {
+      "id": "gm-center",
+      "new_in_this_audit": false,
+      "advertiser": "Джи Эм Центр",
+      "publisher": "Душа в Пути",
+      "url": "https://t.me/channel_soul_in_the_way/801",
+      "date": "2026-10-03T12:36:18+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "🔋\nИщете надёжное электрооборудование?\nНужно подобрать генератор, арендовать электростанцию или выполнить сервисное обслуживание? АО «Джи Эм Центр» — ваш надёжный партнёр! В каталоге — дизельные и бензиновые генераторы, высоковольтные установки, сварочные генераторы, осветительные мачты и многое другое. Компания также помогает с проектированием, ремонтом и подбором оборудования.\nИнтересный факт: среди реализованных проектов компании — поставки электростанций для фармацевтической фабрики и телерадиокомпании «Магадан»!\n📍\nЛокация на карте: Москва, Оружейный переулок, дом 19\nhttps://ya.cc/BDbt8Y\n#электрооборудование #генераторы #аренда #сервисноеобслуживание #джиэмцентр\nРеклама. Информация о рекламодателе по ссылке",
+      "full_text_source": "public_embed",
+      "marking": [
+        "Реклама. Информация о рекламодателе по ссылке"
+      ],
+      "erid": [],
+      "views_display": "1.46K",
+      "reactions": [
+        "🎉 27",
+        "❤ 20",
+        "👍 19",
+        "🔥 15",
+        "👏 15",
+        "🥰 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "generators_partial_overlap",
+      "relevance_note": "В тексте продажа/аренда электростанций и промышленный кейс. Shortlink остановился на Yandex captcha; конечный сайт не установлен, защита не обходилась.",
+      "links": [
+        {
+          "text": "https://ya.cc/BDbt8Y",
+          "href": "https://ya.cc/BDbt8Y"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "https://ya.cc/BDbt8Y",
+          "original_url": "https://ya.cc/BDbt8Y",
+          "status": 200,
+          "final_url": "https://ya.ru/showcaptcha",
+          "title": "ÐÑ Ð½Ðµ ÑÐ¾Ð±Ð¾Ñ?",
+          "error": null,
+          "access": "captcha"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-gm-center-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/gm-center-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Покупателю генератора или услуг энергоснабжения; принадлежность читателей к event-рынку неизвестна.",
+      "repetition_group": "gm-center",
+      "publication_identity": "https://t.me/channel_soul_in_the_way/801",
+      "text_sha256": "9388f32f423df343659e960b269feae980632aae9d4bec09f939a776ce692aff",
+      "age_days_asof": 30,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/gm-center.png"
+    },
+    {
+      "id": "morpheus-corporate",
+      "new_in_this_audit": true,
+      "advertiser": "Морфеус",
+      "publisher": "KudaGo: Москва ✔",
+      "url": "https://t.me/kudago/39431",
+      "date": "2025-12-24T16:05:14+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "Декабрьский хаос или Декабрь чудес?\nТеатр «Морфеус»\nпредлагает дарить не вещи, а билеты в другую реальность.\nДекабрь — это месяц-контраст. Сначала финишный рывок: проекты, отчеты, итоги. А после — новый марафон: поиск подарков, которые должны удивлять, радовать и запоминаться.\nИ именно сейчас мы все чаще понимаем: лучший подарок — это не вещь. Это эмоция, которую можно пережить. Впечатление, которое останется с человеком, как личная история.\nИдеальное решение —\nподарочный сертификат\nв иммерсивный театр «Морфеус».\nЗдесь подарок — это не билет на спектакль, а роль в нём. Вам не придётся сидеть в зале — вы станете главным героем, от решений которого зависит сюжет.\nА если хотите подарить поистине уникальный опыт, обратите внимание на наш фирменный формат — спектакли с закрытыми глазами. Мы сознательно отключаем зрение, чтобы звуки стали объёмнее, запахи — ярче, а прикосновения — красноречивее. Это путешествие вглубь собственного восприятия, где воображение рисует миры.\nКакой формат выбрать?\n🔴\nДля одного — личное приключение для ценителя уникальных впечатлений\n🔴\nДля двоих — общее переживание, которое сближает\n🔴\nСпецпоказ для компании — готовый сценарий для незабываемого корпоратива или дружеской встречи\nПодарите в этом году не очередную вещь, а целую реальность. Ту, в которую можно войти и остаться её частью!\n📍\nМалый Дровяной пер., д.6\nРеклама",
+      "full_text_source": "public_embed",
+      "marking": [
+        "Реклама",
+        "https://clck.ru/3Qggyg?erid=2SDnjdEJRHJ",
+        "https://clck.ru/3QghV7?erid=2SDnjdEJRHJ",
+        "Реклама. ИП Агишева Алена Леонидовна. ИНН770703930959.6+. erid2SDnjdEJRHJ — https://telegra.ph/Teatr-Morfeus-12-23"
+      ],
+      "erid": [
+        "2SDnjdEJRHJ"
+      ],
+      "views_display": "3.99K",
+      "reactions": [
+        "❤ 8",
+        "👍 2",
+        "🥰 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "adult_theatre_corporate",
+      "relevance_note": "Прямо предлагает спецпоказ для компании/корпоратива. Историческая реклама 24.12.2025; 6+ в маркировке, поэтому не называем весь продукт 18+. Кнопка сертификата доходит до правильного домена, страница сегодня 403.",
+      "links": [
+        {
+          "text": "Театр «Морфеус»",
+          "href": "https://clck.ru/3Qggyg?erid=2SDnjdEJRHJ"
+        },
+        {
+          "text": "подарочный сертификат",
+          "href": "https://clck.ru/3QghV7?erid=2SDnjdEJRHJ"
+        },
+        {
+          "text": "Реклама",
+          "href": "https://telegra.ph/Teatr-Morfeus-12-23"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "Театр «Морфеус»",
+          "original_url": "https://clck.ru/3Qggyg?erid=2SDnjdEJRHJ",
+          "status": 200,
+          "final_url": "https://morpheus-show.ru/?utm_source=kudago&utm_medium=post&utm_campaign=promo&utm_content=post&utm_term=kudagomsk",
+          "title": "Иммерсивный Театр МОРФЕУС | Иммерсивные шоу и спектакли в Москве",
+          "error": null,
+          "access": "read"
+        },
+        {
+          "label": "подарочный сертификат",
+          "original_url": "https://clck.ru/3QghV7?erid=2SDnjdEJRHJ",
+          "status": 403,
+          "final_url": "https://morpheus-show.ru/certificates?utm_source=kudago&utm_medium=post&utm_campaign=promo&utm_content=sertificat&utm_term=kudagomsk",
+          "title": "403",
+          "error": null,
+          "access": "blocked"
+        },
+        {
+          "label": "Реклама",
+          "original_url": "https://telegra.ph/Teatr-Morfeus-12-23",
+          "status": 200,
+          "final_url": "https://telegra.ph/Teatr-Morfeus-12-23",
+          "title": "Театр «Морфеус» – Telegraph",
+          "error": null,
+          "access": "read"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-morpheus-corporate-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/morpheus-corporate-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Покупателю подарка или организатору встречи компании; корпоратив назван в тексте, фактическая доля HR неизвестна.",
+      "repetition_group": "morpheus-corporate-gift",
+      "publication_identity": "https://t.me/kudago/39431",
+      "text_sha256": "b9134c5064365e882c4632e3d5a10f957852ceaa19584fe63786eac515228e3a",
+      "age_days_asof": 313,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/morpheus-corporate.png"
+    },
+    {
+      "id": "morpheus-wedding",
+      "new_in_this_audit": true,
+      "advertiser": "Морфеус",
+      "publisher": "KudaGo: Москва ✔",
+      "url": "https://t.me/kudago/37883",
+      "date": "2025-10-18T12:05:26+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "Романтическая комедия\n«До свадьбы доживёт»\nв иммерсивном театре «Морфеус»\nПосле предсвадебной вечеринки, которую устраивает ваша лучшая подруга, вы просыпаетесь в гостинице посреди погрома. Невеста куда-то подевалась, а по телевизору транслируют пугающие новости. Свадьба уже через один день, а значит, надо срочно что-то делать. Чем закончится эта история, зависит только от вас!\n〰️\n〰️\n〰️\n〰️\n〰️\n〰️\n〰️\n〰️\n〰️\n〰️\nУдивительные спектакли театра\n«Морфеус»\nнельзя увидеть, но можно почувствовать и прожить. На глазах у посетителей — маска, а актёры разыгрывают представление с помощью звуков и запахов. Спектакли театра станут необычным подарком, их можно посетить с друзьями, семьёй, коллегами и любимым человеком.\n〰️\n〰️\n〰️\n〰️\n〰️\n〰️\n〰️\n〰️\n〰️\n〰️\n📍\nСадовническая наб., д. 71\n💳\nот 3600 рублей\nРеклама. ИП Агишева Алена Леонидовна. ИНН 770703930959. 6+",
+      "full_text_source": "public_embed",
+      "marking": [
+        "Реклама. ИП Агишева Алена Леонидовна. ИНН 770703930959. 6+",
+        "https://go.kudago.com/4ha2V5m?erid=2SDnjeqvk3Z"
+      ],
+      "erid": [
+        "2SDnjeqvk3Z"
+      ],
+      "views_display": "3.93K",
+      "reactions": [
+        "❤ 5",
+        "👍 5",
+        "🔥 2"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "adult_theatre_scenario",
+      "relevance_note": "Свадебный сюжет и участие гостей; упомянуты друзья/коллеги, цена от 3600. Историческая реклама 18.10.2025; 6+ в маркировке. Не доказательство выездной программы.",
+      "links": [
+        {
+          "text": "«До свадьбы доживёт»",
+          "href": "https://go.kudago.com/4ha2V5m?erid=2SDnjeqvk3Z"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "«До свадьбы доживёт»",
+          "original_url": "https://go.kudago.com/4ha2V5m?erid=2SDnjeqvk3Z",
+          "status": 200,
+          "final_url": "https://morpheus-show.ru/do-svadby-dozhivet",
+          "title": "Иммерсивный шоу спектакль «До свадьбы доживет» в Москве от иммерсивного театра МОРФЕУС",
+          "error": null,
+          "access": "read"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-morpheus-wedding-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/morpheus-wedding-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Зрителю, выбирающему билет на сюжетный спектакль; это городской билетный продукт, не отдельный корпоративный пакет.",
+      "repetition_group": "morpheus-ticket",
+      "publication_identity": "https://t.me/kudago/37883",
+      "text_sha256": "ef63da17dfd083c3581a1ab9b3af7ce43a5b686afafade14c2efeb4d5d4b355f",
+      "age_days_asof": 380,
+      "over_365_days": true,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/morpheus-wedding.png"
+    },
+    {
+      "id": "event-technologies",
+      "new_in_this_audit": true,
+      "advertiser": "Event Technologies",
+      "publisher": "EVENT MBA | media",
+      "url": "https://t.me/Eventmbamedia/6364",
+      "date": "2025-09-02T14:01:02+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "🤔\nСезон выставок – время высокой конкуренции,\nи простой стенд уже не привлекает внимание. Гости хотят участвовать, а не просто смотреть.\nИменно здесь вступает в игру\nEvent Technologies.\nКомпания предлагает полный арсенал интерактивных решений:\n⚫️\nголографические кубы и вентиляторы с объёмными эффектами,\n⚫️\nпрозрачные OLED-экраны и Holobox,\n⚫️\nвиртуальные ведущие и фотозоны с искусственным интеллектом,\n⚫️\nсенсорные панели, игры с физическими контроллерами и промо-роботы,\n⚫️\nAR/VR для глубокого погружения в продукт.\nEvent Technologies\nпредлагает не просто аренду оборудования, а полное сопровождение\nот подбора техники до создания уникального контента, игр и приложений под ваши задачи и бренд. У команды за 14 лет работы на счету уже 1500+ успешных проектов по Москве и другим регионам России с крупными клиентами.\nЧтобы всегда быть в курсе интерактивных новинок и трендов в мире ивент-технологий, советуем подписаться на их канал\n✅\nЗа диджитал атмосферой для мероприятий к\nEvent Technologies.",
+      "full_text_source": "public_embed",
+      "marking": [
+        "https://t.me/+SZ4JvUubZGU0MDcy?erid=2VtzqxUSNXV",
+        "https://t.me/+SZ4JvUubZGU0MDcy?erid=2VtzqxUSNXV",
+        "https://t.me/+SZ4JvUubZGU0MDcy?erid=2VtzqxUSNXV"
+      ],
+      "erid": [
+        "2VtzqxUSNXV"
+      ],
+      "views_display": "3.4K",
+      "reactions": [],
+      "metrics_asof": "2026-11-02",
+      "category": "interactive_rental_partial_overlap",
+      "relevance_note": "Аренда OLED/интерактива с контентом и сопровождением; частичное прямое пересечение по экранам, не полный звук/свет/сцена. Историческая реклама 02.09.2025; CTA — приглашение в канал, не вступали.",
+      "links": [
+        {
+          "text": "Event Technologies.",
+          "href": "https://t.me/+SZ4JvUubZGU0MDcy?erid=2VtzqxUSNXV"
+        },
+        {
+          "text": "Event Technologies",
+          "href": "https://t.me/+SZ4JvUubZGU0MDcy?erid=2VtzqxUSNXV"
+        },
+        {
+          "text": "Event Technologies.",
+          "href": "https://t.me/+SZ4JvUubZGU0MDcy?erid=2VtzqxUSNXV"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "Event Technologies.",
+          "original_url": "https://t.me/+SZ4JvUubZGU0MDcy?erid=2VtzqxUSNXV",
+          "access": "not_followed",
+          "note": "Telegram/контакт/приглашение из оригинала; сообщения и вступления не выполнялись."
+        },
+        {
+          "label": "Event Technologies",
+          "original_url": "https://t.me/+SZ4JvUubZGU0MDcy?erid=2VtzqxUSNXV",
+          "access": "not_followed",
+          "note": "Telegram/контакт/приглашение из оригинала; сообщения и вступления не выполнялись."
+        },
+        {
+          "label": "Event Technologies.",
+          "original_url": "https://t.me/+SZ4JvUubZGU0MDcy?erid=2VtzqxUSNXV",
+          "access": "not_followed",
+          "note": "Telegram/контакт/приглашение из оригинала; сообщения и вступления не выполнялись."
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-event-technologies-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/event-technologies-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Организатору выставки или мероприятия, которому нужен интерактив; состав читателей канала не измерен.",
+      "repetition_group": "event-technologies",
+      "publication_identity": "https://t.me/eventmbamedia/6364",
+      "text_sha256": "8c28f31aa47996a8974479f4f7d543a5b15069f7fd7499a8c59427939a0f8357",
+      "age_days_asof": 426,
+      "over_365_days": true,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/event-technologies.png"
+    },
+    {
+      "id": "gudvin",
+      "new_in_this_audit": true,
+      "advertiser": "Гудвин",
+      "publisher": "EVENT MBA | media",
+      "url": "https://t.me/Eventmbamedia/8090",
+      "date": "2026-04-28T14:01:02+00:00",
+      "verification": "confirmed_live_marked",
+      "full_text": "В Москве начал работу новый крупный сервис по аренде декора «\nГудвин\n»\n✔️\nЧто предлагают:\n⚫️\nСтолы с увеличенной шириной 110 см для комфортной рассадки;\n⚫️\nСтулья модели «Парфюмер» с устойчивой конструкцией ножек, которые не портят напольное покрытие:\n⚫️\nШирокий выбор пуфов, текстиля, посуды и декоративных светильников.\nСервис:\n⚫️\nБесплатная аренда в случае нарушения сроков доставки.\n⚫️\nКруглосуточная поддержка для экстренной замены позиций;\n⚫️\nРабота со срочными заявками.\nПосмотреть\nкаталог можно здесь.\nРеклама. ИП Зайцева Дарья Юрьевна, ИНН: 246525696189",
+      "full_text_source": "public_embed",
+      "marking": [
+        "Реклама. ИП Зайцева Дарья Юрьевна, ИНН: 246525696189",
+        "https://gudvin.rent/?utm_source=EVENTMBA&amp;erid=2W5zFJVeyqT"
+      ],
+      "erid": [
+        "2W5zFJVeyqT"
+      ],
+      "views_display": "3.71K",
+      "reactions": [],
+      "metrics_asof": "2026-11-02",
+      "category": "decor_rental_adjacent",
+      "relevance_note": "Аренда декора/мебели и гарантия доставки; смежная услуга для агентства, не звук/свет или театр.",
+      "links": [
+        {
+          "text": "Гудвин",
+          "href": "https://clck.ru/3TBSEz"
+        },
+        {
+          "text": "каталог можно здесь.",
+          "href": "https://gudvin.rent/?utm_source=EVENTMBA&amp;erid=2W5zFJVeyqT"
+        }
+      ],
+      "cta_review": [
+        {
+          "label": "Гудвин",
+          "original_url": "https://clck.ru/3TBSEz",
+          "status": 200,
+          "final_url": "https://gudvin.rent/?utm_source=EVENTMBA&clckid=2e6ca831",
+          "title": "Гудвин",
+          "error": null,
+          "access": "read"
+        },
+        {
+          "label": "каталог можно здесь.",
+          "original_url": "https://gudvin.rent/?utm_source=EVENTMBA&erid=2W5zFJVeyqT",
+          "status": 200,
+          "final_url": "https://gudvin.rent/?utm_source=EVENTMBA&erid=2W5zFJVeyqT",
+          "title": "Гудвин",
+          "error": null,
+          "access": "read"
+        }
+      ],
+      "screenshot": "research/telegram-expanded-2026-11-02/ad-gudvin-full.png",
+      "raw_html": "research/telegram-expanded-2026-11-02/gudvin-original.html",
+      "screenshot_exists": true,
+      "audience_interpretation": "Организатору события, которому нужны мебель и декор в Москве; это адресат предложения, не подтверждённая аудитория канала.",
+      "repetition_group": "gudvin",
+      "publication_identity": "https://t.me/eventmbamedia/8090",
+      "text_sha256": "4eb0815184576d7ca2f716cc0e13a90cce4458ba5caa4fb374a255bb55ac80b5",
+      "age_days_asof": 188,
+      "over_365_days": false,
+      "measured_outcomes": {
+        "actual_spend": null,
+        "clicks": null,
+        "qualified_leads": null,
+        "orders": null,
+        "profit": null
+      },
+      "ad_purchase_method": "unknown; public post and ERID do not establish buying channel",
+      "site_screenshot": "../assets/telegram-expanded/gudvin.png"
+    }
+  ]
+}

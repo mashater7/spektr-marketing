@@ -1,0 +1,745 @@
+{
+  "title": "Повторная проверка рекламных объявлений VK для Спектра",
+  "review_date": "2026-11-02",
+  "scope": "12 внешних публикаций + 3 исторических записи Barkov; не полный рынок и не экспорт рекламного кабинета",
+  "summary": {
+    "publications": 15,
+    "external_publications": 12,
+    "barkov_cards": 3,
+    "visible_offer_groups": 11,
+    "additional_repeat_publications": 4,
+    "external_venues": 3,
+    "direct_technical_rental_ads_in_inspected_set": 0,
+    "spend_known": 0,
+    "leads_known": 0,
+    "views_known": 0
+  },
+  "external_posts": [
+    {
+      "id": "vk-01",
+      "filename": "vk-01-eventhunt-iqlab-643988.png",
+      "post_number": 643988,
+      "advertiser": "IQLAB",
+      "venue": {
+        "name": "Event Hunt — поиск подрядчиков для мероприятий",
+        "url": "https://vk.com/myeventhunt"
+      },
+      "observed_post_date": {
+        "visible_label": "20 окт",
+        "kind": "day_month_without_year",
+        "exact_iso_date": null,
+        "interpretation": "День и месяц видны; 2026 год следует из контекста сбора 28.10.2026, отдельно на кадре не напечатан."
+      },
+      "metrics": {
+        "likes": null,
+        "reactions": 1,
+        "reposts": null,
+        "comments": null,
+        "views": null
+      },
+      "metric_evidence": "Под строкой «Лайк» слева показаны красное сердце и число 1. Рядом со стрелкой числа нет; комментарии и просмотры не показаны.",
+      "relevance": "смежный",
+      "relevance_reason": "Научные шоу — смежное предложение театральному/развлекательному направлению; не конкурент по звуку, свету и LED.",
+      "format": "Видео и длинный текст; на плеере видно 00:54. Полная длительность и содержание ролика просмотром статичного снимка не проверены.",
+      "offer": "Научные шоу для агентств: крио, тесла, криомороженое, сценические программы, аренда реквизита, мастер-классы; 13 готовых шоу и варианты под ТЗ; подарок 5 000 ₽ на первый заказ новым партнёрам.",
+      "claims_not_verified": [
+        "13 лет на рынке",
+        "1500+ мероприятий в год",
+        "собственные ведущие",
+        "приезд за 30 минут",
+        "возможна постоплата"
+      ],
+      "cta": "Написать в Telegram, чтобы получить партнёрский прайс и примеры программ.",
+      "cta_urls": [
+        "https://t.me/SorolinLAB"
+      ],
+      "platform_ad_label": true,
+      "text_ad_marker": true,
+      "erid_visible": true,
+      "pinned": false,
+      "repeat_group": "iqlab-partner-offer",
+      "repeat_relation": "Первый из двух кадров с одинаковым предложением/текстом; не установлен факт тождественности видео.",
+      "conclusion": "Ясно названы агентство, условия и следующий шаг. Один видимый отклик не подтверждает лиды или продажи.",
+      "archive_capture_date": "2026-10-28",
+      "visually_reinspected_date": "2026-11-02",
+      "post_number_source": "Имя архивного файла; номер не показан в самом кадре.",
+      "post_url": null,
+      "evidence_path": "../assets/vk-tg/vk-01-eventhunt-iqlab-643988.png",
+      "metrics_as_of": "2026-10-28",
+      "evidence_sha256": "f1e6b3b1e92af74b9c66041d94f6ed3b28dd0892a640f2a05ccfa8c234c55548",
+      "evidence_bytes": 179516,
+      "archive_copy_sha256_matches": true,
+      "repeat_of": null,
+      "destination_verified": false,
+      "audience_basis": "Интерпретация видимого текста, не данные подписчиков/таргетинга"
+    },
+    {
+      "id": "vk-02",
+      "filename": "vk-02-eventhunt-iqlab-644154.png",
+      "post_number": 644154,
+      "advertiser": "IQLAB",
+      "venue": {
+        "name": "Event Hunt — поиск подрядчиков для мероприятий",
+        "url": "https://vk.com/myeventhunt"
+      },
+      "observed_post_date": {
+        "visible_label": "1 д назад",
+        "kind": "relative_days",
+        "exact_iso_date": null,
+        "interpretation": "Относительная дата на снимке 28.10.2026; ориентир — около 27 октября. Точная дата/время из кадра не восстановлены."
+      },
+      "metrics": {
+        "likes": null,
+        "reactions": null,
+        "reposts": 1,
+        "comments": null,
+        "views": null
+      },
+      "metric_evidence": "В нижней строке справа от стрелки «поделиться/репост» стоит 1. Число реакций не показано. Тип действия за счётчиком стрелки не раскрыт.",
+      "relevance": "смежный",
+      "relevance_reason": "Научные шоу для event-агентств; смежно театру, не прямой технический прокат.",
+      "format": "Видео и текст; на плеере 00:44, другой кадр по сравнению с vk-01. Это не доказывает иное либо то же видео.",
+      "offer": "То же партнёрское предложение научных шоу, 13 готовых программ и 5 000 ₽ на первый заказ.",
+      "claims_not_verified": [
+        "13 лет на рынке",
+        "1500+ мероприятий в год",
+        "собственные ведущие",
+        "приезд за 30 минут",
+        "возможна постоплата"
+      ],
+      "cta": "Написать в Telegram за партнёрским прайсом и примерами программ.",
+      "cta_urls": [
+        "https://t.me/SorolinLAB"
+      ],
+      "platform_ad_label": true,
+      "text_ad_marker": true,
+      "erid_visible": true,
+      "pinned": false,
+      "repeat_group": "iqlab-partner-offer",
+      "repeat_relation": "Повтор текста vk-01, отдельный номер публикации; видео не сопоставлено по содержанию.",
+      "conclusion": "Повтор предложения наблюдаем; выгодность повторной закупки и число новых обращений неизвестны.",
+      "archive_capture_date": "2026-10-28",
+      "visually_reinspected_date": "2026-11-02",
+      "post_number_source": "Имя архивного файла; номер не показан в самом кадре.",
+      "post_url": null,
+      "evidence_path": "../assets/vk-tg/vk-02-eventhunt-iqlab-644154.png",
+      "metrics_as_of": "2026-10-28",
+      "evidence_sha256": "26cd42fd66278fd66d71a284c753fb59c80cf5c3d60a4a88379e53e5bb504e3e",
+      "evidence_bytes": 194402,
+      "archive_copy_sha256_matches": true,
+      "repeat_of": "vk-01",
+      "destination_verified": false,
+      "audience_basis": "Интерпретация видимого текста, не данные подписчиков/таргетинга"
+    },
+    {
+      "id": "vk-03",
+      "filename": "vk-03-eventhunt-showkostum-643806.png",
+      "post_number": 643806,
+      "advertiser": "Мастерская «Шоу Костюм»",
+      "venue": {
+        "name": "Event Hunt — поиск подрядчиков для мероприятий",
+        "url": "https://vk.com/myeventhunt"
+      },
+      "observed_post_date": {
+        "visible_label": "12 окт",
+        "kind": "day_month_without_year",
+        "exact_iso_date": null,
+        "interpretation": "День и месяц видны; 2026 год подразумевается контекстом сбора, но отдельно не напечатан."
+      },
+      "metrics": {
+        "likes": null,
+        "reactions": null,
+        "reposts": null,
+        "comments": null,
+        "views": null
+      },
+      "metric_evidence": "Внизу видны кнопка «Лайк» и стрелка без чисел. Счётчиков комментариев/просмотров нет.",
+      "relevance": "смежный",
+      "relevance_reason": "Поставщик костюмов артистам/агентствам. Не прямой конкурент услуг «Спектра»; полезен только как смежный креатив для event-аудитории.",
+      "format": "Вертикальный кадр с моделью в костюме Эльзы и текст; исходный журнал называет вложение видео, воспроизведение на статичном снимке не проверено.",
+      "offer": "Готовый образ Эльзы для премиальных новогодних мероприятий и детских праздников; цена не указана.",
+      "claims_not_verified": [
+        "Образ задаёт премиальный уровень праздника — оценочное заявление рекламодателя"
+      ],
+      "cta": "Написать в сообщения, чтобы подобрать образ и узнать условия заказа.",
+      "cta_urls": [
+        "https://vk.ru/showkostum"
+      ],
+      "platform_ad_label": true,
+      "text_ad_marker": false,
+      "erid_visible": false,
+      "pinned": false,
+      "repeat_group": "showkostum-elsa",
+      "repeat_relation": "Один из трёх постов бренда, но самостоятельное предложение; не дубль акции или готового комплекта.",
+      "conclusion": "Показывает предмет предложения и понятный повод написать. Отсутствие числа возле кнопки не означает ноль реакций.",
+      "archive_capture_date": "2026-10-28",
+      "visually_reinspected_date": "2026-11-02",
+      "post_number_source": "Имя архивного файла; номер не показан в самом кадре.",
+      "post_url": null,
+      "evidence_path": "../assets/vk-tg/vk-03-eventhunt-showkostum-643806.png",
+      "metrics_as_of": "2026-10-28",
+      "evidence_sha256": "f7027efb90b961abf9df39df52c34532f870b4ae473493d4356967d0f0845e3a",
+      "evidence_bytes": 273661,
+      "archive_copy_sha256_matches": true,
+      "repeat_of": null,
+      "destination_verified": false,
+      "audience_basis": "Интерпретация видимого текста, не данные подписчиков/таргетинга"
+    },
+    {
+      "id": "vk-04",
+      "filename": "vk-04-eventhunt-showkostum-644033.png",
+      "post_number": 644033,
+      "advertiser": "Мастерская «Шоу Костюм»",
+      "venue": {
+        "name": "Event Hunt — поиск подрядчиков для мероприятий",
+        "url": "https://vk.com/myeventhunt"
+      },
+      "observed_post_date": {
+        "visible_label": "6 д назад",
+        "kind": "relative_days",
+        "exact_iso_date": null,
+        "interpretation": "Относительная дата; ориентир около 22.10.2026, точная дата не установлена."
+      },
+      "metrics": {
+        "likes": null,
+        "reactions": null,
+        "reposts": null,
+        "comments": null,
+        "views": null
+      },
+      "metric_evidence": "Кнопка «Лайк» и стрелка видны без чисел; комментарии и просмотры не показаны.",
+      "relevance": "смежный",
+      "relevance_reason": "Костюмы — смежный товар для артистов, не услуга технического обеспечения.",
+      "format": "Промомакет с костюмами, крупной скидкой и сроком; сопровождающий текст.",
+      "offer": "Скидка 10% на готовые костюмы до 25 октября; наличие, универсальный размер, без ожидания пошива; количество ограничено остатками.",
+      "claims_not_verified": [
+        "Наличие и универсальный размер",
+        "ограниченные остатки"
+      ],
+      "cta": "Посмотреть подборку товаров и написать в личные сообщения по наличию/оформлению.",
+      "cta_urls": [],
+      "cta_url_visible_fragment": "vk.ru/market-9592666?secti...",
+      "platform_ad_label": true,
+      "text_ad_marker": false,
+      "erid_visible": false,
+      "pinned": false,
+      "repeat_group": "showkostum-stock-sale",
+      "repeat_relation": "Самостоятельная акция; бренд и часть персонажей повторяются, предложение отличается от vk-03 и vk-05.",
+      "conclusion": "Содержание объясняет выгоду и срок, но эффективность скидки оценить нельзя: метрик и продаж нет.",
+      "archive_capture_date": "2026-10-28",
+      "visually_reinspected_date": "2026-11-02",
+      "post_number_source": "Имя архивного файла; номер не показан в самом кадре.",
+      "post_url": null,
+      "evidence_path": "../assets/vk-tg/vk-04-eventhunt-showkostum-644033.png",
+      "metrics_as_of": "2026-10-28",
+      "evidence_sha256": "437a8bbe2266a73b71be55ab444cf0e8f56f37e2c2114f799c136bc873073404",
+      "evidence_bytes": 735555,
+      "archive_copy_sha256_matches": true,
+      "repeat_of": null,
+      "destination_verified": false,
+      "audience_basis": "Интерпретация видимого текста, не данные подписчиков/таргетинга"
+    },
+    {
+      "id": "vk-05",
+      "filename": "vk-05-eventhunt-showkostum-644127.png",
+      "post_number": 644127,
+      "advertiser": "Мастерская «Шоу Костюм»",
+      "venue": {
+        "name": "Event Hunt — поиск подрядчиков для мероприятий",
+        "url": "https://vk.com/myeventhunt"
+      },
+      "observed_post_date": {
+        "visible_label": "2 д назад",
+        "kind": "relative_days",
+        "exact_iso_date": null,
+        "interpretation": "Относительная дата; ориентир около 26.10.2026, точная дата не установлена."
+      },
+      "metrics": {
+        "likes": null,
+        "reactions": 1,
+        "reposts": null,
+        "comments": null,
+        "views": null
+      },
+      "metric_evidence": "Под строкой кнопок видны красное сердце и 1. Число у стрелки отсутствует; комментарии и просмотры не показаны.",
+      "relevance": "смежный",
+      "relevance_reason": "Демонстрация костюмов для постановки; смежный поставщик театральному продукту.",
+      "format": "Фотоколлаж с персонажами «Волк и семеро козлят» и короткая подпись.",
+      "offer": "Готовый комплект костюмов по сказке, выполненный мастерской; без цены и явной скидки.",
+      "claims_not_verified": [],
+      "cta": "Перейти к подробной работе в собственном посте мастерской; отдельного призыва заказать нет.",
+      "cta_urls": [
+        "https://vk.ru/wall-9592666_12991"
+      ],
+      "cta_url_role": "Это целевой собственный пост мастерской, не URL внешней публикации Event Hunt.",
+      "platform_ad_label": true,
+      "text_ad_marker": false,
+      "erid_visible": false,
+      "pinned": false,
+      "repeat_group": "showkostum-goats-costumes",
+      "repeat_relation": "Третья отдельная подача того же бренда; не повтор текста vk-03/vk-04.",
+      "conclusion": "Визуально конкретный комплект. 1 реакция не позволяет сравнить его продажи с акцией или Эльзой.",
+      "archive_capture_date": "2026-10-28",
+      "visually_reinspected_date": "2026-11-02",
+      "post_number_source": "Имя архивного файла; номер не показан в самом кадре.",
+      "post_url": null,
+      "evidence_path": "../assets/vk-tg/vk-05-eventhunt-showkostum-644127.png",
+      "metrics_as_of": "2026-10-28",
+      "evidence_sha256": "4181282ca75bcb42169f70813648f0420b5b025d82156b8fe06cdf8214902e60",
+      "evidence_bytes": 517358,
+      "archive_copy_sha256_matches": true,
+      "repeat_of": null,
+      "destination_verified": false,
+      "audience_basis": "Интерпретация видимого текста, не данные подписчиков/таргетинга"
+    },
+    {
+      "id": "vk-06",
+      "filename": "vk-06-eventhunt-sites-644025.png",
+      "post_number": 644025,
+      "advertiser": "Олег Березовский — создание сайтов",
+      "venue": {
+        "name": "Event Hunt — поиск подрядчиков для мероприятий",
+        "url": "https://vk.com/myeventhunt"
+      },
+      "observed_post_date": {
+        "visible_label": "6 д назад",
+        "kind": "relative_days",
+        "exact_iso_date": null,
+        "interpretation": "Относительная дата; ориентир около 22.10.2026, точная дата не установлена."
+      },
+      "metrics": {
+        "likes": null,
+        "reactions": null,
+        "reposts": 1,
+        "comments": null,
+        "views": null
+      },
+      "metric_evidence": "В строке кнопок рядом со стрелкой стоит 1. Числа реакций, комментариев и просмотров не показаны.",
+      "relevance": "нерелевантный",
+      "relevance_reason": "Не конкурент технике или театру: продаёт создание сайтов. Оставлен для полноты архива и как свидетельство обращения к event-специалистам.",
+      "format": "Коллаж четырёх примеров сайтов, цена/рассрочка крупно, текст.",
+      "offer": "Сайты и лендинги на WordPress от 25 000 ₽, поэтапная оплата/рассрочка до 3 месяцев, мобильная адаптация.",
+      "claims_not_verified": [
+        "Опыт 9+ лет",
+        "много отзывов",
+        "упор на маркетинг и рабочие инструменты"
+      ],
+      "cta": "Написать автору по вопросам создания сайта.",
+      "cta_urls": [
+        "https://vk.com/berezovskyoleg"
+      ],
+      "platform_ad_label": true,
+      "text_ad_marker": true,
+      "erid_visible": true,
+      "pinned": false,
+      "repeat_group": "berezovsky-site-offer",
+      "repeat_relation": "Первый кадр пары с одинаковыми видимыми макетом, предложением и текстом.",
+      "conclusion": "Содержит цену входа, условия оплаты и контакт. Не использовать как доказательство спроса на услуги «Спектра».",
+      "archive_capture_date": "2026-10-28",
+      "visually_reinspected_date": "2026-11-02",
+      "post_number_source": "Имя архивного файла; номер не показан в самом кадре.",
+      "post_url": null,
+      "evidence_path": "../assets/vk-tg/vk-06-eventhunt-sites-644025.png",
+      "metrics_as_of": "2026-10-28",
+      "evidence_sha256": "f1e5768e07f5d39d5e6e54eb627e7fd9c1852c2f78392db2fd03844f26579967",
+      "evidence_bytes": 355648,
+      "archive_copy_sha256_matches": true,
+      "repeat_of": null,
+      "destination_verified": false,
+      "audience_basis": "Интерпретация видимого текста, не данные подписчиков/таргетинга"
+    },
+    {
+      "id": "vk-07",
+      "filename": "vk-07-eventhunt-sites-644175.png",
+      "post_number": 644175,
+      "advertiser": "Олег Березовский — создание сайтов",
+      "venue": {
+        "name": "Event Hunt — поиск подрядчиков для мероприятий",
+        "url": "https://vk.com/myeventhunt"
+      },
+      "observed_post_date": {
+        "visible_label": "21 ч назад",
+        "kind": "relative_hours",
+        "exact_iso_date": null,
+        "interpretation": "Известно только «21 ч назад» на снимке 28.10.2026. Без времени снимка нельзя выбрать точную дату 27 или 28 октября."
+      },
+      "metrics": {
+        "likes": null,
+        "reactions": null,
+        "reposts": null,
+        "comments": null,
+        "views": null
+      },
+      "metric_evidence": "«Лайк» и стрелка видны без чисел. Реакции, комментарии и просмотры числом не показаны.",
+      "relevance": "нерелевантный",
+      "relevance_reason": "Повтор рекламы разработки сайтов; не конкурент технике/театру.",
+      "format": "Тот же видимый коллаж сайтов и рекламный текст; отдельный номер публикации и иной ERID.",
+      "offer": "То же предложение сайтов от 25 000 ₽ и рассрочки до 3 месяцев.",
+      "claims_not_verified": [
+        "Опыт 9+ лет",
+        "много отзывов"
+      ],
+      "cta": "Написать автору.",
+      "cta_urls": [
+        "https://vk.com/berezovskyoleg"
+      ],
+      "platform_ad_label": true,
+      "text_ad_marker": true,
+      "erid_visible": true,
+      "pinned": false,
+      "repeat_group": "berezovsky-site-offer",
+      "repeat_relation": "Повтор видимого креатива vk-06; нельзя переносить его 1 репост на этот пост.",
+      "conclusion": "Повтор одного оффера, но собственные числовые показатели на втором снимке отсутствуют.",
+      "archive_capture_date": "2026-10-28",
+      "visually_reinspected_date": "2026-11-02",
+      "post_number_source": "Имя архивного файла; номер не показан в самом кадре.",
+      "post_url": null,
+      "evidence_path": "../assets/vk-tg/vk-07-eventhunt-sites-644175.png",
+      "metrics_as_of": "2026-10-28",
+      "evidence_sha256": "ec2a337f25b8cc6c4624f7abf0a7bde94d3845d2367c58aef3c075a927f3a166",
+      "evidence_bytes": 355593,
+      "archive_copy_sha256_matches": true,
+      "repeat_of": "vk-06",
+      "destination_verified": false,
+      "audience_basis": "Интерпретация видимого текста, не данные подписчиков/таргетинга"
+    },
+    {
+      "id": "vk-08",
+      "filename": "vk-08-eventhunt-pinned-644190.png",
+      "post_number": 644190,
+      "advertiser": "Вероника — певица с электроскрипкой",
+      "venue": {
+        "name": "Event Hunt — поиск подрядчиков для мероприятий",
+        "url": "https://vk.com/myeventhunt"
+      },
+      "observed_post_date": {
+        "visible_label": "7 ч назад",
+        "kind": "relative_hours",
+        "exact_iso_date": null,
+        "interpretation": "На снимке 28.10.2026 показано «7 ч назад». Без времени снимка точная календарная дата 27/28 октября не определена."
+      },
+      "metrics": {
+        "likes": null,
+        "reactions": null,
+        "reposts": null,
+        "comments": null,
+        "views": null
+      },
+      "metric_evidence": "Кнопки «Лайк» и стрелка без чисел. У названия виден значок закрепления; он не метрика. Нет чисел комментариев/просмотров.",
+      "relevance": "смежный",
+      "relevance_reason": "Артист на мероприятие — смежный развлекательный продукт; не технический подрядчик.",
+      "format": "Вложение с сообщением «Ошибка», одна строка текста и ссылка; видеосодержание не видно.",
+      "offer": "«Яркая певица с электроскрипкой»; программа, длительность и цена не указаны.",
+      "claims_not_verified": [],
+      "cta": "Перейти в профиль исполнителя; явного глагольного CTA нет.",
+      "cta_urls": [
+        "https://vk.ru/veronique7"
+      ],
+      "platform_ad_label": true,
+      "text_ad_marker": true,
+      "erid_visible": true,
+      "pinned": true,
+      "repeat_group": "veronique-performance",
+      "repeat_relation": "Позднее размещение того же текста/ссылки, что vk-09; видео не доступно для сравнения. Отдельная публикация в закрепе.",
+      "conclusion": "Можно подтвердить рекламный текст и закрепление; оценить музыкальный/визуальный хук по ошибке плеера нельзя.",
+      "archive_capture_date": "2026-10-28",
+      "visually_reinspected_date": "2026-11-02",
+      "post_number_source": "Имя архивного файла; номер не показан в самом кадре.",
+      "post_url": null,
+      "evidence_path": "../assets/vk-tg/vk-08-eventhunt-pinned-644190.png",
+      "metrics_as_of": "2026-10-28",
+      "evidence_sha256": "88e018399a1ecd2cdf90a66294405b221a3cff5907cb795f4199bcc60f84ec77",
+      "evidence_bytes": 27614,
+      "archive_copy_sha256_matches": true,
+      "repeat_of": "vk-09",
+      "destination_verified": false,
+      "audience_basis": "Интерпретация видимого текста, не данные подписчиков/таргетинга"
+    },
+    {
+      "id": "vk-09",
+      "filename": "vk-09-eventhunt-veronique-644013.png",
+      "post_number": 644013,
+      "advertiser": "Вероника — певица с электроскрипкой",
+      "venue": {
+        "name": "Event Hunt — поиск подрядчиков для мероприятий",
+        "url": "https://vk.com/myeventhunt"
+      },
+      "observed_post_date": {
+        "visible_label": "7 д назад",
+        "kind": "relative_days",
+        "exact_iso_date": null,
+        "interpretation": "Относительная дата; ориентир около 21.10.2026, точная дата не установлена."
+      },
+      "metrics": {
+        "likes": null,
+        "reactions": null,
+        "reposts": null,
+        "comments": null,
+        "views": null
+      },
+      "metric_evidence": "Кнопки «Лайк» и стрелка без чисел; комментарии и просмотры не показаны.",
+      "relevance": "смежный",
+      "relevance_reason": "Артист на мероприятие, соседний развлекательный бюджет.",
+      "format": "Ошибка загрузки вложения, короткая подпись и ссылка.",
+      "offer": "Певица с электроскрипкой, без детализации программы/цены.",
+      "claims_not_verified": [],
+      "cta": "Ссылка в профиль исполнителя; явного глагольного CTA нет.",
+      "cta_urls": [
+        "https://vk.ru/veronique7"
+      ],
+      "platform_ad_label": true,
+      "text_ad_marker": true,
+      "erid_visible": true,
+      "pinned": false,
+      "repeat_group": "veronique-performance",
+      "repeat_relation": "Более ранний из пары по относительной дате; текст/ссылка повторены в vk-08, тождественность видео не установлена.",
+      "conclusion": "Подтверждён повтор предложения, а не успешность рекламы или качество ролика.",
+      "archive_capture_date": "2026-10-28",
+      "visually_reinspected_date": "2026-11-02",
+      "post_number_source": "Имя архивного файла; номер не показан в самом кадре.",
+      "post_url": null,
+      "evidence_path": "../assets/vk-tg/vk-09-eventhunt-veronique-644013.png",
+      "metrics_as_of": "2026-10-28",
+      "evidence_sha256": "37b0973694c3d2eb918b9d86061ce10b573f1e43d096d2c2664a1cb5de9d5999",
+      "evidence_bytes": 26546,
+      "archive_copy_sha256_matches": true,
+      "repeat_of": null,
+      "destination_verified": false,
+      "audience_basis": "Интерпретация видимого текста, не данные подписчиков/таргетинга"
+    },
+    {
+      "id": "vk-10",
+      "filename": "vk-10-balashikha-staryigorod-1365682.png",
+      "post_number": 1365682,
+      "advertiser": "Кафе «Старый город»",
+      "venue": {
+        "name": "Балашиха Life",
+        "url": "https://vk.com/balashikha_life"
+      },
+      "observed_post_date": {
+        "visible_label": null,
+        "kind": "not_visible",
+        "exact_iso_date": null,
+        "interpretation": "Дата публикации не видна в сохранённом кадре. Дата 28.10 из прежнего журнала здесь не подменяет непосредственное наблюдение."
+      },
+      "metrics": {
+        "likes": null,
+        "reactions": null,
+        "reposts": null,
+        "comments": null,
+        "views": null
+      },
+      "metric_evidence": "Кадр заканчивается рекламной маркировкой и синей гостевой плашкой; строка даты/статистики не видна. Все поля null, не 0.",
+      "relevance": "смежный",
+      "relevance_reason": "Площадка для банкетов/корпоративов; соседний event-бюджет, не прямой прокатчик или выездной театр.",
+      "format": "Вертикальный макет кафе с банкетным столом, списком поводов и контактами; текст.",
+      "offer": "Банкеты, дни рождения, свадьбы, корпоративы и детские праздники в кафе на Советской, 14, Балашиха; цены нет.",
+      "claims_not_verified": [],
+      "cta": "Позвонить 8-495-529-33-16 / 8-925-589-44-73 и заказать мероприятие, описав пожелания; также дана ссылка профиля.",
+      "cta_urls": [
+        "https://vk.com/id712317897"
+      ],
+      "platform_ad_label": true,
+      "text_ad_marker": true,
+      "erid_visible": true,
+      "pinned": false,
+      "repeat_group": "staryigorod-events",
+      "advertiser_legal_visible": "ООО «РУССКИЕ БАНИ»",
+      "repeat_relation": "В выборке один пост этого кафе. То же указанное юрлицо, что у «Райского сада» vk-13, но другой бренд и оффер — не дубль.",
+      "conclusion": "Локальный банкетный продукт с прямым звонком. Сравнивать результат с B2B-техникой по этому снимку нельзя.",
+      "archive_capture_date": "2026-10-28",
+      "visually_reinspected_date": "2026-11-02",
+      "post_number_source": "Имя архивного файла; номер не показан в самом кадре.",
+      "post_url": null,
+      "evidence_path": "../assets/vk-tg/vk-10-balashikha-staryigorod-1365682.png",
+      "metrics_as_of": "2026-10-28",
+      "evidence_sha256": "51483486a0e139a84b4d22543f90dc2f1793da4b4ddc0dcc101a99f4955e58a8",
+      "evidence_bytes": 831664,
+      "archive_copy_sha256_matches": true,
+      "repeat_of": null,
+      "destination_verified": false,
+      "audience_basis": "Интерпретация видимого текста, не данные подписчиков/таргетинга"
+    },
+    {
+      "id": "vk-11",
+      "filename": "vk-11-podolsk-park-vzlet-271126.png",
+      "post_number": 271126,
+      "advertiser": "Парк «Взлёт» — программа с альпаками",
+      "venue": {
+        "name": "Подольск",
+        "url": "https://vk.com/podolsk_group_50"
+      },
+      "observed_post_date": {
+        "visible_label": "1 д назад",
+        "kind": "relative_days",
+        "exact_iso_date": null,
+        "interpretation": "Относительная дата; ориентир около 27.10.2026, точная дата не установлена."
+      },
+      "metrics": {
+        "likes": null,
+        "reactions": null,
+        "reposts": null,
+        "comments": null,
+        "views": null
+      },
+      "metric_evidence": "Кнопки «Лайк» и стрелка без чисел. 1/5 на фото — номер изображения в альбоме, не реакция/просмотр. Счётчиков комментариев/просмотров нет.",
+      "relevance": "смежный",
+      "relevance_reason": "Досуг/программа для детских групп — далёкий смежник событийного рынка; не прямой аналог взрослого корпоративного театра или техники.",
+      "format": "Альбом, виден первый кадр из пяти с альпаками; длинное описание программы.",
+      "offer": "Посещение альпак, коз и кроликов группами/классами; программа выпускного, один сопровождающий бесплатно на 10 детей; заявленные цены 700 ₽ детям и 800–900 ₽ взрослым.",
+      "claims_not_verified": [
+        "30 минут от МКАД",
+        "условия и цены программы — только текст рекламодателя на 28.10"
+      ],
+      "cta": "Купить билеты по короткой ссылке; бронирование времени заранее.",
+      "cta_urls": [
+        "https://clck.ru/3VuAwV"
+      ],
+      "platform_ad_label": true,
+      "text_ad_marker": true,
+      "erid_visible": true,
+      "pinned": false,
+      "repeat_group": "vzlet-school-groups",
+      "repeat_relation": "Здесь сохранён один пост. Журнал 42 сообщает о семи повторах, но шесть остальных снимков/постов в текущем реестре отсутствуют.",
+      "conclusion": "Хорошо обозначены конкретный заказчик, программа и цена, но это детский досуг. Семь размещений нельзя считать семью повторно проверенными примерами.",
+      "archive_capture_date": "2026-10-28",
+      "visually_reinspected_date": "2026-11-02",
+      "post_number_source": "Имя архивного файла; номер не показан в самом кадре.",
+      "post_url": null,
+      "evidence_path": "../assets/vk-tg/vk-11-podolsk-park-vzlet-271126.png",
+      "metrics_as_of": "2026-10-28",
+      "evidence_sha256": "37485bb58a7bec9c0e33945d8d154908f80b0472bff14192aeee92589be312be",
+      "evidence_bytes": 413971,
+      "archive_copy_sha256_matches": true,
+      "repeat_of": null,
+      "destination_verified": false,
+      "audience_basis": "Интерпретация видимого текста, не данные подписчиков/таргетинга"
+    },
+    {
+      "id": "vk-13",
+      "filename": "vk-13-balashikha-rayskiysad-korporativ-1365100.png",
+      "post_number": 1365100,
+      "advertiser": "Ресторан «Райский сад»",
+      "venue": {
+        "name": "Балашиха Life",
+        "url": "https://vk.com/balashikha_life"
+      },
+      "observed_post_date": {
+        "visible_label": "4 д назад",
+        "kind": "relative_days_partially_occluded",
+        "exact_iso_date": null,
+        "interpretation": "В нижней правой части перед синей плашкой читается «4 д назад»; ориентир около 24.10.2026. Точная календарная дата не напечатана."
+      },
+      "metrics": {
+        "likes": null,
+        "reactions": null,
+        "reposts": null,
+        "comments": null,
+        "views": null
+      },
+      "metric_evidence": "Нижняя строка частично перекрыта синей гостевой плашкой; видны верхние части кнопок, числовых метрик нет. Нельзя считать отсутствующие/перекрытые значения нулями.",
+      "relevance": "смежный",
+      "relevance_reason": "Ресторанный новогодний корпоратив — соседнее комплексное предложение, не прокатчик техники и не выездной театр.",
+      "format": "Новогодний промомакет с Дедом Морозом, программой и крупным телефоном; текст.",
+      "offer": "Новогодний корпоратив: праздничное меню, живая музыка, шоу-программа, Дед Мороз и Снегурочка; призыв забронировать дату; Балашиха, Текстильщиков, 1Б.",
+      "claims_not_verified": [],
+      "cta": "Забронировать столы/дату по телефону 8-977-798-95-55.",
+      "cta_urls": [],
+      "platform_ad_label": true,
+      "text_ad_marker": true,
+      "erid_visible": true,
+      "pinned": false,
+      "repeat_group": "rayskiysad-newyear",
+      "advertiser_legal_visible": "ООО «РУССКИЕ БАНИ»",
+      "repeat_relation": "В этом реестре один новогодний пост; одно юрлицо со «Старым городом», но не повтор его креатива.",
+      "conclusion": "Продаётся конкретный сезонный повод и бронирование. Число звонков, заполнение дат и окупаемость неизвестны.",
+      "archive_capture_date": "2026-10-28",
+      "visually_reinspected_date": "2026-11-02",
+      "post_number_source": "Имя архивного файла; номер не показан в самом кадре.",
+      "post_url": null,
+      "evidence_path": "../assets/vk-tg/vk-13-balashikha-rayskiysad-korporativ-1365100.png",
+      "metrics_as_of": "2026-10-28",
+      "evidence_sha256": "bbc0f1929fa31b2a07e49c431f05849d20c75a6d740e7789c2f2943c90a6a21c",
+      "evidence_bytes": 602600,
+      "archive_copy_sha256_matches": true,
+      "repeat_of": null,
+      "destination_verified": false,
+      "audience_basis": "Интерпретация видимого текста, не данные подписчиков/таргетинга"
+    }
+  ],
+  "barkov_posts": [
+    {
+      "id": "promo-2800",
+      "advertiser": "Event-Театр",
+      "post_url": "https://vk.ru/wall-17854636_2800",
+      "date_service_label": "21.07.2025 15:48",
+      "timezone": null,
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0,
+        "views": null,
+        "spend": null,
+        "leads": null
+      },
+      "classification_source": "Barkov: промопост",
+      "actual_delivery_placement": null,
+      "audience_basis": "Интерпретация текста, не данные таргетинга",
+      "cta_urls": [
+        "https://vk.me/immersivespb",
+        "https://vk.com/app5708398_-17854636"
+      ],
+      "destination_verified": false,
+      "repeat_offer_of": null,
+      "image": "../assets/vk-expanded/event-teatr-2800.png"
+    },
+    {
+      "id": "promo-2799",
+      "advertiser": "Event-Театр",
+      "post_url": "https://vk.ru/wall-17854636_2799",
+      "date_service_label": "21.07.2025 15:45",
+      "timezone": null,
+      "metrics": {
+        "likes": 1,
+        "comments": 0,
+        "reposts": 0,
+        "views": null,
+        "spend": null,
+        "leads": null
+      },
+      "classification_source": "Barkov: промопост",
+      "actual_delivery_placement": null,
+      "audience_basis": "Интерпретация текста, не данные таргетинга",
+      "cta_urls": [
+        "https://vk.me/immersivespb",
+        "https://vk.com/app5708398_-17854636"
+      ],
+      "destination_verified": false,
+      "repeat_offer_of": "promo-2800",
+      "image": "../assets/vk-expanded/event-teatr-2799.png"
+    },
+    {
+      "id": "promo-2798",
+      "advertiser": "Event-Театр",
+      "post_url": "https://vk.ru/wall-17854636_2798",
+      "date_service_label": "21.07.2025 14:08",
+      "timezone": null,
+      "metrics": {
+        "likes": 0,
+        "comments": 0,
+        "reposts": 0,
+        "views": null,
+        "spend": null,
+        "leads": null
+      },
+      "classification_source": "Barkov: промопост",
+      "actual_delivery_placement": null,
+      "audience_basis": "Интерпретация текста, не данные таргетинга",
+      "cta_urls": [],
+      "destination_verified": false,
+      "repeat_offer_of": null,
+      "image": "../assets/vk-expanded/event-teatr-2798.png"
+    }
+  ],
+  "method_limit": "Группировка по видимому тексту/офферу, не по уникальному видео и не по кампаниям. Запись, отсутствие счётчика и отсутствие действия не эквивалентны."
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "path": "research/33б-реклама-телеграм.md",
+    "sha256": "7c0fc0025f1152c31de6ecb2a70818477efca0a09f3cb405a38a27a487a444c3",
+    "bytes": 34926
+  },
+  {
+    "path": "research/45-телеграм-реклама-tgstat.md",
+    "sha256": "42a27acc279e9a847befab74b9395f875a588d568e5323efa7ee4e69f11595c9",
+    "bytes": 28862
+  },
+  {
+    "path": "research/49-аудит-соцсетей-и-мониторинга.md",
+    "sha256": "1e530c93da4b667ebae61993a4ba6e7bc3969261ddd0ab9175f747dd638c2365",
+    "bytes": 30927
+  },
+  {
+    "path": "research/53-telegram-telemetr-добор.md",
+    "sha256": "c8fb0b2501711e0d3a443519c219ae8c8ef5110f5bff047504da3890fe7fec97",
+    "bytes": 28035
+  },
+  {
+    "path": "research/54-telegram-рекламные-посты-добор.md",
+    "sha256": "6a62fba4b893db5413de4d3ee82c8484c4186e99555f2fc050c7aa69ebbf5bdc",
+    "bytes": 26484
+  },
+  {
+    "path": "research/55-telegram-разбор-рекламы.md",
+    "sha256": "6b777fc8b41a73475a6daebfc577d02b18bbffca1aac695bc1c171afadd4d1c9",
+    "bytes": 39280
+  },
+  {
+    "path": "research/63-телеграм-каналы-конкурентов-и-реклама.md",
+    "sha256": "af5c4a11158541f2d01a30a27a5e0078dbd505f487f4e9549c41cc45a5dd258e",
+    "bytes": 64087
+  },
+  {
+    "path": "research/68-telegram-расширенный-реестр-и-реклама.md",
+    "sha256": "c7ead4969fbc748595af42979f5ecfc2ed382eca0087cbc88e9b825e58e41723",
+    "bytes": 49204
+  },
+  {
+    "path": "research/telegram-expanded-2026-11-02/audit-final.json",
+    "sha256": "982f26c340fa151af071d213532ab793d337d1b042aefeb2188a7dc8dae8abaa",
+    "bytes": 183453
+  },
+  {
+    "path": "research/telegram-expanded-2026-11-02/ad-routes.json",
+    "sha256": "346c8d8907b2265f4fc34d0ec3722d2bbacec93e8f89dd75c8e2bbc27c288920",
+    "bytes": 162534
+  },
+  {
+    "path": "research/telegram-expanded-2026-11-02/19-originals.json",
+    "sha256": "2a9b4556f0edc101657290cebcb9340b7069bdcf90c3bd77085cff66dbfdc4fd",
+    "bytes": 97052
+  },
+  {
+    "path": "research/telegram-expanded-2026-11-02/new-originals.json",
+    "sha256": "a0609086f0098ec78d1297d28a2e8ac91dccdd0445f694e1fdae05a86b4eb5b4",
+    "bytes": 14239
+  },
+  {
+    "path": "research/telegram-expanded-2026-11-02/api-search-manifest.json",
+    "sha256": "cfc6480a94e08ff454e175472de9b9c125700d255fc1e5a70814e54c1c8c6d77",
+    "bytes": 198152
+  },
+  {
+    "path": "research/telegram-expanded-2026-11-02/api-brand-manifest.json",
+    "sha256": "2c91b7013148732fc7e61ff2d9046733a13d986570be75ee9c5d75b3e562824c",
+    "bytes": 145431
+  },
+  {
+    "path": "research/telegram-expanded-2026-11-02/publisher-searches.json",
+    "sha256": "411562d92ad8b8c6e9a558db4aad97ecf3096d34bfd21b0f928f3a9a4bf22e02",
+    "bytes": 898169
+  },
+  {
+    "path": "research/telemetr-ads-2026-11-01/11-manifest-and-classification.json",
+    "sha256": "fe56e9a07481cdc3a44b9bb138d470b4eb4427a55cfb16f0d7fb95e25e4a5115",
+    "bytes": 64420
+  },
+  {
+    "path": "research/telemetr-2026-11-01/17-deduplicated-classification.json",
+    "sha256": "e8b4e499355c23180d55f1069e1da0b7469e4217f646e616fdbf021070344ef2",
+    "bytes": 39201
+  },
+  {
+    "path": "research/telegram-ad-review-2026-11-01/ads-editorial.json",
+    "sha256": "fcfad5e0715debf180fef69438f8d06073e55052bccb72c7a95269ef92982be7",
+    "bytes": 20792
+  }
+]
