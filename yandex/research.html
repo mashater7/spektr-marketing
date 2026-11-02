@@ -8,7 +8,7 @@
   <title>Что мы проверили в Яндексе — Спектр</title>
   <link rel="stylesheet" href="../presentation.css">
   <link rel="stylesheet" href="../presentation-shell.css?v=examples-20261102">
-  <link rel="stylesheet" href="research.css?v=20261102">
+  <link rel="stylesheet" href="research.css?v=20261102b">
 </head>
 <body class="presentation plain-presentation" data-page="yandex" id="top">
   <a class="skip-link" href="#main-content">Перейти к содержанию</a>
@@ -19,23 +19,36 @@
       <header class="story-hero">
         <p class="story-kicker">СПЕКТР · ПРЕЗЕНТАЦИЯ ДЛЯ КЛИЕНТА</p>
         <h1>Что мы проверили в Яндексе</h1>
-        <p class="story-lead">Разобрали запросы, поисковые объявления и баннеры конкурентов. Ниже — что увидели, в каком сервисе и куда нажать, чтобы проверить самим.</p>
+        <p class="story-lead">Разобрали запросы, поисковые объявления и баннеры конкурентов. Сначала покажем, кто размещает рекламу, а кто только помогает её подсмотреть.</p>
         <div class="story-facts"><div><b>97</b><span>поисковых фраз проверили</span></div><div><b>9 из 25</b><span>доменов открыли в базе баннеров</span></div><div><b>0</b><span>кампаний запущено в рамках исследования</span></div></div>
-        <nav class="story-nav" aria-label="На этой странице"><a href="#map">Что за сервисы</a><a href="#phrases">Запросы</a><a href="#search">Поисковые объявления</a><a href="#banners">Баннеры</a><a href="#forecast">Бюджет</a><a href="#limits">Границы выводов</a></nav>
+        <nav class="story-nav" aria-label="На этой странице"><a href="#simple">Простая схема</a><a href="#map">Что за сервисы</a><a href="#phrases">Запросы</a><a href="#search">Поисковые объявления</a><a href="#banners">Баннеры</a><a href="#forecast">Бюджет</a></nav>
       </header>
+
+      <section class="story-section story-simple" id="simple">
+        <p class="story-number">СНАЧАЛА ГЛАВНОЕ</p><h2>Здесь три роли, а не четыре вида рекламы</h2>
+        <div class="role-diagram" aria-label="Яндекс Директ размещает рекламу в поиске и РСЯ. SpyWords и Keys.so показывают найденные объявления конкурентов. eLama даёт доступ к SpyWords.">
+          <div class="role-platform"><span>ГДЕ РЕКЛАМИРУЮТСЯ</span><b>Яндекс Директ</b><p>Компании создают и оплачивают здесь свою рекламу.</p></div>
+          <div class="role-paths"><div><b>Поиск Яндекса</b><span>текстовое объявление рядом с результатами</span></div><div><b>РСЯ</b><span>объявление на сайтах и в приложениях сети</span></div></div>
+          <div class="role-watchers"><article><span>ГДЕ МЫ СМОТРЕЛИ ЧУЖОЕ</span><b>SpyWords</b><p>Поисковые объявления и запросы конкурентов.</p></article><article><span>ГДЕ МЫ СМОТРЕЛИ ЧУЖОЕ</span><b>Keys.so</b><p>Мы открыли рекламу в РСЯ. Сервис <strong>также умеет</strong> показывать поисковые объявления.</p></article></div>
+          <div class="role-access"><b>eLama</b><span>дала нам вход в SpyWords. Сама она не является отдельной базой объявлений.</span></div>
+        </div>
+        <p class="story-verdict"><b>Главный ответ.</b> Для поиска чужой рекламы не нужны одновременно и SpyWords, и Keys.so: оба умеют её показывать. Мы начали поиск в SpyWords через eLama, а Keys.so использовали для РСЯ. Поисковый отчёт Keys.so с нашим списком запросов пока <strong>не сравнивали</strong> со SpyWords.</p>
+        <div class="story-links"><a class="story-button secondary" href="https://help.keys.so/obyavleniya-v-yandeks-direkt-po-zaprosu" target="_blank" rel="noopener">Поиск в Keys.so: инструкция ↗</a><a class="story-button secondary" href="https://help.keys.so/obyavleniya-v-rsya-po-domenu" target="_blank" rel="noopener">РСЯ в Keys.so: инструкция ↗</a><a class="story-button secondary" href="https://help.elama.ru/article/55743" target="_blank" rel="noopener">Как eLama открывает SpyWords ↗</a></div>
+      </section>
 
       <section class="story-section" id="map">
         <p class="story-number">01 / КАРТА</p><h2>Сначала разделим инструменты</h2>
-        <p class="section-lead">Один сервис не показывает всю рекламу Яндекса. Каждый отвечал на свой вопрос.</p>
+        <p class="section-lead">Что делает каждый сервис и что именно мы в нём проверили.</p>
         <div class="story-table-wrap"><table class="story-table"><thead><tr><th>Название</th><th>Что это</th><th>Зачем открывали</th></tr></thead><tbody>
           <tr><td><b>Яндекс Поиск</b></td><td>Страница с ответами на запрос и рекламными объявлениями.</td><td>Проверить, как объявление выглядит рядом с результатами.</td></tr>
           <tr><td><b>SpyWords</b></td><td>Сторонняя база запросов и поисковых объявлений конкурентов.</td><td>Найти тексты, рекламодателей и страницы перехода.</td></tr>
           <tr><td><b>eLama</b></td><td>Кабинет, через который мы получили доступ к SpyWords.</td><td>Вход к инструменту; это не отдельная база объявлений.</td></tr>
-          <tr><td><b>Keys.so</b></td><td>Сторонняя база объявлений в РСЯ — на сайтах и в приложениях сети Яндекса.</td><td>Посмотреть изображения, тексты и ссылки баннеров по доменам конкурентов.</td></tr>
+          <tr><td><b>Keys.so</b></td><td>Сторонняя база объявлений в Поиске и РСЯ.</td><td>Мы проверили РСЯ по доменам конкурентов. Поисковые объявления в Keys.so ещё не сравнивали со SpyWords.</td></tr>
           <tr><td><b>Яндекс Директ</b></td><td>Кабинет для управления своей рекламой.</td><td>Посчитать примерный бюджет поисковой кампании; чужие расходы там не видны.</td></tr>
           <tr><td><b>Wordstat</b></td><td>Статистика интереса к поисковым фразам.</td><td>Следующий шаг для уточнения частотности; по всей нашей подборке отдельной выгрузки Wordstat ещё нет.</td></tr>
         </tbody></table></div>
         <p class="story-note">РСЯ — рекламная сеть Яндекса. SEO — работа над обычными страницами сайта, без оплаты клика Яндексу. Наш список фраз — предварительная семантика, а не готовая кампания.</p>
+        <p class="story-note"><b>В Keys.so два похожих названия.</b> Текущий отчёт «Объявления в Яндекс Директ по запросу» обновляется; отдельный отчёт с пометкой «архив» содержит данные только до апреля 2025 года. <a href="https://help.keys.so/spravka-report-ads-yandex-direct" target="_blank" rel="noopener">Пояснение Keys.so ↗</a></p>
       </section>
 
       <section class="story-section" id="phrases">
@@ -52,7 +65,7 @@
         <div class="story-case"><div><span class="story-tag">РЕАЛЬНЫЙ ПРИМЕР · ПОИСК</span><h3>Sound-company: продают услугу вместе с работой</h3><p>В объявлении с пометкой «Промо» указаны доставка, монтаж, настройка и сопровождение звука. Для «Спектра» это повод описать полный состав своей услуги. Сколько заявок получил конкурент, мы не знаем.</p><div class="story-links"><a class="story-button" href="../assets/yandex-explained/soundcompany_promo.png" target="_blank" rel="noopener">Снимок объявления ↗</a><a class="story-button secondary" href="https://yandex.ru/search/?text=%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0%20%D0%B7%D0%B2%D1%83%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B5&lr=1" target="_blank" rel="noopener">Живая выдача Яндекса ↗</a></div></div><a class="story-case-image" href="../assets/yandex-explained/soundcompany_promo-excerpt.png" target="_blank" rel="noopener"><img src="../assets/yandex-explained/soundcompany_promo-excerpt.png" alt="Фрагмент поискового объявления Sound-company с пометкой Промо" loading="lazy"></a></div>
         <p class="story-caption">Живая выдача изменится со временем, географией и настройками пользователя. Снимок сохраняет именно то, что мы увидели 28 октября.</p>
         <div class="story-links"><a class="story-button" href="https://spywords.ru/sword.php?region=msk&amp;sword=esmedia.ru" target="_blank" rel="noopener">Конкурент ESmedia в SpyWords ↗</a><a class="story-button secondary" href="https://new.elama.ru/tools-external" target="_blank" rel="noopener">Вход через eLama ↗</a><a class="story-button secondary" href="../sources/37-elama-история-объявлений.md" target="_blank" rel="noopener">Наш разбор объявлений ↗</a></div>
-        <p class="story-caption">Отчёт SpyWords открывается после входа; при доступе через eLama может потребоваться повторная авторизация. Текущая база может отличаться от нашего сохранённого разбора.</p>
+        <p class="story-caption">SpyWords выбрали потому, что получили к нему доступ через eLama, и в нём уже провели проверку 97 фраз. Это не значит, что Keys.so хуже: его поисковый отчёт на этих фразах мы ещё не проверили. Отчёт SpyWords открывается после входа; текущая база может отличаться от сохранённого разбора.</p>
       </section>
 
       <section class="story-section" id="banners">
@@ -74,7 +87,7 @@
 
       <section class="story-section" id="limits">
         <p class="story-number">06 / РЕШЕНИЕ</p><h2>Что это исследование позволяет решить</h2>
-        <div class="story-conclusions"><article><b>Уже знаем</b><p>Какие услуги и обещания конкуренты показывают в поиске и доступной части РСЯ. Есть примеры объявлений, страниц перехода и предварительный список фраз.</p></article><article><b>Пока не знаем</b><p>Чужие расходы, клики, заявки и окупаемость. Своей кампании и A/B‑теста не было. Из 25 доменов в Keys.so открыты только 9.</p></article><article><b>Следующий шаг</b><p>Уточнить частотность в Wordstat, выбрать одну услугу и посадочную страницу. Затем запустить ограниченный тест поиска и сравнить с отдельным тестом РСЯ по заявкам и сметам.</p></article></div>
+        <div class="story-conclusions"><article><b>Уже знаем</b><p>Какие услуги и обещания конкуренты показывают в поиске и доступной части РСЯ. Есть примеры объявлений, страниц перехода и предварительный список фраз.</p></article><article><b>Пока не знаем</b><p>Чужие расходы, клики, заявки и окупаемость. Своей кампании и A/B‑теста не было. Из 25 доменов в Keys.so открыты только 9; его поисковый отчёт со SpyWords не сравнивали.</p></article><article><b>Следующий шаг</b><p>Уточнить частотность в Wordstat, выбрать одну услугу и посадочную страницу. Затем запустить ограниченный тест поиска и сравнить с отдельным тестом РСЯ по заявкам и сметам.</p></article></div>
         <div class="story-links"><a class="story-button" href="index.html#yandex-action">Рекомендация и бюджет теста →</a><a class="story-button secondary" href="index.html#yandex-proof">Все семь примеров →</a></div>
         <p class="story-caption">Данные снимков: 26–28 октября 2026. Состав страницы и ссылки проверены 2 ноября 2026.</p>
       </section>
