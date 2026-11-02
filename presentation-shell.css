@@ -444,3 +444,10 @@ html, body.presentation { background: #fff; }
   .presentation .page-intro { break-before: auto; }
   .deck-summary,.deck-facts,.owned-example-grid { break-inside: avoid; }
 }
+
+/* Separate service marketplaces */
+.marketplace-nav{border-top:1px solid var(--line);margin-top:18px;padding-top:14px;display:flex;flex-wrap:wrap;gap:8px}
+.marketplace-nav p{flex-basis:100%;margin:0 0 3px;font-size:10px;letter-spacing:.08em;color:var(--muted)}
+.marketplace-nav a{padding:9px 12px;border:1px solid #dce0e6;border-radius:4px;color:var(--ink);font-size:14px}
+.marketplace-nav a:hover,.marketplace-nav a[aria-current="page"]{background:#f6f7f9;color:#2457c5}
+@media(max-width:600px){.marketplace-nav a{flex:1 1 140px}}

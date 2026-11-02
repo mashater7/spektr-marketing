@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "checked_date": "2026-11-02",
+  "scope": "Static local HTML/Markdown links, structure and official source-date verification. No visual browser or live Avito verification.",
+  "local_html_links": 34,
+  "tactics": 6,
+  "quick_start_actions": 4,
+  "registered_sources": 16,
+  "official_post_dates_verified": 11,
+  "duplicate_ids": [],
+  "problems": []
+}

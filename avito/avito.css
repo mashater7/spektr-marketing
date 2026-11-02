@@ -1,0 +1,23 @@
+.avito-verdict { max-width:960px; border-top:1px solid #cdd1d6; margin:22px 0; padding:20px 0 0; }
+.avito-verdict>b { font-size:19px; line-height:1.4; }
+.avito-verdict p { font-size:16px; line-height:1.55; margin:10px 0 0; }
+.avito-tactic { border-top:1px solid #d9dde2; padding:25px 0; max-width:1000px; }
+.avito-tactic h3,.avito-example h3 { font:700 23px/1.25 Arial,sans-serif; letter-spacing:-.02em; margin:8px 0 14px; }
+.avito-tactic p,.avito-example p { font-size:15px; line-height:1.55; margin:0 0 12px; }
+.avito-tactic .avito-tag,.avito-example .avito-tag { font-size:11px; line-height:1.5; color:#626d7b; letter-spacing:.045em; }
+.avito-tactic .avito-source,.avito-example .avito-source,.avito-source { font-size:12px; line-height:1.6; color:#626d7b; }
+.avito-example-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:28px; margin:24px 0; }
+.avito-example { border-top:1px solid #d9dde2; padding:24px 0; min-width:0; }
+.avito-practice { max-width:1000px; }
+.avito-table-wrap { overflow-x:auto; margin:24px 0; }
+.avito-table { width:100%; border-collapse:collapse; font-size:14px; }
+.avito-table th,.avito-table td { border-bottom:1px solid #d9dde2; padding:15px 16px; text-align:left; vertical-align:top; line-height:1.5; }
+.avito-table th { font-size:12px; color:#626d7b; }
+.avito-table th:first-child,.avito-table td:first-child { padding-left:0; min-width:140px; }
+.avito-plan { padding-left:23px; max-width:1000px; }
+.avito-plan li { padding-left:6px; margin:0 0 17px; font-size:16px; line-height:1.6; }
+.avito-source-list { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:8px 32px; }
+.avito-source-list p { margin:8px 0; font-size:13px; line-height:1.55; }
+.avito-source-list small { color:#626d7b; font-size:12px; }
+@media(max-width:650px) { .avito-example-grid,.avito-source-list { grid-template-columns:1fr; }.avito-table { min-width:650px; }.avito-tactic h3,.avito-example h3 { font-size:22px; }.avito-plan li { font-size:15px; } }
+@media print { .avito-tactic,.avito-example { break-inside:avoid; }.avito-table-wrap { overflow:visible; }.avito-source-list { display:block; } }
