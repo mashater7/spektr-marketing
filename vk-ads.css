@@ -1,0 +1,20 @@
+.vk-verdict { padding:18px 0 0; margin-top:18px; border-top:1px solid #d9dde2; max-width:900px; }
+.vk-verdict b { font-size:18px; }.vk-verdict p { margin:8px 0 0; font-size:15px; line-height:1.5; }
+.vk-stats-wrap { overflow:auto; margin:18px 0; }
+.vk-stats { width:100%; border-collapse:collapse; font-size:14px; }
+.vk-stats th,.vk-stats td { padding:12px 14px; border-bottom:1px solid #e4e7eb; text-align:left; background:#fff; }
+.vk-stats th { font-size:12px; color:#68717c; font-weight:600; }
+.vk-stats th:first-child,.vk-stats td:first-child { padding-left:0; }
+.vk-stats td:nth-child(n+2) { white-space:nowrap; }
+.vk-ad-gallery { margin-top:36px; }
+.vk-ad-row { display:grid; grid-template-columns:220px minmax(0,1fr); gap:32px; padding:28px 0; border-top:1px solid #d9dde2; }
+.vk-full-post { display:flex; flex-direction:column; gap:8px; font-size:12px; }
+.vk-full-post img { display:block; width:220px; max-height:310px; object-fit:contain; object-position:50% 0; background:#f4f5f6; }
+.vk-ad-row h3 { font:700 24px/1.25 Arial,sans-serif; margin:9px 0 14px; letter-spacing:-.02em; }
+.vk-ad-row p { font-size:15px; line-height:1.5; max-width:740px; margin:0 0 12px; }
+.vk-ad-row p.vk-ad-label { font-size:12px; color:#606975; }
+.vk-ad-row p.vk-ad-metrics { font-size:14px; font-weight:700; }
+.vk-ad-row p.example-note { font-size:12px; color:#646e7a; }
+#community-examples { margin-top:38px; }#community-examples>.plain-note { margin:0 0 22px; }
+@media(max-width:650px) { .vk-ad-row { grid-template-columns:1fr; gap:18px; }.vk-full-post img { width:100%; height:300px; }.vk-stats { font-size:12px; }.vk-stats th,.vk-stats td { padding:10px 8px; }.vk-stats th:first-child,.vk-stats td:first-child { min-width:160px; }.vk-ad-row h3 { font-size:22px; } }
+@media print { .vk-ad-row { break-inside:avoid; }.vk-full-post img { max-height:220px; }.vk-stats-wrap { overflow:visible; } }

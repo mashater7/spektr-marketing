@@ -1,0 +1,1797 @@
+{
+  "asof": "2026-11-02",
+  "counts": {
+    "entities_checked": 64,
+    "original_entities": 44,
+    "expanded_entities": 20,
+    "profile_pages_inspected": 18,
+    "confirmed_profiles": 16,
+    "confirmed_with_posts": 15,
+    "confirmed_empty": 1,
+    "identity_unconfirmed": 2,
+    "not_confirmed": 46,
+    "proven_absent": 0,
+    "original_confirmed": 5,
+    "original_identity_unconfirmed": 1,
+    "original_not_confirmed": 38,
+    "new_detailed_profiles": 12,
+    "new_selected_posts": 34,
+    "all_selected_posts": 43
+  },
+  "profiles": [
+    {
+      "name": "LED Media Group",
+      "handle": "led_media_group",
+      "url": "https://www.threads.com/@led_media_group",
+      "followers": 816,
+      "observed_on": "2026-11-02",
+      "relevance": "Экраны и медиафасады: пересечение по оборудованию",
+      "geography": "Компания из исходной выборки; профиль не доказывает аренду на мероприятия или комплексный прокат",
+      "offer": "LED-экраны и медиафасады; показывают варианты применения",
+      "contact_path": "Сообщение → Instagram @led_media_group → ledmediagroup.ru",
+      "content": "Короткие демонстрации экранов: кинотеатр, прозрачный LED, стойка ресепшен.",
+      "takeaway": "Показывать зрителю эффект и место применения экрана; число подписчиков само по себе не означает много реакций.",
+      "new_detailed": true,
+      "status": "confirmed_public_posts",
+      "boundary": "Просмотрен доступный фрагмент ленты; это не выгрузка полного архива.",
+      "posts": [
+        {
+          "id": "DfNCklJmRMF",
+          "title": "Домашний кинотеатр: как вам?",
+          "date_displayed": "15 ч. назад",
+          "likes": 2,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@led_media_group/post/DfNCklJmRMF",
+          "evidence": [
+            "led_media_group.txt"
+          ]
+        },
+        {
+          "id": "DfIcpI0mS3-",
+          "title": "Акула на прозрачном LED-экране",
+          "date_displayed": "2 дня назад",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": 65,
+          "note": "В исходном наблюдении 65 просмотров и «Ответов пока нет»; при повторном открытии для скриншота — 66.",
+          "url": "https://www.threads.com/@led_media_group/post/DfIcpI0mS3-",
+          "evidence": [
+            "led_media_group.txt",
+            "post-led-transparent.txt"
+          ]
+        },
+        {
+          "id": "DfFkXVbEYYG",
+          "title": "LED-экран в стойке ресепшен",
+          "date_displayed": "3 дня назад",
+          "likes": 1,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@led_media_group/post/DfFkXVbEYYG",
+          "evidence": [
+            "led_media_group.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "https://www.instagram.com/led_media_group/",
+        "https://ledmediagroup.ru/"
+      ]
+    },
+    {
+      "name": "SM Group / soundman24",
+      "handle": "smgroup.tech",
+      "url": "https://www.threads.com/@smgroup.tech",
+      "followers": 86,
+      "observed_on": "2026-11-02",
+      "relevance": "Прямой: полный техпродакшн",
+      "geography": "Москва в шапке",
+      "offer": "Звук, свет и технический цикл от свадеб до модных показов",
+      "contact_path": "Сообщение или soundman24.ru из профиля",
+      "content": "Рабочий юмор, кейсы света, обсуждение требований площадки.",
+      "takeaway": "Соединять понятную инженерную задачу с готовым результатом; обсуждения дают темы для контента, а не доказательство продаж.",
+      "new_detailed": true,
+      "status": "confirmed_public_posts",
+      "boundary": "Просмотрен доступный фрагмент ленты; это не выгрузка полного архива.",
+      "posts": [
+        {
+          "id": "DdjQaO6DSYH",
+          "title": "Выиграли тендер — поздравьте как проигравшие",
+          "date_displayed": "21.09.2026",
+          "likes": 7,
+          "replies": 6,
+          "reposts": null,
+          "shares": null,
+          "views": 826,
+          "note": "В исходном наблюдении 826 просмотров; на позднем скриншоте — 828.",
+          "url": "https://www.threads.com/@smgroup.tech/post/DdjQaO6DSYH",
+          "evidence": [
+            "post-smgroup-tender.txt",
+            "smgroup.tech-september.txt"
+          ]
+        },
+        {
+          "id": "DdrQidPjZTr",
+          "title": "Маджента и зеленый: фирменные цвета в свете",
+          "date_displayed": "24.09.2026",
+          "likes": 11,
+          "replies": 1,
+          "reposts": 1,
+          "shares": 1,
+          "views": 491,
+          "note": "При повторном открытии для скриншота счетчик вырос до 492; в исходном замере 491.",
+          "url": "https://www.threads.com/@smgroup.tech/post/DdrQidPjZTr",
+          "evidence": [
+            "post-smgroup-colors.txt",
+            "smgroup.tech-scroll.txt",
+            "smgroup.tech-september.txt"
+          ]
+        },
+        {
+          "id": "Dd_6MONDYvB",
+          "title": "Звук, стекло, бетон и ограниченный бюджет",
+          "date_displayed": "02.10.2026",
+          "likes": 4,
+          "replies": 6,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@smgroup.tech/post/Dd_6MONDYvB",
+          "evidence": [
+            "smgroup.tech-scroll.txt",
+            "smgroup.tech-september.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "https://soundman24.ru/"
+      ]
+    },
+    {
+      "name": "T-Event",
+      "handle": "t_event_msk",
+      "url": "https://www.threads.com/@t_event_msk",
+      "followers": 51,
+      "observed_on": "2026-11-02",
+      "relevance": "Прямой: полный техпродакшн",
+      "geography": "Москва: официальный сайт; московские проекты",
+      "offer": "Техническое обеспечение событий",
+      "contact_path": "Сообщение → связанный Instagram; в постах зовут к полным выпускам по ссылкам в профиле",
+      "content": "Интервью и серия «Жизнь в прокате»: специалисты и мнения из профессии.",
+      "takeaway": "Снять короткую серию с инженерами: один вопрос, один реальный пример со смены.",
+      "new_detailed": true,
+      "status": "confirmed_public_posts",
+      "boundary": "Просмотрен доступный фрагмент ленты; это не выгрузка полного архива.",
+      "posts": [
+        {
+          "id": "De8sMo0lbi0",
+          "title": "Приглашение смотреть полный выпуск «Жизнь в прокате»",
+          "date_displayed": "6 дней назад",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@t_event_msk/post/De8sMo0lbi0",
+          "evidence": [
+            "t_event_msk.txt"
+          ]
+        },
+        {
+          "id": "De11WzYFQaz",
+          "title": "Гость выпуска — Владимир Губатов",
+          "date_displayed": "23.10.2026",
+          "likes": 1,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@t_event_msk/post/De11WzYFQaz",
+          "evidence": [
+            "t_event_msk.txt"
+          ]
+        },
+        {
+          "id": "DeZ9x70FEoG",
+          "title": "Вопрос аудитории: «А как считаете вы?»",
+          "date_displayed": "12.10.2026",
+          "likes": 1,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@t_event_msk/post/DeZ9x70FEoG",
+          "evidence": [
+            "t_event_msk.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "https://www.t-event.ru/company/",
+        "https://www.instagram.com/t_event_msk/"
+      ]
+    },
+    {
+      "name": "CMSOUND",
+      "handle": "crazymonkeysound",
+      "url": "https://www.threads.com/@crazymonkeysound",
+      "followers": 122,
+      "observed_on": "2026-11-02",
+      "relevance": "Прямой: техника",
+      "geography": "Москва явно в профиле",
+      "offer": "Звук, свет, LED, эффекты, бэклайн и трансляции",
+      "contact_path": "Сообщение или taplink.cc/crazymonkeysound",
+      "content": "Работа команды, свет и лазеры, форум; верхний видимый пост от декабря 2025.",
+      "takeaway": "Полезен как набор кейсов и услуг; темп публикаций 2026 года по этому профилю не подтвержден.",
+      "new_detailed": true,
+      "status": "confirmed_public_posts",
+      "boundary": "Просмотрен доступный фрагмент ленты; это не выгрузка полного архива.",
+      "posts": [
+        {
+          "id": "DSSu6UPDCbA",
+          "title": "Свой музыкальный проект между новогодними монтажами",
+          "date_displayed": "15.12.2025",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@crazymonkeysound/post/DSSu6UPDCbA",
+          "evidence": [
+            "crazymonkeysound.txt"
+          ]
+        },
+        {
+          "id": "DRKYAekjEZF",
+          "title": "День рождения PROSTEREO: свет и лазеры",
+          "date_displayed": "17.11.2025",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@crazymonkeysound/post/DRKYAekjEZF",
+          "evidence": [
+            "crazymonkeysound.txt"
+          ]
+        },
+        {
+          "id": "DQ44Vc6DI4K",
+          "title": "Форум «Москва 2030»",
+          "date_displayed": "10.11.2025",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@crazymonkeysound/post/DQ44Vc6DI4K",
+          "evidence": [
+            "crazymonkeysound.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "https://taplink.cc/crazymonkeysound",
+        "https://www.instagram.com/crazymonkeysound/"
+      ]
+    },
+    {
+      "name": "Media Universe",
+      "handle": "media_universe.ru",
+      "url": "https://www.threads.com/@media_universe.ru",
+      "followers": 7,
+      "observed_on": "2026-11-02",
+      "relevance": "Прямой: звук, свет, LED",
+      "geography": "Москва и МО явно в связанном Instagram",
+      "offer": "Техническое обеспечение под ключ; стационарные LED: проектирование, продажа и монтаж",
+      "contact_path": "Сообщение → Instagram → media-universe.ru",
+      "content": "LED на VK Fest, установка экранов, рабочий юмор; верхний пост от февраля 2026.",
+      "takeaway": "Показывать различие между прокатом для события и постоянной установкой; не смешивать их заявки.",
+      "new_detailed": true,
+      "status": "confirmed_public_posts",
+      "boundary": "Просмотрен доступный фрагмент ленты; это не выгрузка полного архива.",
+      "posts": [
+        {
+          "id": "DVUKwr_CtzL",
+          "title": "LED / VK Fest",
+          "date_displayed": "28.02.2026",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@media_universe.ru/post/DVUKwr_CtzL",
+          "evidence": [
+            "media_universe.ru.txt"
+          ]
+        },
+        {
+          "id": "DVDLPNMiN7v",
+          "title": "Стационарный LED: проектирование, продажа, установка",
+          "date_displayed": "22.02.2026",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@media_universe.ru/post/DVDLPNMiN7v",
+          "evidence": [
+            "media_universe.ru.txt"
+          ]
+        },
+        {
+          "id": "DQrogUriEfB",
+          "title": "Рабочий юмор: «сгорел на работе»",
+          "date_displayed": "05.11.2025",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@media_universe.ru/post/DQrogUriEfB",
+          "evidence": [
+            "media_universe.ru.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "https://www.instagram.com/media_universe.ru/",
+        "https://media-universe.ru/"
+      ]
+    },
+    {
+      "name": "Soundcheck Production",
+      "handle": "soundcheck.moscow",
+      "url": "https://www.threads.com/@soundcheck.moscow",
+      "followers": 29,
+      "observed_on": "2026-11-02",
+      "relevance": "Прямой: техника",
+      "geography": "Москва в профиле и на официальном сайте",
+      "offer": "Звук, свет, декор и сцена",
+      "contact_path": "Сообщение или +7 926 162-79-34; тот же номер на soundcheck.moscow",
+      "content": "Профессиональный юмор и короткие ролики с призывом посмотреть описание профиля.",
+      "takeaway": "Юмор помогает показать людей; рядом должно быть простое объяснение услуг и контакт.",
+      "new_detailed": true,
+      "status": "confirmed_public_posts",
+      "boundary": "Просмотрен доступный фрагмент ленты; это не выгрузка полного архива.",
+      "posts": [
+        {
+          "id": "DfKo4bOk6N9",
+          "title": "Лучшая мотивация",
+          "date_displayed": "день назад",
+          "likes": 1,
+          "replies": null,
+          "reposts": null,
+          "shares": 2,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@soundcheck.moscow/post/DfKo4bOk6N9",
+          "evidence": [
+            "soundcheck.moscow.txt"
+          ]
+        },
+        {
+          "id": "DfC2YDdk2og",
+          "title": "Вы просили — мы сделали",
+          "date_displayed": "4 дня назад",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@soundcheck.moscow/post/DfC2YDdk2og",
+          "evidence": [
+            "soundcheck.moscow.txt"
+          ]
+        },
+        {
+          "id": "De7IUewEXL-",
+          "title": "Они старались как могли",
+          "date_displayed": "25.10.2026",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@soundcheck.moscow/post/De7IUewEXL-",
+          "evidence": [
+            "soundcheck.moscow.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "https://soundcheck.moscow/"
+      ]
+    },
+    {
+      "name": "LUMARISE",
+      "handle": "lumarise_production",
+      "url": "https://www.threads.com/@lumarise_production",
+      "followers": 42,
+      "observed_on": "2026-11-02",
+      "relevance": "Прямой по услуге и московским проектам; федеральная география",
+      "geography": "Показаны Москва / Мосфильм и Красноярск; московская база не доказана",
+      "offer": "Технический продакшн, сценический дизайн, шоу-менеджмент",
+      "contact_path": "lumarise.ru/projects или +7 911 010-45-55",
+      "content": "Подготовка, результат, агентские кредиты и проекты в разных городах; верхний пост от сентября.",
+      "takeaway": "Показывать схему подготовки и итог; явно отмечать агентство и площадку.",
+      "new_detailed": true,
+      "status": "confirmed_public_posts",
+      "boundary": "Просмотрен доступный фрагмент ленты; это не выгрузка полного архива.",
+      "posts": [
+        {
+          "id": "DdYnL8DFxay",
+          "title": "Планы за кадром, результаты на сайте",
+          "date_displayed": "17.09.2026",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@lumarise_production/post/DdYnL8DFxay",
+          "evidence": [
+            "lumarise_production.txt"
+          ]
+        },
+        {
+          "id": "DclmyeWjUS8",
+          "title": "Автопрезентация на Мосфильме",
+          "date_displayed": "28.08.2026",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@lumarise_production/post/DclmyeWjUS8",
+          "evidence": [
+            "lumarise_production.txt"
+          ]
+        },
+        {
+          "id": "Da7rBUtjShe",
+          "title": "T-Бизнес «Локальный код»: Красноярск, 120 бегунов",
+          "date_displayed": "18.07.2026",
+          "likes": 1,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@lumarise_production/post/Da7rBUtjShe",
+          "evidence": [
+            "lumarise_production.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "https://lumarise.ru/projects",
+        "https://www.instagram.com/lumarise_production/"
+      ]
+    },
+    {
+      "name": "DS Group Productions",
+      "handle": "dsgroup_productions",
+      "url": "https://www.threads.com/@dsgroup_productions",
+      "followers": 28,
+      "observed_on": "2026-11-02",
+      "relevance": "Смежный: технический профиль, география не подтверждена",
+      "geography": "Нельзя автоматически объединять с @dsgroup_events или относить к Москве",
+      "offer": "Концерты, трансляции, конференции и городские события по связанному Instagram",
+      "contact_path": "Сообщение или связанный Instagram; внешняя заявочная ссылка не зафиксирована",
+      "content": "Концертные кейсы и вопросы о визуальном шоу, времени монтажа.",
+      "takeaway": "Вопросы из практики понятны коллегам; не принимать ответы коллег за заявки заказчиков.",
+      "new_detailed": true,
+      "status": "confirmed_public_posts",
+      "boundary": "Просмотрен доступный фрагмент ленты; это не выгрузка полного архива.",
+      "posts": [
+        {
+          "id": "DetW_iSkrjP",
+          "title": "«Отпетые мошенники» в клубе «Ленинское»",
+          "date_displayed": "20.10.2026",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@dsgroup_productions/post/DetW_iSkrjP",
+          "evidence": [
+            "dsgroup_productions.txt"
+          ]
+        },
+        {
+          "id": "DeMIC3gAMw-",
+          "title": "На какой концерт пойти ради визуального шоу?",
+          "date_displayed": "07.10.2026",
+          "likes": 1,
+          "replies": 6,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@dsgroup_productions/post/DeMIC3gAMw-",
+          "evidence": [
+            "dsgroup_productions.txt"
+          ]
+        },
+        {
+          "id": "DdRLLGiAPT5",
+          "title": "Нужен еще час монтажа, а гости уже пришли",
+          "date_displayed": "14.09.2026",
+          "likes": 1,
+          "replies": 1,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@dsgroup_productions/post/DdRLLGiAPT5",
+          "evidence": [
+            "dsgroup_productions.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "https://www.instagram.com/dsgroup_productions/"
+      ]
+    },
+    {
+      "name": "HEADLINER",
+      "handle": "headliner.rent",
+      "url": "https://www.threads.com/@headliner.rent",
+      "followers": 56,
+      "observed_on": "2026-11-02",
+      "relevance": "Прямой: техника",
+      "geography": "Москва / ЦФО подтверждены прошлым Instagram-разбором; свежие московские кейсы",
+      "offer": "Техника под идею мероприятия; опыт с 2015 года — заявление профиля",
+      "contact_path": "Сообщение или t.me/dariiazvuk из шапки; еще одна ссылка свернута",
+      "content": "Оркестр и полное техническое обеспечение; площадка и результат.",
+      "takeaway": "Связывать технику с задачей события и конкретной площадкой.",
+      "new_detailed": true,
+      "status": "confirmed_public_posts",
+      "boundary": "Зафиксированы два доступных верхних поста. Это не заявление, что всего в аккаунте два поста.",
+      "posts": [
+        {
+          "id": "DfHIibHCChK",
+          "title": "«Парковая симфония»: Имперский оркестр, сад «Эрмитаж»",
+          "date_displayed": "2 дня назад",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@headliner.rent/post/DfHIibHCChK",
+          "evidence": [
+            "headliner.rent.txt"
+          ]
+        },
+        {
+          "id": "De7iijEif-C",
+          "title": "Оборудование под любую идею; Ritz-Carlton Moscow",
+          "date_displayed": "25.10.2026",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@headliner.rent/post/De7iijEif-C",
+          "evidence": [
+            "headliner.rent.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "https://www.instagram.com/headliner.rent/",
+        "https://t.me/dariiazvuk"
+      ]
+    },
+    {
+      "name": "NB RENT",
+      "handle": "nb_rent",
+      "url": "https://www.threads.com/@nb_rent",
+      "followers": 54,
+      "observed_on": "2026-11-02",
+      "relevance": "Прямой: техника",
+      "geography": "Москва и МО прямо названы в посте De3q7VDkfGn от 24.10.2026",
+      "offer": "Свет, звук, экраны, сцена и эффекты под концепцию; «265 проектов за сезон 2025» — заявление компании",
+      "contact_path": "nbrent.ru/form или сообщение; отдельный пост предлагает бронировать осенние даты",
+      "content": "Кейсы с агентствами и артистами, вопросы фотографам и организаторам, сезонное предложение.",
+      "takeaway": "Самый предметный пример профессионального диалога: обсуждают тайминг, лазеры и взаимодействие команды.",
+      "new_detailed": true,
+      "status": "confirmed_public_posts",
+      "boundary": "Просмотрен доступный фрагмент ленты; это не выгрузка полного архива.",
+      "posts": [
+        {
+          "id": "De_exLNkZX8",
+          "title": "Фотографы и видеографы: что важно в работе с техкомандой?",
+          "date_displayed": "5 дней назад",
+          "likes": 1,
+          "replies": 14,
+          "reposts": null,
+          "shares": null,
+          "views": 384,
+          "note": "14 ответов включают реплики самого NB RENT; это не 14 уникальных клиентов.",
+          "url": "https://www.threads.com/@nb_rent/post/De_exLNkZX8",
+          "evidence": [
+            "nb_rent-october.txt",
+            "post-nbrent-partners.txt"
+          ]
+        },
+        {
+          "id": "DfE0CDXEduJ",
+          "title": "Организаторы: какие спецэффекты выбирали пары?",
+          "date_displayed": "3 дня назад",
+          "likes": 10,
+          "replies": 4,
+          "reposts": null,
+          "shares": 1,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@nb_rent/post/DfE0CDXEduJ",
+          "evidence": [
+            "nb_rent-october.txt"
+          ]
+        },
+        {
+          "id": "De0FDXjjKub",
+          "title": "Осенние даты: приглашение организаторам бронировать техпартнера",
+          "date_displayed": "23.10.2026",
+          "likes": 2,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@nb_rent/post/De0FDXjjKub",
+          "evidence": [
+            "nb_rent-offer.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "https://nbrent.ru/form",
+        "https://www.instagram.com/nb_rent/"
+      ]
+    },
+    {
+      "name": "REDO",
+      "handle": "redo.prod",
+      "url": "https://www.threads.com/@redo.prod",
+      "followers": 25,
+      "observed_on": "2026-11-02",
+      "relevance": "Смежный: зарубежный технический продакшн",
+      "geography": "Тбилиси в кейсе; Instagram «Not only Georgia». Москва не подтверждена",
+      "offer": "Technical production",
+      "contact_path": "Сообщение или связанный Instagram; внешняя заявочная ссылка не зафиксирована",
+      "content": "Команда и закулисье, смета → Excel → проверка склада → погрузка.",
+      "takeaway": "Показать подготовку как последовательность понятных действий; это полезнее списка приборов без задачи.",
+      "new_detailed": true,
+      "status": "confirmed_public_posts",
+      "boundary": "Просмотрен доступный фрагмент ленты; это не выгрузка полного архива.",
+      "posts": [
+        {
+          "id": "DdzlH6ZCIqH",
+          "title": "Рабочая шутка о звуке и световом пульте",
+          "date_displayed": "28.09.2026",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@redo.prod/post/DdzlH6ZCIqH",
+          "evidence": [
+            "redo.prod.txt"
+          ]
+        },
+        {
+          "id": "DdtvmhwDBww",
+          "title": "«Пошлая Молли», Тбилиси",
+          "date_displayed": "25.09.2026",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@redo.prod/post/DdtvmhwDBww",
+          "evidence": [
+            "redo.prod.txt"
+          ]
+        },
+        {
+          "id": "DdrNaZeCBvB",
+          "title": "Смета, Excel, склад, повторная проверка, погрузка",
+          "date_displayed": "24.09.2026",
+          "likes": 1,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@redo.prod/post/DdrNaZeCBvB",
+          "evidence": [
+            "redo.prod.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "https://www.instagram.com/redo.prod/"
+      ]
+    },
+    {
+      "name": "LiderLight",
+      "handle": "liderlight.ru",
+      "url": "https://www.threads.com/@liderlight.ru",
+      "followers": 88,
+      "observed_on": "2026-11-02",
+      "relevance": "Смежный: региональный технический подрядчик",
+      "geography": "Проект в Анапе; московская база не подтверждена",
+      "offer": "Аренда LED-экранов и света; «свой парк» и «20 лет» — заявления компании",
+      "contact_path": "liderlight.ru и публичные телефоны в постах",
+      "content": "Один проект ко Дню учителя в Анапе показан фото и видео.",
+      "takeaway": "Один кейс можно разложить по форматам; два поста не считать двумя независимыми проектами.",
+      "new_detailed": true,
+      "status": "confirmed_public_posts",
+      "boundary": "Два сохраненных поста относятся к одному мероприятию; это два формата, а не два кейса.",
+      "posts": [
+        {
+          "id": "DeHs70vjJpK",
+          "title": "День учителя в Анапе: фотографии",
+          "date_displayed": "05.10.2026",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@liderlight.ru/post/DeHs70vjJpK",
+          "evidence": [
+            "liderlight.ru.txt"
+          ]
+        },
+        {
+          "id": "DeHsJs7EsdW",
+          "title": "День учителя в Анапе: видео того же проекта",
+          "date_displayed": "05.10.2026",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@liderlight.ru/post/DeHsJs7EsdW",
+          "evidence": [
+            "liderlight.ru.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "http://www.liderlight.ru/"
+      ]
+    },
+    {
+      "name": "SHOWIN",
+      "handle": "showin.moscow",
+      "url": "https://www.threads.com/@showin.moscow",
+      "followers": 145,
+      "observed_on": "2026-11-02",
+      "relevance": "Прямой: техника",
+      "geography": "Москва",
+      "offer": "Техническое производство шоу",
+      "contact_path": "Сообщение или связанный Instagram showin.moscow",
+      "content": "Кейсы, объяснения и юмор профессии. Подробный предыдущий разбор сохранен в отчете 33в.",
+      "takeaway": "Сочетать результат работы с узнаваемыми ситуациями технической команды.",
+      "new_detailed": false,
+      "status": "confirmed_public_posts",
+      "boundary": "Просмотрен доступный фрагмент ленты; это не выгрузка полного архива.",
+      "posts": [
+        {
+          "id": "DfHsOlBgEpB",
+          "title": "Деньги и подрядчики",
+          "date_displayed": "2 дня назад",
+          "likes": 1,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@showin.moscow/post/DfHsOlBgEpB",
+          "evidence": [
+            "showin.moscow.txt"
+          ]
+        },
+        {
+          "id": "De_08mxDdl3",
+          "title": "Ценность офлайн-событий",
+          "date_displayed": "5 дней назад",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@showin.moscow/post/De_08mxDdl3",
+          "evidence": [
+            "showin.moscow.txt"
+          ]
+        },
+        {
+          "id": "De1r0vMjRPl",
+          "title": "Профессиональный мем",
+          "date_displayed": "23.10.2026",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@showin.moscow/post/De1r0vMjRPl",
+          "evidence": [
+            "showin.moscow.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "https://showin.moscow/",
+        "https://www.instagram.com/showin.moscow/"
+      ]
+    },
+    {
+      "name": "DS Group Events",
+      "handle": "dsgroup_events",
+      "url": "https://www.threads.com/@dsgroup_events",
+      "followers": 149,
+      "observed_on": "2026-11-02",
+      "relevance": "Смежный: иммерсивные мероприятия, ориентир для театра",
+      "geography": "СПб и Москва в названии",
+      "offer": "Организация иммерсивных мероприятий",
+      "contact_path": "Сообщение или связанный Instagram dsgroup_events",
+      "content": "Тренды, подготовка событий и иммерсивные кейсы; прежний подробный разбор в 33в.",
+      "takeaway": "Объяснять выбор формата и подготовку взрослого корпоративного спектакля.",
+      "new_detailed": false,
+      "status": "confirmed_public_posts",
+      "boundary": "Просмотрен доступный фрагмент ленты; это не выгрузка полного архива.",
+      "posts": [
+        {
+          "id": "DfFRqcggKi1",
+          "title": "Восемь трендов мероприятий 2027 года",
+          "date_displayed": "3 дня назад",
+          "likes": 2,
+          "replies": null,
+          "reposts": 1,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@dsgroup_events/post/DfFRqcggKi1",
+          "evidence": [
+            "dsgroup_events.txt"
+          ]
+        },
+        {
+          "id": "DeyfhAkjqw2",
+          "title": "За сколько времени начинать подготовку мероприятия?",
+          "date_displayed": "22.10.2026",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@dsgroup_events/post/DeyfhAkjqw2",
+          "evidence": [
+            "dsgroup_events.txt"
+          ]
+        },
+        {
+          "id": "DetUKdDjtCm",
+          "title": "Приглашение делиться сложными историями с мероприятий",
+          "date_displayed": "20.10.2026",
+          "likes": null,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@dsgroup_events/post/DetUKdDjtCm",
+          "evidence": [
+            "dsgroup_events.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "https://dsgroup-event.ru/",
+        "https://www.instagram.com/dsgroup_events/"
+      ]
+    },
+    {
+      "name": "TOP15MOSCOW",
+      "handle": "top15moscow",
+      "url": "https://www.threads.com/@top15moscow",
+      "followers": 22392,
+      "observed_on": "2026-11-02",
+      "relevance": "Медиа, не прямой конкурент",
+      "geography": "Медиа свадебной индустрии",
+      "offer": "Медиа о свадьбах, парах и событиях",
+      "contact_path": "top15moscow.ru или сообщение",
+      "content": "Знаменитости, свадьбы, сезонные и эмоциональные публикации.",
+      "takeaway": "Изучать язык и темы свадебной аудитории; не сравнивать размер медиа с базой технического подрядчика.",
+      "new_detailed": false,
+      "status": "confirmed_public_posts",
+      "boundary": "Просмотрен доступный фрагмент ленты; это не выгрузка полного архива.",
+      "posts": [
+        {
+          "id": "DfMVaoajLFM",
+          "title": "Образ Ирины Шейк на Хэллоуин",
+          "date_displayed": "22 ч. назад",
+          "likes": 8,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@top15moscow/post/DfMVaoajLFM",
+          "evidence": [
+            "top15moscow.txt"
+          ]
+        },
+        {
+          "id": "DfMVDwOjHUH",
+          "title": "Ангел и демон на плече",
+          "date_displayed": "22 ч. назад",
+          "likes": 6,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@top15moscow/post/DfMVDwOjHUH",
+          "evidence": [
+            "top15moscow.txt"
+          ]
+        },
+        {
+          "id": "De7U6dVjJXF",
+          "title": "Ваня Дмитриенко и Аня Пересильд: день рождения",
+          "date_displayed": "25.10.2026",
+          "likes": 5,
+          "replies": null,
+          "reposts": null,
+          "shares": null,
+          "views": null,
+          "note": null,
+          "url": "https://www.threads.com/@top15moscow/post/De7U6dVjJXF",
+          "evidence": [
+            "top15moscow.txt"
+          ]
+        }
+      ],
+      "identity_evidence": [
+        "https://top15moscow.ru/",
+        "https://www.instagram.com/top15moscow/"
+      ]
+    },
+    {
+      "name": "FPSGROUP",
+      "handle": "fpsgroup__",
+      "url": "https://www.threads.com/@fpsgroup__",
+      "followers": 1,
+      "observed_on": "2026-11-02",
+      "relevance": "Прямой по заявленным услугам; пустой профиль",
+      "geography": "Москва и МО в названии",
+      "offer": "Техническое обеспечение мероприятий",
+      "contact_path": "Сообщение или Instagram fpsgroup__",
+      "content": "Веток пока нет.",
+      "takeaway": "Наличие аккаунта не означает, что компания ведет канал.",
+      "new_detailed": false,
+      "status": "confirmed_empty",
+      "boundary": "Профиль доступен, но публичных веток нет; разбирать публикации невозможно.",
+      "posts": [],
+      "identity_evidence": [
+        "https://www.instagram.com/fpsgroup__/"
+      ]
+    }
+  ],
+  "registry": [
+    {
+      "name": "Fresh Vision Show",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "fresh_vis",
+      "prior_site": "https://fvis.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=fresh_vis&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "MF Group",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "mf_group",
+      "prior_site": "https://mf-group.com",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=mf_group&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "МистерВО",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "mistervo",
+      "prior_site": "https://mistervo.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=mistervo&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "ZVUK4EVENT",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "zvuk4event",
+      "prior_site": "https://zvuk4event.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=zvuk4event&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "RentalPoint",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "rentalpoint",
+      "prior_site": "https://rentalpoint.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=rentalpoint&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "LED Media Group",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "led.media.group",
+      "prior_site": "https://ledmediagroup.ru",
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@led_media_group",
+      "search_url": "https://www.threads.com/search?q=led.media.group&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads; найденный профиль открыт и проверен",
+      "result": "Старый ник led.media.group не привел к компании. Найден led_media_group; взаимная связь с Instagram, где указан ledmediagroup.ru."
+    },
+    {
+      "name": "ЭнергоСнаб",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "energosnab",
+      "prior_site": "https://energosnab.pro",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=energosnab&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "SM Group",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "smgroup.tech",
+      "prior_site": "https://soundman24.ru",
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@smgroup.tech",
+      "search_url": "https://www.threads.com/search?q=smgroup.tech&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads; найденный профиль открыт и проверен",
+      "result": "Профиль подтвержден по названию, услугам и связанному Instagram/сайту; публикации сохранены"
+    },
+    {
+      "name": "ONE-SHOW",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "oneshowru",
+      "prior_site": "https://one-show.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=oneshowru&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Музпрокат",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "musprokat",
+      "prior_site": "https://musprokat.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=musprokat&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Svet & Zvuk",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "svet-i-zvuk",
+      "prior_site": "https://svet-i-zvuk.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=svet-i-zvuk&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Prokat-Audio",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "prokataudio",
+      "prior_site": "https://prokat-audio.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=prokataudio&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "SHOWIN",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "showin.moscow",
+      "prior_site": "https://showin.moscow",
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@showin.moscow",
+      "search_url": "https://www.threads.com/search?q=showin.moscow&serp_type=default&filter=profiles",
+      "method": "Прямой просмотр известного профиля / переход из внутреннего поиска по услугам",
+      "result": "Профиль подтвержден по названию, услугам и связанному Instagram/сайту; публикации сохранены"
+    },
+    {
+      "name": "LIVE",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "live_events_engineering",
+      "prior_site": "https://liveee.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=live_events_engineering&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "ProfiPrazdnik",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "profiprazdnik",
+      "prior_site": "https://profiprazdnik.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=profiprazdnik&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Renta PRO",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "rentapro.ru",
+      "prior_site": "https://rentapro.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=rentapro.ru&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Light Technics",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "lighttechnics",
+      "prior_site": "https://lighttechnics.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=lighttechnics&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "System Rental",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "systemrental",
+      "prior_site": "https://systemrental.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=systemrental&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Party365",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "party365.ru",
+      "prior_site": "https://party365.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=party365.ru&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "SoundProkat",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "soundprokat",
+      "prior_site": "https://soundprokat.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=soundprokat&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "ArendaMedia",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "arendamedia",
+      "prior_site": "https://arendamedia.com",
+      "status": "identity_unconfirmed",
+      "threads_url": "https://www.threads.com/@arendamedia",
+      "search_url": "https://www.threads.com/search?q=arendamedia&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads; найденный профиль открыт и проверен",
+      "result": "@arendamedia: Владимир Иванов, 31 подписчик, веток и ссылки на компанию нет. Нельзя приписать ArendaMedia."
+    },
+    {
+      "name": "JackJack",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "jackjack.ru",
+      "prior_site": "https://jackjack.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=jackjack.ru&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "PlasmaOnline",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "plasmaonline",
+      "prior_site": "https://plasmaonline.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=plasmaonline&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Море Шоу",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "more-show",
+      "prior_site": "https://more-show.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=more-show&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Event-Театр",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "eventteatr",
+      "prior_site": "https://eventteatr.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=eventteatr&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Интриганы",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "intrigani",
+      "prior_site": "https://intrigani.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=intrigani&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "КорпИгра",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "korpigra",
+      "prior_site": "https://korpigra.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=korpigra&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "DS Group Events",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "dsgroup_events",
+      "prior_site": "https://dsgroup-event.ru",
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@dsgroup_events",
+      "search_url": "https://www.threads.com/search?q=dsgroup_events&serp_type=default&filter=profiles",
+      "method": "Прямой просмотр известного профиля / переход из внутреннего поиска по услугам",
+      "result": "Профиль подтвержден по названию, услугам и связанному Instagram/сайту; публикации сохранены"
+    },
+    {
+      "name": "Лига ведущих",
+      "cohort": "original",
+      "original_group": "main29",
+      "query": "liga-vedu",
+      "prior_site": "https://liga-vedu.ru",
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=liga-vedu&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Trend Event",
+      "cohort": "original",
+      "original_group": "instagram_additional14",
+      "query": "trendeventagency",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=trendeventagency&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Rental Service",
+      "cohort": "original",
+      "original_group": "instagram_additional14",
+      "query": "rentalservice.pro",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=rentalservice.pro&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Инсталл Профи",
+      "cohort": "original",
+      "original_group": "instagram_additional14",
+      "query": "installprofi",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=installprofi&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Lid’s Rent",
+      "cohort": "original",
+      "original_group": "instagram_additional14",
+      "query": "lidsrent",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=lidsrent&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "C-Light",
+      "cohort": "original",
+      "original_group": "instagram_additional14",
+      "query": "concert_light",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=concert_light&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Sun System",
+      "cohort": "original",
+      "original_group": "instagram_additional14",
+      "query": "sunsystem.ru",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=sunsystem.ru&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Optima Sound",
+      "cohort": "original",
+      "original_group": "instagram_additional14",
+      "query": "optimasound",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=optimasound&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Rent4all",
+      "cohort": "original",
+      "original_group": "instagram_additional14",
+      "query": "rent4all.ru",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=rent4all.ru&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Sound Tokus",
+      "cohort": "original",
+      "original_group": "instagram_additional14",
+      "query": "sound_tokus",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=sound_tokus&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Synchrotel",
+      "cohort": "original",
+      "original_group": "instagram_additional14",
+      "query": "synchrotel_moscow",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=synchrotel_moscow&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "T-Audio",
+      "cohort": "original",
+      "original_group": "instagram_additional14",
+      "query": "t_audio_com",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=t_audio_com&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "PixelRent",
+      "cohort": "original",
+      "original_group": "instagram_additional14",
+      "query": "pixelrent",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=pixelrent&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "dB Sound",
+      "cohort": "original",
+      "original_group": "instagram_additional14",
+      "query": "dbsound_group",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=dbsound_group&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "Orion",
+      "cohort": "original",
+      "original_group": "instagram_additional14",
+      "query": "orionartmultimedia",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=orionartmultimedia&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "TOP15MOSCOW",
+      "cohort": "original",
+      "original_group": "media",
+      "query": "top15moscow",
+      "prior_site": "https://top15moscow.ru",
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@top15moscow",
+      "search_url": "https://www.threads.com/search?q=top15moscow&serp_type=default&filter=profiles",
+      "method": "Прямой просмотр известного профиля / переход из внутреннего поиска по услугам",
+      "result": "Профиль подтвержден по названию, услугам и связанному Instagram/сайту; публикации сохранены"
+    },
+    {
+      "name": "T-Event",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "t_event_msk",
+      "prior_site": null,
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@t_event_msk",
+      "search_url": "https://www.threads.com/search?q=t_event_msk&serp_type=default&filter=profiles",
+      "method": "Прямой просмотр известного профиля / переход из внутреннего поиска по услугам",
+      "result": "Профиль подтвержден по названию, услугам и связанному Instagram/сайту; публикации сохранены"
+    },
+    {
+      "name": "Bestage",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "bestage_official",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=bestage_official&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "SoundExpert",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "soundexpert.pro",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=soundexpert.pro&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "HEADLINER",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "headliner.rent",
+      "prior_site": null,
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@headliner.rent",
+      "search_url": "https://www.threads.com/search?q=headliner.rent&serp_type=default&filter=profiles",
+      "method": "Прямой просмотр известного профиля / переход из внутреннего поиска по услугам",
+      "result": "Профиль подтвержден по названию, услугам и связанному Instagram/сайту; публикации сохранены"
+    },
+    {
+      "name": "Music Max Group",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "music_max_group",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=music_max_group&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "HappyLight",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "happylight_rent",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=happylight_rent&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "VSG Sound",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "vsgsound",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=vsgsound&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "D-Audio",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "daudio.ru",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=daudio.ru&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "RIG",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "rig_ru",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=rig_ru&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "NB RENT",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "nb_rent",
+      "prior_site": null,
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@nb_rent",
+      "search_url": "https://www.threads.com/search?q=nb_rent&serp_type=default&filter=profiles",
+      "method": "Прямой просмотр известного профиля / переход из внутреннего поиска по услугам",
+      "result": "Профиль подтвержден по названию, услугам и связанному Instagram/сайту; публикации сохранены"
+    },
+    {
+      "name": "REDO",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "redo.prod",
+      "prior_site": null,
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@redo.prod",
+      "search_url": "https://www.threads.com/search?q=redo.prod&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads; найденный профиль открыт и проверен",
+      "result": "Профиль подтвержден по названию, услугам и связанному Instagram/сайту; публикации сохранены"
+    },
+    {
+      "name": "Create Production",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "create_production",
+      "prior_site": null,
+      "status": "not_confirmed",
+      "threads_url": null,
+      "search_url": "https://www.threads.com/search?q=create_production&serp_type=default&filter=profiles",
+      "method": "Именной поиск внутри Threads",
+      "result": "Релевантный официальный профиль в проверенной выдаче не подтвержден; отсутствие аккаунта не доказано"
+    },
+    {
+      "name": "CMSOUND",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "crazymonkeysound",
+      "prior_site": null,
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@crazymonkeysound",
+      "search_url": "https://www.threads.com/search?q=crazymonkeysound&serp_type=default&filter=profiles",
+      "method": "Прямой просмотр известного профиля / переход из внутреннего поиска по услугам",
+      "result": "Профиль подтвержден по названию, услугам и связанному Instagram/сайту; публикации сохранены"
+    },
+    {
+      "name": "Media Universe",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "media_universe.ru",
+      "prior_site": null,
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@media_universe.ru",
+      "search_url": "https://www.threads.com/search?q=media_universe.ru&serp_type=default&filter=profiles",
+      "method": "Прямой просмотр известного профиля / переход из внутреннего поиска по услугам",
+      "result": "Профиль подтвержден по названию, услугам и связанному Instagram/сайту; публикации сохранены"
+    },
+    {
+      "name": "LUMARISE",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "lumarise_production",
+      "prior_site": null,
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@lumarise_production",
+      "search_url": "https://www.threads.com/search?q=lumarise_production&serp_type=default&filter=profiles",
+      "method": "Прямой просмотр известного профиля / переход из внутреннего поиска по услугам",
+      "result": "Профиль подтвержден по названию, услугам и связанному Instagram/сайту; публикации сохранены"
+    },
+    {
+      "name": "Soundcheck Production",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "soundcheck.moscow",
+      "prior_site": null,
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@soundcheck.moscow",
+      "search_url": "https://www.threads.com/search?q=soundcheck.moscow&serp_type=default&filter=profiles",
+      "method": "Прямой просмотр известного профиля / переход из внутреннего поиска по услугам",
+      "result": "Профиль подтвержден по названию, услугам и связанному Instagram/сайту; публикации сохранены"
+    },
+    {
+      "name": "LiderLight",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "liderlight.ru",
+      "prior_site": null,
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@liderlight.ru",
+      "search_url": "https://www.threads.com/search?q=liderlight.ru&serp_type=default&filter=profiles",
+      "method": "Прямой просмотр известного профиля / переход из внутреннего поиска по услугам",
+      "result": "Профиль подтвержден по названию, услугам и связанному Instagram/сайту; публикации сохранены"
+    },
+    {
+      "name": "DS Group Productions",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "dsgroup_productions",
+      "prior_site": null,
+      "status": "confirmed_public_posts",
+      "threads_url": "https://www.threads.com/@dsgroup_productions",
+      "search_url": "https://www.threads.com/search?q=dsgroup_productions&serp_type=default&filter=profiles",
+      "method": "Прямой просмотр известного профиля / переход из внутреннего поиска по услугам",
+      "result": "Профиль подтвержден по названию, услугам и связанному Instagram/сайту; публикации сохранены"
+    },
+    {
+      "name": "FPSGROUP",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "fpsgroup__",
+      "prior_site": null,
+      "status": "confirmed_empty",
+      "threads_url": "https://www.threads.com/@fpsgroup__",
+      "search_url": "https://www.threads.com/search?q=fpsgroup__&serp_type=default&filter=profiles",
+      "method": "Прямой просмотр известного профиля / переход из внутреннего поиска по услугам",
+      "result": "Профиль услуг Москвы/МО существует; «Веток пока нет»"
+    },
+    {
+      "name": "Bologa candidate",
+      "cohort": "expanded",
+      "original_group": "expanded",
+      "query": "bologa_production",
+      "prior_site": null,
+      "status": "identity_unconfirmed",
+      "threads_url": "https://www.threads.com/@bologa_production",
+      "search_url": "https://www.threads.com/search?q=bologa_production&serp_type=default&filter=profiles",
+      "method": "Прямой просмотр известного профиля / переход из внутреннего поиска по услугам",
+      "result": "@bologa_production: 0 подписчиков, закрытый профиль. Услуги видны в названии; связь с московским Bologa Rentall не доказана."
+    }
+  ],
+  "limits": [
+    "Это ограниченная, расширенная выборка, а не весь Threads.",
+    "Исходный реестр — 29 компаний основного списка, 14 дополнительных ников старой Instagram-таблицы и TOP15. Четыре поздних кандидата расширения Instagram (CHETKIYPIXEL, ART-Technics, RVS.Show, BASS LINE Group) отдельно в Threads не проверены и в 64 не включены.",
+    "Поиск проверяет ник/название в доступной выдаче; альтернативные ники, непроиндексированные и закрытые профили могут оставаться незамеченными.",
+    "У Bologa закрыт контент; принадлежность компании не доказана. ArendaMedia — пустой личный профиль без подтвержденной связи.",
+    "У FPSGROUP нет публичных веток. Полный архив остальных профилей не выгружен.",
+    "Не проводилась проверка рекламы, бюджетов, заявок, переписки или выручки."
+  ]
+}

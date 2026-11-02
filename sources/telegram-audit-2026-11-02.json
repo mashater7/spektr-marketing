@@ -1,0 +1,1390 @@
+{
+  "asof": "2026-11-02",
+  "summary": {
+    "original_ads": 19,
+    "confirmed_live_originals": 18,
+    "confirmed_archival_originals": 1,
+    "removed_originals": 0,
+    "new_confirmed_ads": 4,
+    "total_confirmed_ads": 23,
+    "new_theatre_ads": 2,
+    "new_partial_technical_rental_ads": 1,
+    "new_decor_context_ads": 1,
+    "original_direct_complex_event_rental_ads": 0,
+    "original_adult_corporate_theatre_ads": 0,
+    "original_generators_partial_overlap": 4,
+    "original_sellers_manufacturers": 3,
+    "original_event_adjacent": 12,
+    "known_companies_prior": 41,
+    "sites_checked": 40,
+    "sites_read": 29,
+    "sites_failed": 11,
+    "registry_companies_total": 44,
+    "confirmed_company_channels": 12,
+    "publisher_channels": 16,
+    "groups_headers_only": 9
+  },
+  "registry": [
+    {
+      "company": "MisterVo",
+      "domain": "mistervo.ru",
+      "role": "technical_rental_or_production",
+      "channel": "https://t.me/MisterVo_msk",
+      "ownership_status": "confirmed_business_link",
+      "ownership_proof": "Прямая ссылка с официального сайта, сохранена 01.11; сайт 02.11 не разрешился DNS. Канал 02.11 доступен.",
+      "result": "Публичный канал доступен.",
+      "subscribers_display": "1 181 subscribers",
+      "subscribers_asof": "2026-11-02",
+      "topics": "Новинки парка и конкретная техника, ролики с площадок, рабочие статусы, решения для ограниченного бюджета, видеоблог руководителя.",
+      "examples": [
+        {
+          "label": "Решение вместо множества дискоболов",
+          "url": "https://t.me/MisterVo_msk/2923"
+        },
+        {
+          "label": "Реквизит с прямой карточкой аренды",
+          "url": "https://t.me/MisterVo_msk/2938"
+        },
+        {
+          "label": "Короткий рабочий пост о подиуме",
+          "url": "https://t.me/MisterVo_msk/2945"
+        }
+      ],
+      "content_sample": {
+        "date": "2026-11-01",
+        "posts_read": 20
+      }
+    },
+    {
+      "company": "MF Group",
+      "domain": "mf-group.com",
+      "role": "technical_rental_or_production",
+      "channel": "https://t.me/mfgroup01",
+      "ownership_status": "confirmed_business_link",
+      "ownership_proof": "Прямая ссылка на канал с официального сайта, проверена 02.11.",
+      "result": "Публичный канал доступен.",
+      "subscribers_display": "195 subscribers",
+      "subscribers_asof": "2026-11-02",
+      "topics": "Кейсы с конкретными работами, инженерные решения, сметы и выбор подрядчика, энергоснабжение, подготовка и партнёрские проекты.",
+      "examples": [
+        {
+          "label": "Корпоратив: 10 часов монтажа после подготовки",
+          "url": "https://t.me/mfgroup01/448"
+        },
+        {
+          "label": "Что сравнивать в смете",
+          "url": "https://t.me/mfgroup01/459"
+        },
+        {
+          "label": "Четыре площадки и выполненные работы",
+          "url": "https://t.me/mfgroup01/489"
+        }
+      ],
+      "content_sample": {
+        "date": "2026-11-01",
+        "posts_read": 20
+      }
+    },
+    {
+      "company": "SHOWIN",
+      "domain": "showin.moscow",
+      "role": "technical_rental_or_production",
+      "channel": "https://t.me/showinchannel",
+      "ownership_status": "confirmed_business_link",
+      "ownership_proof": "Прямая ссылка на канал с официального сайта, проверена 02.11.",
+      "result": "Публичный канал доступен.",
+      "subscribers_display": "243 subscribers",
+      "subscribers_asof": "2026-11-02",
+      "topics": "Визуализации сцены, кейсы света/звука/видео, коллаборации, рабочий юмор, жизнь команды и ценность офлайн-событий.",
+      "examples": [
+        {
+          "label": "Визуализация Тон-центра",
+          "url": "https://t.me/showinchannel/1142"
+        },
+        {
+          "label": "Как техника поддерживает художественный замысел",
+          "url": "https://t.me/showinchannel/1134"
+        },
+        {
+          "label": "Прямое приглашение за арендой света",
+          "url": "https://t.me/showinchannel/1094"
+        }
+      ],
+      "content_sample": {
+        "date": "2026-11-01",
+        "posts_read": 20
+      }
+    },
+    {
+      "company": "ЭнергоСнаб",
+      "domain": "energosnab.pro",
+      "role": "technical_rental_or_production",
+      "channel": "https://t.me/energosnabpro",
+      "ownership_status": "confirmed_business_link",
+      "ownership_proof": "Прямая ссылка на канал с официального сайта, проверена 02.11.",
+      "result": "Публичный канал доступен.",
+      "subscribers_display": "251 subscribers",
+      "subscribers_asof": "2026-11-02",
+      "topics": "Энергетическая поддержка фестивалей, выставок, спортивных и культурных событий; монтаж, инфраструктура, видео с площадок.",
+      "examples": [
+        {
+          "label": "Энергетическая поддержка bar hub EXPO",
+          "url": "https://t.me/energosnabpro/1885"
+        },
+        {
+          "label": "Монтаж и инфраструктура New Star Weekend",
+          "url": "https://t.me/energosnabpro/1895"
+        },
+        {
+          "label": "Спортивный турнир",
+          "url": "https://t.me/energosnabpro/1902"
+        }
+      ],
+      "content_sample": {
+        "date": "2026-11-01",
+        "posts_read": 20
+      }
+    },
+    {
+      "company": "Fresh Vision Show",
+      "domain": "fvis.ru",
+      "role": "technical_rental_or_production",
+      "channel": "https://t.me/freshvisionshow",
+      "ownership_status": "confirmed_business_link",
+      "ownership_proof": "Прямая ссылка на канал с официального сайта, проверена 02.11.",
+      "result": "Публичный канал доступен.",
+      "subscribers_display": "30 subscribers",
+      "subscribers_asof": "2026-11-02",
+      "topics": "Дооснащение готовой площадки, экраны и трансляции, небольшие события, комплексное обеспечение мюзикла, фото с проектов.",
+      "examples": [
+        {
+          "label": "Экран 16×7 м вместо привычного задника",
+          "url": "https://t.me/freshvisionshow/1062"
+        },
+        {
+          "label": "Звук и 75-дюймовый телевизор для малого события",
+          "url": "https://t.me/freshvisionshow/1070"
+        },
+        {
+          "label": "Два дополнительных экрана и бэклайн в «Меркурии»",
+          "url": "https://t.me/freshvisionshow/1075"
+        }
+      ],
+      "content_sample": {
+        "date": "2026-11-01",
+        "posts_read": 20
+      }
+    },
+    {
+      "company": "LED Media Group",
+      "domain": "ledmediagroup.ru",
+      "role": "technical_rental_or_production",
+      "channel": "https://t.me/ledmediagroup",
+      "ownership_status": "unconfirmed",
+      "ownership_proof": null,
+      "result": "Канал существует; надёжная связь с официальным сайтом не подтверждена. Не включён в подтверждённые каналы компаний.",
+      "subscribers_display": "48 subscribers",
+      "subscribers_asof": "2026-11-02",
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "ArendaMedia",
+      "domain": "arendamedia.com",
+      "role": "technical_rental_or_production",
+      "channel": "https://t.me/arendamedia",
+      "ownership_status": "unconfirmed",
+      "ownership_proof": null,
+      "result": "Канал существует; надёжная связь с официальным сайтом не подтверждена. Не включён в подтверждённые каналы компаний.",
+      "subscribers_display": "3 subscribers",
+      "subscribers_asof": "2026-11-02",
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "Party365",
+      "domain": "party365.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "invite_only",
+      "ownership_proof": null,
+      "result": "Официальный сайт ведёт в закрытую группу. Без вступления лента не прочитана; участники не называются подписчиками канала.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "System Rental",
+      "domain": "systemrental.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "contact_or_nonchannel",
+      "ownership_proof": null,
+      "result": "Найдены ссылки Telegram, но подтверждённого публичного канала среди них нет: контакты/бот/приглашение. Переписка не открывалась.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "ONE SHOW",
+      "domain": "one-show.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "contact_or_nonchannel",
+      "ownership_proof": null,
+      "result": "Найдены ссылки Telegram, но подтверждённого публичного канала среди них нет: контакты/бот/приглашение. Переписка не открывалась.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "Soundprokat",
+      "domain": "soundprokat.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "contact_or_nonchannel",
+      "ownership_proof": null,
+      "result": "Найдены ссылки Telegram, но подтверждённого публичного канала среди них нет: контакты/бот/приглашение. Переписка не открывалась.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "Прокат-Аудио",
+      "domain": "prokat-audio.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "contact_or_nonchannel",
+      "ownership_proof": null,
+      "result": "Найдены ссылки Telegram, но подтверждённого публичного канала среди них нет: контакты/бот/приглашение. Переписка не открывалась.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "Звук4Event",
+      "domain": "zvuk4event.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "contact_or_nonchannel",
+      "ownership_proof": null,
+      "result": "Найдены ссылки Telegram, но подтверждённого публичного канала среди них нет: контакты/бот/приглашение. Переписка не открывалась.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "МузПрокат",
+      "domain": "musprokat.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "unresolved",
+      "ownership_proof": null,
+      "result": "Сайт не удалось прочитать 02.11; это не доказательство отсутствия канала. Старый результат сохранён в 33 б.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "SM Group",
+      "domain": "soundman24.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "contact_or_nonchannel",
+      "ownership_proof": null,
+      "result": "Найдены ссылки Telegram, но подтверждённого публичного канала среди них нет: контакты/бот/приглашение. Переписка не открывалась.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "RentalPoint",
+      "domain": "rentalpoint.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "contact_or_nonchannel",
+      "ownership_proof": null,
+      "result": "Найдены ссылки Telegram, но подтверждённого публичного канала среди них нет: контакты/бот/приглашение. Переписка не открывалась.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "PlasmaOnline",
+      "domain": "plasmaonline.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "contact_or_nonchannel",
+      "ownership_proof": null,
+      "result": "Найдены ссылки Telegram, но подтверждённого публичного канала среди них нет: контакты/бот/приглашение. Переписка не открывалась.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "JackJack",
+      "domain": "jackjack.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "contact_or_nonchannel",
+      "ownership_proof": null,
+      "result": "Найдены ссылки Telegram, но подтверждённого публичного канала среди них нет: контакты/бот/приглашение. Переписка не открывалась.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "LightTechnics",
+      "domain": "lighttechnics.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "not_found_in_checked_pages",
+      "ownership_proof": null,
+      "result": "В проверенной главной и найденной странице контактов публичный канал не обнаружен. Поиск не доказывает его отсутствия вообще.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "RentaPRO",
+      "domain": "rentapro.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "not_found_in_checked_pages",
+      "ownership_proof": null,
+      "result": "В проверенной главной и найденной странице контактов публичный канал не обнаружен. Поиск не доказывает его отсутствия вообще.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "ПрофиПраздник",
+      "domain": "profiprazdnik.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "not_found_in_checked_pages",
+      "ownership_proof": null,
+      "result": "В проверенной главной и найденной странице контактов публичный канал не обнаружен. Поиск не доказывает его отсутствия вообще.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "Liveee",
+      "domain": "liveee.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "not_found_in_checked_pages",
+      "ownership_proof": null,
+      "result": "В проверенной главной и найденной странице контактов публичный канал не обнаружен. Поиск не доказывает его отсутствия вообще.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "Свет и Звук",
+      "domain": "svet-i-zvuk.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "unresolved",
+      "ownership_proof": null,
+      "result": "Сайт не удалось прочитать 02.11; это не доказательство отсутствия канала. Старый результат сохранён в 33 б.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "МОРЕШОУ",
+      "domain": "more-show.ru",
+      "role": "children_family",
+      "channel": "https://t.me/moreshowcom_telegram",
+      "ownership_status": "confirmed_business_link",
+      "ownership_proof": "Посты/838 и/846 → more-show.ru; совпадает бренд и продукт. Сайт 02.11 не разрешился DNS.",
+      "result": "Публичный канал доступен.",
+      "subscribers_display": "1 488 subscribers",
+      "subscribers_asof": "2026-11-02",
+      "topics": "Сценарии детских праздников, сезонные программы, свободные даты и скидки, готовые пакеты, удобство родителей, серии фото.",
+      "examples": [
+        {
+          "label": "Свободные даты: скидка и подарок",
+          "url": "https://t.me/moreshowcom_telegram/1027"
+        },
+        {
+          "label": "Запрос числа и возраста детей для расчёта",
+          "url": "https://t.me/moreshowcom_telegram/1046"
+        },
+        {
+          "label": "Пакет: 2 часа, до 5 детей",
+          "url": "https://t.me/moreshowcom_telegram/1050"
+        }
+      ],
+      "content_sample": {
+        "date": "2026-11-01",
+        "posts_read": 20
+      }
+    },
+    {
+      "company": "КорпИгра",
+      "domain": "korpigra.ru",
+      "role": "corporate_games",
+      "channel": "https://t.me/korpigra_info",
+      "ownership_status": "confirmed_business_link",
+      "ownership_proof": "Связь официального сайта и канала сохранена 01.11. Публичный контакт korpigra02.11 прямо называет korpigra_info.",
+      "result": "Публичный канал доступен.",
+      "subscribers_display": "467 subscribers",
+      "subscribers_asof": "2026-11-02",
+      "topics": "Корпоративные игры, тимбилдинги, предложения для организаторов; основной тематический аудит в этом проходе не повторялся.",
+      "examples": [],
+      "content_sample": null
+    },
+    {
+      "company": "Event-Театр",
+      "domain": "eventteatr.ru",
+      "role": "adult_corporate_theatre",
+      "channel": "https://t.me/eventteatr_ru",
+      "ownership_status": "confirmed_business_link",
+      "ownership_proof": "Шапка канала → eventteatr.ru, пост/75 → репертуар. Контакт eventteatr на сайте — другой аккаунт.",
+      "result": "Публичный канал доступен.",
+      "subscribers_display": "17 subscribers",
+      "subscribers_asof": "2026-11-02",
+      "topics": "Роль гостя в спектакле, репертуар и трейлеры, готовая или новая постановка, подготовка, декабрьские даты и закулисье.",
+      "examples": [
+        {
+          "label": "Активное участие или наблюдение — выбор гостя",
+          "url": "https://t.me/eventteatr_ru/94"
+        },
+        {
+          "label": "Готовая постановка или новая история",
+          "url": "https://t.me/eventteatr_ru/96"
+        },
+        {
+          "label": "Планирование декабрьского корпоратива",
+          "url": "https://t.me/eventteatr_ru/103"
+        }
+      ],
+      "content_sample": {
+        "date": "2026-11-01",
+        "posts_read": 20
+      }
+    },
+    {
+      "company": "Интриганы",
+      "domain": "intrigani.ru",
+      "role": "adult_theatre_venue",
+      "channel": "https://t.me/intriganii",
+      "ownership_status": "confirmed_business_link",
+      "ownership_proof": "Прямая ссылка на канал с официального сайта, проверена 02.11.",
+      "result": "Публичный канал доступен.",
+      "subscribers_display": "64 subscribers",
+      "subscribers_asof": "2026-11-02",
+      "topics": "Сюжеты и билеты, роль зрителя в расследовании, эмоции гостей, драматургия и закулисье, аренда площадки, сертификаты.",
+      "examples": [
+        {
+          "label": "«Маскарад»: четыре акта и три параллельные сцены",
+          "url": "https://t.me/intriganii/88"
+        },
+        {
+          "label": "Отдельное предложение аренды особняка",
+          "url": "https://t.me/intriganii/77"
+        },
+        {
+          "label": "Анонс с датой, адресом и сайтом записи",
+          "url": "https://t.me/intriganii/91"
+        }
+      ],
+      "content_sample": {
+        "date": "2026-11-01",
+        "posts_read": 20
+      }
+    },
+    {
+      "company": "DS Group Event",
+      "domain": "dsgroup-event.ru",
+      "role": "event_agency_adjacent",
+      "channel": null,
+      "ownership_status": "contact_or_nonchannel",
+      "ownership_proof": null,
+      "result": "Найдены ссылки Telegram, но подтверждённого публичного канала среди них нет: контакты/бот/приглашение. Переписка не открывалась.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "Лига Ведущих",
+      "domain": "liga-vedu.ru",
+      "role": "presenters_adjacent",
+      "channel": null,
+      "ownership_status": "not_found_in_checked_pages",
+      "ownership_proof": null,
+      "result": "В проверенной главной и найденной странице контактов публичный канал не обнаружен. Поиск не доказывает его отсутствия вообще.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "РентаПлазма",
+      "domain": "rentaplazma.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "unresolved",
+      "ownership_proof": null,
+      "result": "Сайт не удалось прочитать 02.11; это не доказательство отсутствия канала. Старый результат сохранён в 33 б.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "ES Media",
+      "domain": "esmedia.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "not_found_in_checked_pages",
+      "ownership_proof": null,
+      "result": "В проверенной главной и найденной странице контактов публичный канал не обнаружен. Поиск не доказывает его отсутствия вообще.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "ОТиДО",
+      "domain": "otido-group.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "contact_or_nonchannel",
+      "ownership_proof": null,
+      "result": "Найдены ссылки Telegram, но подтверждённого публичного канала среди них нет: контакты/бот/приглашение. Переписка не открывалась.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "PRO-Интерактив",
+      "domain": "pro-interactive.ru",
+      "role": "event_rental_partial_overlap",
+      "channel": "https://t.me/pro_interactive_ru",
+      "ownership_status": "confirmed_business_link",
+      "ownership_proof": "Прямая ссылка на канал с официального сайта, проверена 02.11.",
+      "result": "Публичный канал доступен.",
+      "subscribers_display": "190 subscribers",
+      "subscribers_asof": "2026-11-02",
+      "topics": "Застройка и брендирование; ассортимент аренды; кейсы; подготовка и итоги «Ёлок»; сезонный декор/кейтеринг; рабочий юмор.",
+      "examples": [
+        {
+          "url": "https://t.me/pro_interactive_ru/1296",
+          "label": "Один подрядчик: оборудование, оформление и производство"
+        },
+        {
+          "url": "https://t.me/pro_interactive_ru/1354",
+          "label": "Новые позиции и брендирование"
+        },
+        {
+          "url": "https://t.me/pro_interactive_ru/1362",
+          "label": "EDTECH EXPO: задача и приглашение написать"
+        }
+      ],
+      "content_sample": {
+        "date": "2026-11-02",
+        "posts_read": 20,
+        "from": "2026-09-27T16:39:14+00:00",
+        "to": "2026-11-01T10:35:11+00:00"
+      }
+    },
+    {
+      "company": "ABK Production",
+      "domain": "abk-production.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "not_found_in_checked_pages",
+      "ownership_proof": null,
+      "result": "В проверенной главной и найденной странице контактов публичный канал не обнаружен. Поиск не доказывает его отсутствия вообще.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "LS Media",
+      "domain": "lsmedia-sound.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "contact_or_nonchannel",
+      "ownership_proof": null,
+      "result": "Найдены ссылки Telegram, но подтверждённого публичного канала среди них нет: контакты/бот/приглашение. Переписка не открывалась.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "LiveTechnics",
+      "domain": "livetechnics.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "not_found_in_checked_pages",
+      "ownership_proof": null,
+      "result": "В проверенной главной и найденной странице контактов публичный канал не обнаружен. Поиск не доказывает его отсутствия вообще.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "Star Screens",
+      "domain": "star-screens.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "unresolved",
+      "ownership_proof": null,
+      "result": "Сайт не удалось прочитать 02.11; это не доказательство отсутствия канала. Старый результат сохранён в 33 б.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "PWall",
+      "domain": "pwall.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "unresolved",
+      "ownership_proof": null,
+      "result": "Сайт не удалось прочитать 02.11; это не доказательство отсутствия канала. Старый результат сохранён в 33 б.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "Broadcast Studio",
+      "domain": "broadcaststudio.ru",
+      "role": "video_broadcast_adjacent",
+      "channel": "https://t.me/broadcaststudio",
+      "ownership_status": "confirmed_business_link",
+      "ownership_proof": "Публичный пост/306 называет Broadcast Studio и broadcaststudio.ru; услуги совпадают с официальным сайтом. Сайт отдельно ведёт в контакт Broadcast_st.",
+      "result": "Публичный канал доступен.",
+      "subscribers_display": "133 subscribers",
+      "subscribers_asof": "2026-11-02",
+      "topics": "Видеосъёмка и трансляции конференций; кейсы; съёмка товаров; AI-продакшн; нейрофотовыставка.",
+      "examples": [
+        {
+          "url": "https://t.me/broadcaststudio/298",
+          "label": "Трансляция конференции"
+        },
+        {
+          "url": "https://t.me/broadcaststudio/306",
+          "label": "Предложение видеопродакшна и официальный домен"
+        },
+        {
+          "url": "https://t.me/broadcaststudio/312",
+          "label": "Медицинский форум: состав работ"
+        }
+      ],
+      "content_sample": {
+        "date": "2026-11-02",
+        "posts_read": 20,
+        "from": "2025-11-18T18:27:51+00:00",
+        "to": "2026-10-29T06:45:51+00:00"
+      }
+    },
+    {
+      "company": "Sirius Project",
+      "domain": "siriusproject.ru",
+      "role": "technical_rental_or_production",
+      "channel": null,
+      "ownership_status": "unresolved",
+      "ownership_proof": null,
+      "result": "Сайт не удалось прочитать 02.11; это не доказательство отсутствия канала. Старый результат сохранён в 33 б.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "ProVibe",
+      "domain": null,
+      "role": "technical_candidate",
+      "channel": null,
+      "ownership_status": "unresolved",
+      "ownership_proof": null,
+      "result": "Название есть в прежнем расширенном списке. Поиск бренда вернул одноимённые музыкальные/крипто-ресурсы; официальный российский домен/канал не подтверждены, не подменены совпадением имени.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "Морфеус",
+      "domain": "morpheus-show.ru",
+      "role": "adult_corporate_theatre_with_family_programs",
+      "channel": "https://t.me/morpheushow",
+      "ownership_status": "confirmed_business_link",
+      "ownership_proof": "Официальный morpheus-show.ru прямо ссылается на morpheushow; morpheus_theatre — отдельный контакт, а не канал.",
+      "result": "Канал и 2 внешних маркированных объявления доступны. Объявления датированы 2025, не текущая кампания.",
+      "subscribers_display": "766 subscribers",
+      "subscribers_asof": "2026-11-02",
+      "topics": "Механика закрытых глаз и участия зрителя; сюжеты/мемные ассоциации; спектакль для двоих; приватный спецпоказ; афиша; отдельно семейные 6+ и взрослые 18+ сеансы.",
+      "examples": [
+        {
+          "url": "https://t.me/morpheushow/1057",
+          "label": "Приватный спектакль для двоих"
+        },
+        {
+          "url": "https://t.me/morpheushow/1064",
+          "label": "Спецпоказ для своей компании"
+        },
+        {
+          "url": "https://t.me/morpheushow/1070",
+          "label": "Семейные6+ и взрослые18+ программы разделены"
+        }
+      ],
+      "content_sample": {
+        "date": "2026-11-02",
+        "posts_read": 20,
+        "from": "2026-07-28T11:30:01+00:00",
+        "to": "2026-10-26T11:15:46+00:00"
+      }
+    },
+    {
+      "company": "Event Technologies",
+      "domain": null,
+      "role": "interactive_rental_partial_overlap",
+      "channel": null,
+      "ownership_status": "invite_only",
+      "ownership_proof": null,
+      "result": "Маркированная внешняя реклама/6364 ведёт по приглашению в Telegram. Не вступали; публичное имя, размер и история собственного канала не установлены.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    },
+    {
+      "company": "Гудвин",
+      "domain": "gudvin.rent",
+      "role": "decor_rental_adjacent",
+      "channel": null,
+      "ownership_status": "not_a_channel_audit",
+      "ownership_proof": null,
+      "result": "Подтверждены внешняя реклама/8090 и переход в каталог. Собственный канал этим проходом не устанавливался.",
+      "subscribers_display": null,
+      "subscribers_asof": null,
+      "topics": null,
+      "examples": null,
+      "content_sample": null
+    }
+  ],
+  "ads": [
+    {
+      "id": "morpheus-corporate",
+      "advertiser": "Морфеус",
+      "publisher": "KudaGo: Москва ✔",
+      "url": "https://t.me/kudago/39431",
+      "date": "2025-12-24T16:05:14+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "3.99K",
+      "reactions": [
+        "❤ 8",
+        "👍 2",
+        "🥰 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "adult_theatre_corporate",
+      "relevance_note": "Прямо предлагает спецпоказ для компании/корпоратива. Историческая реклама 24.12.2025; 6+ в маркировке, поэтому не называем весь продукт 18+. Кнопка сертификата доходит до правильного домена, страница сегодня 403.",
+      "erid": [
+        "2SDnjdEJRHJ"
+      ],
+      "screenshot": "../assets/telegram-expanded/morpheus-corporate.png",
+      "offer_summary": "Сертификат и отдельный спецпоказ для корпоратива. Человек участвует в истории; формат объясняют через ощущения.",
+      "cta_summary": "Ссылка на сертификат ведёт на правильный домен, но страница сейчас возвращает 403.",
+      "conclusion": "Подходит как пример объяснения корпоративного формата. Не доказывает выездную программу или спрос на наш театр."
+    },
+    {
+      "id": "event-technologies",
+      "advertiser": "Event Technologies",
+      "publisher": "EVENT MBA | media",
+      "url": "https://t.me/Eventmbamedia/6364",
+      "date": "2025-09-02T14:01:02+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "3.4K",
+      "reactions": [],
+      "metrics_asof": "2026-11-02",
+      "category": "interactive_rental_partial_overlap",
+      "relevance_note": "Аренда OLED/интерактива с контентом и сопровождением; частичное прямое пересечение по экранам, не полный звук/свет/сцена. Историческая реклама 02.09.2025; CTA — приглашение в канал, не вступали.",
+      "erid": [
+        "2VtzqxUSNXV"
+      ],
+      "screenshot": "../assets/telegram-expanded/event-technologies.png",
+      "offer_summary": "OLED, голограммы, сенсорные панели и AR/VR с подбором техники и созданием контента.",
+      "cta_summary": "Приглашение в канал компании. В закрытый канал не вступали.",
+      "conclusion": "Близкий пример по экранам и сопровождению. В конце предлагают подписаться, а не сразу запросить смету."
+    },
+    {
+      "id": "morpheus-wedding",
+      "advertiser": "Морфеус",
+      "publisher": "KudaGo: Москва ✔",
+      "url": "https://t.me/kudago/37883",
+      "date": "2025-10-18T12:05:26+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "3.93K",
+      "reactions": [
+        "❤ 5",
+        "👍 5",
+        "🔥 2"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "adult_theatre_scenario",
+      "relevance_note": "Свадебный сюжет и участие гостей; упомянуты друзья/коллеги, цена от 3600. Историческая реклама 18.10.2025; 6+ в маркировке. Не доказательство выездной программы.",
+      "erid": [
+        "2SDnjeqvk3Z"
+      ],
+      "screenshot": "../assets/telegram-expanded/morpheus-wedding.png",
+      "offer_summary": "Сюжетная завязка, роль участника, адрес и цена от 3 600 ₽. В маркировке 6+.",
+      "cta_summary": "Переход к странице конкретного спектакля.",
+      "conclusion": "Полезно ясно показать, что делает гость. Это билетный продукт; цену нельзя переносить на корпоратив."
+    },
+    {
+      "id": "gudvin",
+      "advertiser": "Гудвин",
+      "publisher": "EVENT MBA | media",
+      "url": "https://t.me/Eventmbamedia/8090",
+      "date": "2026-04-28T14:01:02+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "3.71K",
+      "reactions": [],
+      "metrics_asof": "2026-11-02",
+      "category": "decor_rental_adjacent",
+      "relevance_note": "Аренда декора/мебели и гарантия доставки; смежная услуга для агентства, не звук/свет или театр.",
+      "erid": [
+        "2W5zFJVeyqT"
+      ],
+      "screenshot": "../assets/telegram-expanded/gudvin.png",
+      "offer_summary": "Мебель и декор; обещают поддержку 24/7 и бесплатную аренду при нарушении сроков доставки.",
+      "cta_summary": "Каталог на gudvin.rent.",
+      "conclusion": "Смежная услуга. Полезна конкретность условий; такую гарантию можно обещать лишь при готовности её выполнять."
+    },
+    {
+      "id": "smartmice-newyear",
+      "advertiser": "SMARTMICE: пять идей для корпоратива",
+      "publisher": "Event ru – все про ивенты и эвенты",
+      "url": "https://t.me/TheBestOfEventRu/10183",
+      "date": "2026-09-21T09:32:52+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "1.11K",
+      "reactions": [
+        "❤ 4",
+        "🔥 4",
+        "⚡ 3",
+        "👍 2",
+        "👏 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "erid": [
+        "2VtzquxHHdE"
+      ],
+      "screenshot": "../assets/telegram-expanded/smartmice-newyear.png",
+      "offer_summary": "Проблема — аврал при подготовке. Предложение — готовые концепции, сценарии и оформление в бесплатном гайде.",
+      "cta_summary": "Ссылка на новогодний материал SMARTMICE. В повторной проверке страница вернула 403; старый разбор формы не подтверждает её работу сегодня.",
+      "conclusion": "Сильное: одно понятное действие и видимый результат скачивания. Риск: человек может хотеть идеи, но не подрядчика. Четыре поста с файлами не доказывают продажи."
+    },
+    {
+      "id": "smartmice-season",
+      "advertiser": "SMARTMICE: сезонность и срочность",
+      "publisher": "Event ru – все про ивенты и эвенты",
+      "url": "https://t.me/TheBestOfEventRu/10219",
+      "date": "2026-09-23T09:30:49+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "1.21K",
+      "reactions": [
+        "❤ 4",
+        "🔥 4",
+        "⚡ 3",
+        "👍 2",
+        "🎉 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "erid": [
+        "2VtzquyTA7v"
+      ],
+      "screenshot": "../assets/telegram-expanded/smartmice-season.png",
+      "offer_summary": "Заход через риск доплаты за срочность. Обещают таблицы, кейсы и советы по срокам; цифра «до 50%» — утверждение рекламодателя, нами не проверено.",
+      "cta_summary": "Действующая страница гайда о сроках и сезонности на smartmice.tech.",
+      "conclusion": "Сильное: тема связана с задачей закупки. Риск: обещание про экономию требует доказательства; цифру нельзя переносить в наше объявление."
+    },
+    {
+      "id": "smartmice-catalog1",
+      "advertiser": "SMARTMICE: каталог из 20 концепций",
+      "publisher": "Event ru – все про ивенты и эвенты",
+      "url": "https://t.me/TheBestOfEventRu/10275",
+      "date": "2026-10-01T09:34:17+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "1.14K",
+      "reactions": [
+        "❤ 5",
+        "👍 4",
+        "⚡ 3",
+        "🔥 1",
+        "🎉 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "erid": [
+        "2VtzqxQiS68"
+      ],
+      "screenshot": "../assets/telegram-expanded/smartmice-catalog1.png",
+      "offer_summary": "Готовые решения для событий на год; объём 118 страниц делает бесплатный материал конкретным.",
+      "cta_summary": "Действующая страница каталога концепций SMARTMICE. Два объявления ведут в один каталог с разными метками перехода.",
+      "conclusion": "Сильное: понятен состав материала. Риск: большой объём файла не доказывает пользу или коммерческий интерес читателя."
+    },
+    {
+      "id": "smartmice-catalog2",
+      "advertiser": "SMARTMICE: тот же каталог с другим заходом",
+      "publisher": "Event ru – все про ивенты и эвенты",
+      "url": "https://t.me/TheBestOfEventRu/10334",
+      "date": "2026-10-09T09:33:33+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "1.17K",
+      "reactions": [
+        "⚡ 5",
+        "👍 4",
+        "🔥 3",
+        "🤪 3",
+        "👏 2",
+        "🤣 2",
+        "❤ 1",
+        "🎉 1",
+        "👀 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "erid": [
+        "2VtzqvvaCpU"
+      ],
+      "screenshot": "../assets/telegram-expanded/smartmice-catalog2.png",
+      "offer_summary": "Предложение осталось прежним — бесплатный каталог; изменились первая фраза и оформление.",
+      "cta_summary": "Действующая страница каталога концепций SMARTMICE. Два объявления ведут в один каталог с разными метками перехода.",
+      "conclusion": "Второе размещение того же материала с другой первой фразой. Без кликов, заявок и сопоставимых условий победителя выбрать нельзя."
+    },
+    {
+      "id": "wize",
+      "advertiser": "Wize: один договор и документы",
+      "publisher": "Ивент идеи",
+      "url": "https://t.me/eventideasaroundtheworld/3377",
+      "date": "2026-10-27",
+      "verification": "confirmed_archival_marked",
+      "views_display": "596",
+      "reactions": [
+        "❤3",
+        "👍3",
+        "🔥2",
+        "🥰1"
+      ],
+      "metrics_asof": "archival_screenshot; capture_date_not_established",
+      "category": "event_adjacent",
+      "relevance_note": "Историческое внешнее рекламное объявление; текущие просмотры неизвестны. Причина недоступности не установлена. Рекламодатель совпадает с SMARTMICE по названию ООО/ИНН, но это отдельный продукт Wize.",
+      "erid": [],
+      "screenshot": "../assets/telegram-expanded/wize.png",
+      "offer_summary": "Предлагают покупать билеты по счёту и получать документы в одном кабинете; скидка до 10 000 рублей до 15 ноября.",
+      "cta_summary": "В архиве — переход к Wize. Оригинал поста сейчас недоступен; причины не установлены.",
+      "conclusion": "Названа административная задача покупателя: счёт, договор и документы. Коммерческий результат неизвестен."
+    },
+    {
+      "id": "silavetra",
+      "advertiser": "Сила ветра: корпоративная регата",
+      "publisher": "ИВЕНТ ИДЕИ",
+      "url": "https://t.me/eventideasaroundtheworld/3294",
+      "date": "2026-04-23T07:22:51+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "2.01K",
+      "reactions": [
+        "🔥 7",
+        "❤ 4",
+        "👍 4",
+        "🤮 1",
+        "💩 1",
+        "🤡 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "erid": [
+        "2W5zFH1zWJm"
+      ],
+      "screenshot": "../assets/telegram-expanded/silavetra.png",
+      "offer_summary": "Готовый формат события: регата, площадки, лекции, брендирование. Москва названа среди локаций.",
+      "cta_summary": "Переход на страницу корпоративных регат; на ней есть форматы, длительность и расчёт стоимости.",
+      "conclusion": "Сильное: рекламируется целое мероприятие, а не перечень инвентаря. Риск: нет стартовой цены в посте; летняя регата не аналог зимнего спектакля."
+    },
+    {
+      "id": "volodin",
+      "advertiser": "Продакшн Валерия Володина: рекламный кейс",
+      "publisher": "Event ru – все про ивенты и эвенты",
+      "url": "https://t.me/TheBestOfEventRu/10019",
+      "date": "2026-08-27T09:31:40+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "1.63K",
+      "reactions": [
+        "⚡ 8",
+        "🔥 7",
+        "❤ 6",
+        "👍 1",
+        "👏 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "erid": [
+        "2VtzqxcEvps"
+      ],
+      "screenshot": "../assets/telegram-expanded/volodin.png",
+      "offer_summary": "Предлагается оценить режиссёрское решение на конкретном проекте: площадка, постановка, оркестр, хор и балет.",
+      "cta_summary": "Ссылка на сайт команды; прямого предложения запросить расчёт или программу в тексте нет.",
+      "conclusion": "Сильное: результат показан на выполненном проекте. Слабое место: после просмотра не обозначен следующий коммерческий шаг. Это рекламный кейс — маркировка есть на видео и в ссылке."
+    },
+    {
+      "id": "party",
+      "advertiser": "ПатиРакеты и Neo Names: показ для ивентщиков",
+      "publisher": "ВМЕСТЕ",
+      "url": "https://t.me/eventvmeste/1796",
+      "date": "2026-09-29T07:36:01+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "1.12K",
+      "reactions": [
+        "1",
+        "💔 2",
+        "👍 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "erid": [],
+      "screenshot": "../assets/telegram-expanded/party.png",
+      "offer_summary": "Бесплатный вход на концерт двух коллективов; указаны дата, время и московский зал.",
+      "cta_summary": "Заполнить заявку → Telegram-бот partyrocketbot. Сценарий внутри бота не запускался.",
+      "conclusion": "Сильное: человеку дают возможность увидеть продукт. Риск: регистрация на бесплатный концерт не равна заказу выступления; организация собственного показа требует ресурсов."
+    },
+    {
+      "id": "avrora",
+      "advertiser": "Аврора: фестиваль как доказательство масштаба",
+      "publisher": "Событийная индустрия",
+      "url": "https://t.me/worldofevent/1267",
+      "date": "2026-07-10T07:01:58+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "480",
+      "reactions": [
+        "👍 3",
+        "🔥 2",
+        "❤ 1",
+        "👏 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "erid": [],
+      "screenshot": "../assets/telegram-expanded/avrora.png",
+      "offer_summary": "Длинный кейс с наградой, посещаемостью и участниками. Цифры даны автором объявления, независимо не проверены.",
+      "cta_summary": "В конце несколько сайтов, сообщество и контакт организатора; одного следующего действия нет.",
+      "conclusion": "Сильное: предметные детали вместо общих обещаний. Риск: большой объём текста и несколько направлений перехода; масштаб и регион не совпадают с приоритетом «Спектра»."
+    },
+    {
+      "id": "am",
+      "advertiser": "АМ Праздники: сезонный повод",
+      "publisher": "Красногорск Live",
+      "url": "https://t.me/krasnogorsk_live/52495",
+      "date": "2026-02-26T07:01:48+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "2.32K",
+      "reactions": [
+        "❤ 1",
+        "👍 1",
+        "👌 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "erid": [
+        "2Vtzqua7rip"
+      ],
+      "screenshot": "../assets/telegram-expanded/am.png",
+      "offer_summary": "Снять с клиента подготовку праздника; повод — 8 Марта. Предлагают сценарий, героев, шоу и оформление.",
+      "cta_summary": "Написать менеджеру в Telegram; в посте также ссылки на канал.",
+      "conclusion": "Сильное: сезонный повод и понятный состав. Слабое место: не указаны цена и длительность. Детские персонажи не подходят для переноса в рекламу взрослого спектакля."
+    },
+    {
+      "id": "catering",
+      "advertiser": "M.V. Catering: показать готовый продукт",
+      "publisher": "Одинцово LIVE",
+      "url": "https://t.me/Odintsovo_LIVE/22868",
+      "date": "2026-10-08T07:05:11+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "154",
+      "reactions": [],
+      "metrics_asof": "2026-11-02",
+      "category": "event_adjacent",
+      "relevance_note": "Смежный event-продукт. Полезен как пример структуры оффера, но не реклама прямого технического подрядчика или взрослого театра «Спектра».",
+      "erid": [],
+      "screenshot": "../assets/telegram-expanded/catering.png",
+      "offer_summary": "Фуршеты, ужины, свадьбы и корпоративы с обещанием снять организационные хлопоты. Бонусы названы без конкретных условий.",
+      "cta_summary": "Выбрать меню на сайте, указать дату; дополнительно даны телефон, VK и Telegram.",
+      "conclusion": "Сильное: продукт виден до чтения. Слабое место: общий первый тезис, нет минимального заказа; несколько контактов рассеивают выбор."
+    },
+    {
+      "id": "moreshow",
+      "advertiser": "МОРЕШОУ: три пакета с ценами",
+      "publisher": "Дети in Moscow | Москва",
+      "url": "https://t.me/detiinmoscow/8510",
+      "date": "2026-10-14T06:04:36+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "451",
+      "reactions": [
+        "❤ 7",
+        "👏 1",
+        "🎉 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "children_family",
+      "relevance_note": "Детский/семейный праздник. Подтверждённая реклама, но не референс взрослого корпоративного театра.",
+      "erid": [
+        "2W5zFGotxEV"
+      ],
+      "screenshot": "../assets/telegram-expanded/moreshow.png",
+      "offer_summary": "Снять подготовку с заказчика: костюмы, реквизит и музыка включены. Пакеты 16 000 / 36 000 / 92 000 рублей, транспорт отдельно.",
+      "cta_summary": "Написать в чат для подбора программы; дополнительно ссылка на фотографии праздников.",
+      "conclusion": "Сильное: можно сравнить состав и цену до обращения. Вопрос к предложению: макет ограничивает пакеты 10–20 участниками, тогда как текст обещает формат для целого класса. Необходимо уточнение условий."
+    },
+    {
+      "id": "global-besy",
+      "advertiser": "GLOBAL EFFECTS",
+      "publisher": "Журнал \"Шоу-Мастер\" о технологиях и людях",
+      "url": "https://t.me/showmaster_magazine/1475",
+      "date": "2026-02-20T09:19:43+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "81",
+      "reactions": [
+        "❤ 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "seller_manufacturer",
+      "relevance_note": "Производитель/поставщик сценических эффектов. Театральный кейс объясняет функцию техники, но не продаёт комплексный event-прокат.",
+      "erid": [
+        "2SDnjcmhM6y"
+      ],
+      "screenshot": "../assets/telegram-expanded/global-besy.png",
+      "offer_summary": "Объясняют, какое оборудование создаёт эффект и как оно работает в спектакле.",
+      "cta_summary": "Сайт производителя globaleffects.ru.",
+      "conclusion": "Настоящий рекламный кейс с ERID. Продают оборудование — это не реклама комплексного event-проката."
+    },
+    {
+      "id": "global-sirano",
+      "advertiser": "GLOBAL EFFECTS",
+      "publisher": "Журнал \"Шоу-Мастер\" о технологиях и людях",
+      "url": "https://t.me/showmaster_magazine/1477",
+      "date": "2026-02-20T09:23:06+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "88",
+      "reactions": [
+        "👍 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "seller_manufacturer",
+      "relevance_note": "Производитель/поставщик эффектов; театральный кейс, не рекламное предложение взрослого выездного театра.",
+      "erid": [
+        "2SDnjde7beZ"
+      ],
+      "screenshot": "../assets/telegram-expanded/global-sirano.png",
+      "offer_summary": "Показывают сценический результат и описывают конфетти-машины и системы сброса.",
+      "cta_summary": "Сайт производителя globaleffects.ru.",
+      "conclusion": "Связь техники с эффектом понятна. Заказы и продажи по публикации неизвестны."
+    },
+    {
+      "id": "scenapro",
+      "advertiser": "SCENA.PRO",
+      "publisher": "Журнал \"Шоу-Мастер\" о технологиях и людях",
+      "url": "https://t.me/showmaster_magazine/1486",
+      "date": "2026-02-24T17:59:09+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "117",
+      "reactions": [
+        "❤ 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "seller_manufacturer",
+      "relevance_note": "Производство/продажа сценических ферм и конструкций. Прямая ссылка на инженерную статью/категорию; аренда в объявлении не подтверждена.",
+      "erid": [
+        "2SDnjdeTmXo"
+      ],
+      "screenshot": "../assets/telegram-expanded/scenapro.png",
+      "offer_summary": "Инженерная статья о размерах, весе, опорах и монтаже.",
+      "cta_summary": "Полная статья ВК и раздел ферм на scenapro.ru.",
+      "conclusion": "Обучающий текст может быть рекламным: в ссылке есть ERID. Здесь предложение производителя конструкций."
+    },
+    {
+      "id": "energy-1809",
+      "advertiser": "Энергоконтинент",
+      "publisher": "Деньги в радость 😁",
+      "url": "https://t.me/money_But/1809",
+      "date": "2026-10-07T16:34:04+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "561",
+      "reactions": [
+        "👍 3",
+        "🔥 3",
+        "👏 3",
+        "👎 1",
+        "👀 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "generators_partial_overlap",
+      "relevance_note": "Генераторы и аренда в тексте; исходный shortlink02.11 ведёт на продажу компрессора Dali DLCY-18/17B-Y. Несоответствие объявления и посадочной. Не пример готовой воронки event-аренды.",
+      "erid": [
+        "j1SUnBZfpMiAYGMcu"
+      ],
+      "screenshot": "../assets/telegram-expanded/energy-1809.png",
+      "offer_summary": "Продажа и аренда генераторов, обслуживание и запчасти.",
+      "cta_summary": "На 02.11 ссылка ведёт на компрессор Dali DLCY-18/17B-Y.",
+      "conclusion": "Объявление и страница не совпадают. Не стоит брать эту связку как готовый образец."
+    },
+    {
+      "id": "energy-1823",
+      "advertiser": "Энергоконтинент",
+      "publisher": "Деньги в радость 😁",
+      "url": "https://t.me/money_But/1823",
+      "date": "2026-10-09T15:08:59+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "519",
+      "reactions": [
+        "👍 3",
+        "🔥 3",
+        "👏 3",
+        "👎 1",
+        "👀 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "generators_partial_overlap",
+      "relevance_note": "Текст предлагает продажу/аренду; ссылка 02.11 ведёт на продажу ДГУ 600 кВт. Промышленный спрос, не доказанный спрос организаторов мероприятий.",
+      "erid": [
+        "j1SUmXzQqi6xBPvsb"
+      ],
+      "screenshot": "../assets/telegram-expanded/energy-1823.png",
+      "offer_summary": "Перечень продажи, аренды и обслуживания генераторов.",
+      "cta_summary": "На 02.11 ссылка ведёт на продажу ДГУ 600 кВт.",
+      "conclusion": "Это промышленное предложение. Не подтверждает спрос event-агентств на аренду."
+    },
+    {
+      "id": "energy-1135",
+      "advertiser": "Энергоконтинент",
+      "publisher": "Министерство смеха",
+      "url": "https://t.me/smehmini/1135",
+      "date": "2026-10-10T15:09:04+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "516",
+      "reactions": [
+        "👍 3",
+        "🔥 3",
+        "👏 3",
+        "👎 1",
+        "👀 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "generators_partial_overlap",
+      "relevance_note": "Текст и ссылка совпали с арендой генераторов. Развлекательная площадка не доказывает наличие целевых агентств/HR.",
+      "erid": [
+        "j1SUmDRuPY9PduAn5"
+      ],
+      "screenshot": "../assets/telegram-expanded/energy-1135.png",
+      "offer_summary": "Покупка, аренда и обслуживание генераторов в развлекательном канале.",
+      "cta_summary": "Страница аренды генераторов — соответствует одному из предложений поста.",
+      "conclusion": "Ссылка подходит, но состав аудитории неизвестен. Одних просмотров для выбора площадки недостаточно."
+    },
+    {
+      "id": "gm-center",
+      "advertiser": "Джи Эм Центр",
+      "publisher": "Душа в Пути",
+      "url": "https://t.me/channel_soul_in_the_way/801",
+      "date": "2026-10-03T12:36:18+00:00",
+      "verification": "confirmed_live_marked",
+      "views_display": "1.46K",
+      "reactions": [
+        "🎉 27",
+        "❤ 20",
+        "👍 19",
+        "🔥 15",
+        "👏 15",
+        "🥰 1"
+      ],
+      "metrics_asof": "2026-11-02",
+      "category": "generators_partial_overlap",
+      "relevance_note": "В тексте продажа/аренда электростанций и промышленный кейс. Shortlink остановился на Yandex captcha; конечный сайт не установлен, защита не обходилась.",
+      "erid": [],
+      "screenshot": "../assets/telegram-expanded/gm-center.png",
+      "offer_summary": "Продажа, аренда, проектирование и сервис; приведён промышленный кейс.",
+      "cta_summary": "Короткая ссылка остановилась на проверке Яндекса. Конечная страница не установлена.",
+      "conclusion": "Реклама подтверждена, полный путь заявки — нет. Не считаем это проверенной связкой для мероприятий."
+    }
+  ],
+  "limitations": [
+    "Реестр охватывает известные41 компании и3 новых рекламодателей, а не весь Telegram.",
+    "Для11 из40 сайтов свежая страница не получена; старые связи отмечены датой, ошибки не равны отсутствию канала.",
+    "У LED Media/ArendaMedia принадлежность найденных каналов остаётся неподтверждённой.",
+    "Закрытые группы, Telegram Ads, удалённые публикации кроме сохранённогоWize, сторис и полная годовая история не восстановлены.",
+    "Лид Морфеуса в oteatre по поисковому кэшу не включён: в текущей ленте объявления нет, точный оригинал и дата не восстановлены.",
+    "Три новых примера датированы2025; не объявлены текущими кампаниями.",
+    "Доходность размещений и география подписчиков неизвестны."
+  ]
+}

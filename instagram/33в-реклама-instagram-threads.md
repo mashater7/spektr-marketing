@@ -59,7 +59,7 @@
 - Содержимое хайлайтов (сторис) без входа не открывается, видны только названия.
 - Threads: у 10 из 12 проверенных ников страница перенаправляет на вход. Обычно так бывает, если профиля нет. Отличить «нет профиля» от «закрыт» без входа нельзя.
 - Не нашли Instagram у mistervo.ru, rentalpoint.ru, zvuk4event.ru, plasmaonline.ru, svet-i-zvuk.ru, soundman24.ru, liga-vedu.ru, korpigra.ru, intrigani.ru, more-show.ru. На сайтах ссылок нет, вероятные ники пустые или чужие (`intrigani` — грузинский аккаунт, `more_show` — итальянский магазин, `mister_vo` — пустой, `rental_point` — прокат платьев).
-- В подвале ledmediagroup.ru стоит ссылка на `led.media.group`, но профиль удалён. Ник `ledmediagroup` — испанская компания, это не они.
+- Уточнение 02.11.2026: прежняя проверка ника `led.media.group` не доказывала отсутствие аккаунта. Подтверждён действующий [Instagram @led_media_group](https://www.instagram.com/led_media_group/): 35 265 подписчиков, в описании указан ledmediagroup.ru. Из него ведёт ссылка на [Threads @led_media_group](https://www.threads.com/@led_media_group): 816 подписчиков. Ник `ledmediagroup` относится к другой компании.
 
 ---
 
@@ -85,7 +85,7 @@
 | profiprazdnik.ru | profiprazdnik (подвал) | 462 | 57 | 30.01.2022 | не показаны | не найдено |
 | rentapro.ru | rentapro.ru | 15 | 2 | 22.11.2020 | — | не найдено |
 | arendamedia.com | arendamedia (? — подписан «Владимир Иванов», ссылки на сайт нет, принадлежность не подтверждена) | 227 | 8 | 26.06.2020 | — | — |
-| ledmediagroup.ru | led.media.group (подвал) — профиль удалён | — | — | — | — | — |
+| ledmediagroup.ru | [led_media_group](https://www.instagram.com/led_media_group/) — исправлено 02.11.2026 | 35 265 подписчиков | Профиль действует | LED-экраны и медиафасады | Новая выборка Reels не снималась | [Threads](https://www.threads.com/@led_media_group) |
 | mistervo, rentalpoint, zvuk4event, plasmaonline, svet-i-zvuk, soundman24 | не найдено | | | | | |
 | eventteatr.ru | eventteatr | 697 | 399 | 26.10.2026 | 2 145 / 600 (n=12) | не найдено |
 | dsgroup-event.ru | dsgroup_events (подвал) | 3 689 | 535 | 20.10.2026 | свежие: 1 521 / 711 (n=9); закрепы 34–40 тыс. | не найдено (в Ad Library есть «DS Group Холодильное оборудование KZ», это не они) |
